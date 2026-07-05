@@ -38,6 +38,10 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Malgun Gothic','Apple SD Go
 .b { font-size:11px; padding:2.5px 9px; border-radius:11px; font-weight:600; }
 .b.cat-road{background:#eef2ff;color:#4338ca}.b.cat-trail{background:#ecfdf5;color:#047857}.b.cat-triathlon{background:#fff7ed;color:#c2410c}.b.cat-swim{background:#eff6ff;color:#1d4ed8}.b.cat-cycling{background:#fdf4ff;color:#a21caf}
 .b.s-open{background:#dcfce7;color:#15803d}.b.s-soon{background:#dbeafe;color:#1e40af}.b.s-closed{background:#f3f4f6;color:#6b7280}.b.s-tbd{background:#fef3c7;color:#b45309}
+.b.b-new{background:#dc2626;color:#fff}
+.pill.new{background:rgba(255,255,255,.1)}
+.pill.new.on{background:#dc2626}
+.pill.new.on b{color:#fff}
 .note { font-size:11.5px; color:#9ca3af; margin-top:6px; }
 .reg { font-size:11.5px; color:#15803d; margin-top:4px; font-weight:600; }
 .empty { text-align:center; color:#9ca3af; padding:50px 0; font-size:13px; }
@@ -93,7 +97,9 @@ function render(){
   const openN = DATA.events.filter(e=>e.status==="접수중").length;
   const soonN = DATA.events.filter(e=>e.status==="접수예정").length;
   const m30 = DATA.events.filter(e=>{const d=dday(e.date);return d&&d.t!=="종료"&&!d.far;}).length;
+  const newN = DATA.events.filter(e=>e.justOpened).length;
   pills.innerHTML = `<span class="pill">총 <b>${DATA.events.length}</b>개 대회</span>
+    <span class="pill new${newN?" on":""}">🆕 오늘 새로 열림 <b>${newN}</b></span>
     <span class="pill">접수중 <b>${openN}</b></span>
     <span class="pill">접수예정 <b>${soonN}</b></span>
     <span class="pill">30일 내 개최 <b>${m30}</b></span>
@@ -142,6 +148,7 @@ function render(){
       </div>
       <div class="info">📅 ${dateLabel(e.date)} · 📍 ${esc(e.loc)}${e.courses?`<br>${esc(e.courses)}`:""}</div>
       <div class="badges">
+        ${e.justOpened?'<span class="b b-new">🆕 오늘 접수 시작</span>':""}
         <span class="b cat-${e.cat}">${(CATS[e.cat]||e.cat).replace(/^[^\s]+ /,"")}</span>
         <span class="b ${STATUS_CLS[e.status]||"s-tbd"}">${esc(e.status)}</span>
       </div>
