@@ -22,6 +22,11 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Malgun Gothic','Apple SD Go
 .row2 { display:flex; gap:6px; flex-wrap:wrap; align-items:center; margin-bottom:12px; }
 .chip { padding:5px 11px; border-radius:13px; border:1px solid #d1d5db; background:#fff; font-size:12px; cursor:pointer; font-family:inherit; }
 .chip.on { border-color:var(--accent); background:#f0fdfa; color:var(--accent); font-weight:600; }
+.chip.fav.on { border-color:#f59e0b; background:#fffbeb; color:#b45309; }
+.topright { display:flex; align-items:center; gap:6px; white-space:nowrap; }
+.star { background:none; border:none; cursor:pointer; font-size:16px; line-height:1; padding:0; filter:grayscale(1); opacity:.3; transition:.15s; }
+.star:hover { opacity:.6; }
+.star.on { filter:none; opacity:1; }
 #q { flex:1; min-width:150px; padding:8px 12px; border:1px solid #d1d5db; border-radius:9px; font-size:13px; font-family:inherit; }
 .month { font-size:13px; font-weight:800; color:var(--sub); margin:20px 2px 8px; letter-spacing:.3px; }
 .grid { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
@@ -71,6 +76,10 @@ let DATA = {events:[], lastUpdated:"-"};
 let curCat = localStorage.getItem("rh_cat") || "all";
 let curSt = localStorage.getItem("rh_st") || "all";
 let q = "";
+let favOnly = false;
+const FAV = new Set(JSON.parse(localStorage.getItem("rh_fav")||"[]"));
+function favKey(e){ return (e.name||"")+"|"+(e.date||""); }
+function saveFav(){ localStorage.setItem("rh_fav", JSON.stringify([...FAV])); }
 const TODAY = new Date(); TODAY.setHours(0,0,0,0);
 
 function dday(ds){
@@ -121,9 +130,16 @@ function render(){
     c.onclick = ()=>{curSt=s; localStorage.setItem("rh_st",s); render();};
     st.appendChild(c);
   });
+  const favN = DATA.events.filter(e=>FAV.has(favKey(e))).length;
+  const fc = document.createElement("button");
+  fc.className = "chip fav"+(favOnly?" on":"");
+  fc.textContent = "⭐ 관심 "+favN;
+  fc.onclick = ()=>{favOnly=!favOnly; render();};
+  st.appendChild(fc);
   let list = DATA.events.filter(e=>
     (curCat==="all"||e.cat===curCat) &&
     (curSt==="all"||e.status===curSt) &&
+    (!favOnly || FAV.has(favKey(e))) &&
     (!q || e.name.toLowerCase().includes(q) || (e.loc||"").toLowerCase().includes(q))
   );
   list.sort((a,b)=>((a.date||"9999")).localeCompare(b.date||"9999"));
@@ -144,7 +160,7 @@ function render(){
     card.innerHTML = `
       <div class="top">
         <h3>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.name)}</a>`:esc(e.name)}</h3>
-        ${dd?`<span class="dday${dd.far?" far":""}">${dd.t}</span>`:""}
+        <span class="topright">${dd?`<span class="dday${dd.far?" far":""}">${dd.t}</span>`:""}<button class="star${FAV.has(favKey(e))?" on":""}" data-k="${esc(favKey(e))}" title="관심 대회 등록/해제">⭐</button></span>
       </div>
       <div class="info">📅 ${dateLabel(e.date)} · 📍 ${esc(e.loc)}${e.courses?`<br>${esc(e.courses)}`:""}</div>
       <div class="badges">
@@ -160,6 +176,12 @@ function render(){
   document.getElementById("foot").innerHTML = `데이터 출처: roadrun.co.kr · triathlon.or.kr · 수동 관리 목록${log?`<br>${esc(log)}`:""}<br>대회 정보는 변동될 수 있으니 신청 전 반드시 공식 홈페이지를 확인하세요.`;
 }
 document.getElementById("q").addEventListener("input",ev=>{q=ev.target.value.trim().toLowerCase();render();});
+document.getElementById("list").addEventListener("click",ev=>{
+  const b = ev.target.closest(".star"); if(!b) return;
+  const k = b.getAttribute("data-k");
+  if(FAV.has(k)) FAV.delete(k); else FAV.add(k);
+  saveFav(); render();
+});
 fetch("data.json?t="+Date.now()).then(r=>r.json()).then(d=>{DATA=d;render();})
   .catch(()=>{document.getElementById("list").innerHTML='<div class="empty">data.json을 불러올 수 없습니다</div>';});
 </script>
