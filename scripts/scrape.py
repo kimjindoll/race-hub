@@ -6,7 +6,7 @@
 + manual_events.json (수동 관리 목록: 자전거·수영 등 수집 밖 대회)
 결과: data.json 갱신. 소스 하나가 실패해도 나머지는 유지된다.
 """
-import json, re, sys, unicodedata
+import json, re, sys, unicodedata, calendar
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -43,12 +43,23 @@ def guess_year(month, day):
     return f"{y:04d}-{month:02d}-{day:02d}"
 
 
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+
 def fetch(url, encoding=None):
-    r = requests.get(url, headers=HEADERS, timeout=30)
+    r = SESSION.get(url, timeout=30)
     r.raise_for_status()
     if encoding:
         r.encoding = encoding
     return r.text
+
+
+def _kdate(y, mo, d):
+    """messy 날짜 방어 파싱 (예: 6월31일 → 6월30일로 보정)"""
+    mo = min(max(mo, 1), 12)
+    d = min(max(d, 1), calendar.monthrange(y, mo)[1])
+    return datetime(y, mo, d).date()
 
 
 # ---------------- 소스 1: roadrun.co.kr ----------------
@@ -99,8 +110,31 @@ def scrape_roadrun():
             "name": name, "cat": "trail" if TRAIL_KW.search(name + " " + txt) else "road",
             "date": date, "loc": loc or "홈페이지 참조", "courses": courses,
             "status": "확인필요", "reg": None, "url": url,
-            "note": None, "src": "roadrun",
+            "note": None, "src": "roadrun", "_no": no.group(1),
         })
+    # 상세페이지에서 접수기간을 읽어 접수 상태를 정밀화 (실패한 대회는 확인필요 유지)
+    for e in events:
+        no = e.pop("_no", None)
+        if not no:
+            continue
+        try:
+            dtxt = BeautifulSoup(
+                fetch(f"http://www.roadrun.co.kr/schedule/view.php?no={no}", encoding="euc-kr"),
+                "html.parser",
+            ).get_text(" ", strip=True)
+            rm = re.search(
+                r"접수기간\s*(\d{4})년\s*(\d{1,2})월\s*(\d{1,2})일\s*~\s*(\d{4})년\s*(\d{1,2})월\s*(\d{1,2})일",
+                dtxt,
+            )
+            if rm:
+                s = _kdate(int(rm.group(1)), int(rm.group(2)), int(rm.group(3)))
+                en = _kdate(int(rm.group(4)), int(rm.group(5)), int(rm.group(6)))
+                e["reg"] = f"{s.year}.{s.month}.{s.day} ~ {en.year}.{en.month}.{en.day}"
+                e["status"] = "접수예정" if TODAY < s else ("접수중" if TODAY <= en else "접수마감")
+            elif re.search(r"접수기간\s*상시|상시\s*접수", dtxt):
+                e["status"], e["reg"] = "접수중", "상시 접수"
+        except Exception:
+            pass
     if len(events) < 5:
         raise RuntimeError(f"roadrun 파싱 결과가 비정상적으로 적음: {len(events)}")
     return events
@@ -198,7 +232,7 @@ def main():
     prev_status = {norm_key(e.get("name", "")): e.get("status") for e in prev.get("events", [])}
     for e in events:
         was = prev_status.get(norm_key(e["name"]))
-        e["justOpened"] = bool(e.get("status") == "접수중" and was is not None and was != "접수중")
+        e["justOpened"] = bool(e.get("status") == "접수중" and was == "접수예정")
 
     out = {
         "lastUpdated": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
