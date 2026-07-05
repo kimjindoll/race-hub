@@ -194,6 +194,12 @@ def main():
     events = [e for e in merged.values() if not is_past(e)]
     events.sort(key=lambda e: e.get("date") or "9999")
 
+    # 신규 접수 시작 감지: 이전 실행에서 접수중이 아니었다가 이번에 접수중이 된 대회
+    prev_status = {norm_key(e.get("name", "")): e.get("status") for e in prev.get("events", [])}
+    for e in events:
+        was = prev_status.get(norm_key(e["name"]))
+        e["justOpened"] = bool(e.get("status") == "접수중" and was is not None and was != "접수중")
+
     out = {
         "lastUpdated": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
         "sourceLog": log,
