@@ -1,36 +1,10 @@
 {
- "lastUpdated": "2026-07-05 20:59",
+ "lastUpdated": "2026-07-06 21:16",
  "sourceLog": {
-  "roadrun": "성공 (130건)",
+  "roadrun": "성공 (133건)",
   "triathlon.or.kr": "성공 (28건)"
  },
  "events": [
-  {
-   "name": "제10회 노원구청장배 겸 회장배마라톤",
-   "cat": "road",
-   "date": "2026-07-05",
-   "loc": "창동교 나눔의 광장 노원구 노원구육상경기연맹",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.1.25 ~ 2026.5.31",
-   "url": "http://www.nowonmarathon.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제8회안산인왕산북악산TRAILRUN",
-   "cat": "trail",
-   "date": "2026-07-05",
-   "loc": "연세대학교 정문 (사)한국산악마라톤연맹",
-   "courses": "11km",
-   "status": "접수마감",
-   "reg": "2025.11.13 ~ 2026.6.27",
-   "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250821124548&csno=20220326200847#baseline",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 챌린지 군산-새만금",
    "cat": "triathlon",
@@ -603,6 +577,19 @@
    "justOpened": false
   },
   {
+   "name": "사우나런 in 뚝섬한강공원",
+   "cat": "road",
+   "date": "2026-08-31",
+   "loc": "뚝섬한강공원 인근 사우나런",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.6 ~ 2026.8.31",
+   "url": "http://saunarun.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 다이나핏 태백 트레일",
    "cat": "trail",
    "date": "2026-09-05",
@@ -1027,10 +1014,10 @@
    "name": "2026 JUST RUN10 김해 대동",
    "cat": "road",
    "date": "2026-09-19",
-   "loc": "김해 대동생태체육공원 축구장 대동면 체육회, 전국러닝협회",
+   "loc": "김해 대동생태체육공원 축구장 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.3 ~ 2026.8.2",
+   "reg": "2026.7.3 ~ 2026.7.31",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1126,17 +1113,30 @@
    "justOpened": false
   },
   {
+   "name": "2026 인천송도국제하프마라톤",
+   "cat": "road",
+   "date": "2026-09-20",
+   "loc": "송도인천대캠퍼스 정문앞 (주)경인일보",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.8 ~ 2026.8.7",
+   "url": "http://songdorun.net",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 안산마라톤",
    "cat": "road",
    "date": "2026-09-20",
    "loc": "대부향기테마파크 안산시체육",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.6 ~ 2026.7.20",
    "url": "http://ansanrun.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제2회 마포구청장배 마라톤 대회",
@@ -1808,8 +1808,8 @@
    "date": "2026-10-18",
    "loc": "광화문 광장(예정) 아시아투데이",
    "courses": "하프, 10km",
-   "status": "접수마감",
-   "reg": "2026.4.14 ~ 2026.5.18",
+   "status": "확인필요",
+   "reg": null,
    "url": "http://asiarun.kr/",
    "note": null,
    "src": "roadrun",
@@ -2060,7 +2060,7 @@
    "loc": "김천종합스포츠타운 김천시체육회, 매일신문사",
    "courses": "하프, 10km, 5km",
    "status": "접수예정",
-   "reg": "2026.7.6 ~ 2026.9.18",
+   "reg": "2026.7.15 ~ 2026.9.18",
    "url": "http://gcmarathon.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2152,6 +2152,19 @@
    "status": "접수중",
    "reg": "2026.7.2 ~ 2026.9.30",
    "url": "http://cafe.naver.com/seoultrailrun/?viewType=pc",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 과천마라톤",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "관문체육공원 과천시체육회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.20 ~ 2026.7.31",
+   "url": "http://gcrun.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
