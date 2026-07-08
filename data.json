@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-07-07 17:58",
+ "lastUpdated": "2026-07-08 09:16",
  "sourceLog": {
   "roadrun": "성공 (139건)",
   "triathlon.or.kr": "성공 (28건)"
@@ -1144,12 +1144,12 @@
    "date": "2026-09-20",
    "loc": "송도인천대캠퍼스 정문앞 (주)경인일보",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.8 ~ 2026.8.7",
    "url": "http://songdorun.net",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 안산마라톤",
@@ -1488,12 +1488,12 @@
    "date": "2026-10-05",
    "loc": "상암동 평화의공원 평화광장 (주)일요신문사 (주)비즈한국",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.8 ~ 2026.8.27",
    "url": "http://www.runsense.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울오픈마라톤",
@@ -2383,12 +2383,12 @@
    "date": "2026-11-21",
    "loc": "커플런,단체전(5인1조) 하남 미사리 조정경기장 주식회사 세정",
    "courses": "10km, 5km, 10k",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.8 ~ 2026.11.7",
    "url": "http://urfesta.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 남원 춘향 전국 마라톤대회",
