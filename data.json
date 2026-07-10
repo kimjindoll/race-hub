@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-08 09:16",
+ "lastUpdated": "2026-07-10 17:53",
  "sourceLog": {
-  "roadrun": "성공 (139건)",
+  "roadrun": "성공 (153건)",
   "triathlon.or.kr": "성공 (28건)"
  },
  "events": [
@@ -209,6 +209,19 @@
    "justOpened": false
   },
   {
+   "name": "순천만국가정원 챌린지가든런",
+   "cat": "road",
+   "date": "2026-07-25",
+   "loc": "순천만국가정원 동문 순천만국가정원",
+   "courses": "10km",
+   "status": "접수중",
+   "reg": "2026.7.9 ~ 2026.7.17",
+   "url": "http://projectruntrip.com/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "사우나런 in 올림픽공원",
    "cat": "road",
    "date": "2026-07-31",
@@ -339,7 +352,7 @@
    "name": "영남알프스9봉 트레일 레이스",
    "cat": "trail",
    "date": "2026-08-15",
-   "loc": "9봉 5봉 청운산장 JYD자연을달린다",
+   "loc": "9봉 5봉 가늘산장 JYD자연을달린다",
    "courses": "87k, 45k",
    "status": "접수중",
    "reg": "2026.4.1 ~ 2026.7.15",
@@ -405,7 +418,7 @@
    "date": "2026-08-22",
    "loc": "경기 이천 설봉저수지",
    "courses": "스탠다드(올림픽코스)",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2104",
    "note": "8/22~23, 현재 592명 신청",
@@ -961,7 +974,7 @@
    "justOpened": false
   },
   {
-   "name": "제 16회 스마일 런 페스티벌",
+   "name": "제16회 스마일 런 페스티벌",
    "cat": "road",
    "date": "2026-09-13",
    "loc": "걷기 상암동 평화의공원 평화광장 (사)대한치과의사협회",
@@ -1139,6 +1152,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 울산남구육상연맹 회장배 단축마라톤",
+   "cat": "road",
+   "date": "2026-09-20",
+   "loc": "태화강국가정원 내 왕버들 공연 울산광역시 남구 육상연맹",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.15 ~ 2026.7.30",
+   "url": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 인천송도국제하프마라톤",
    "cat": "road",
    "date": "2026-09-20",
@@ -1149,7 +1175,7 @@
    "url": "http://songdorun.net",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 안산마라톤",
@@ -1301,6 +1327,19 @@
    "reg": null,
    "url": "https://www.xcworks.com/sub/race.html",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 마스터즈 하프 마라톤",
+   "cat": "road",
+   "date": "2026-10-03",
+   "loc": "상암 월드컵공원 평화광장 (사)사회안전예방중앙회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.7 ~ 2026.9.21",
+   "url": "http://mastershalf.kr/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1483,6 +1522,19 @@
    "justOpened": false
   },
   {
+   "name": "제12회 시흥시 전국하프마라톤",
+   "cat": "road",
+   "date": "2026-10-05",
+   "loc": "한국공학대학교 제2캠퍼스 경기일보, 시흥시체육회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.22 ~ 2026.7.22",
+   "url": "http://shmarathon.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "런센스 2026",
    "cat": "road",
    "date": "2026-10-05",
@@ -1493,7 +1545,7 @@
    "url": "http://www.runsense.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울오픈마라톤",
@@ -1560,17 +1612,30 @@
    "justOpened": false
   },
   {
+   "name": "제4회 강서허준런(RUN)",
+   "cat": "road",
+   "date": "2026-10-10",
+   "loc": "패밀리런 서울식물원 초지원 강서구",
+   "courses": "10km, 5km, 3km",
+   "status": "접수중",
+   "reg": "2026.7.9 ~ 2026.7.17",
+   "url": "http://강서허준런.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제3회 성동구연맹회장기 마라톤",
    "cat": "road",
    "date": "2026-10-10",
    "loc": "살곶이대운동장(축구장) 성동구체육회 / 성동구육상연맹",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.10 ~ 2026.8.30",
    "url": "http://samsamis.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제5회 구미시장배 금오산트레일 레이스",
@@ -1647,6 +1712,32 @@
    "reg": "본접수 5/27~ 선착순",
    "url": "https://www.kormarathon.com/ko/races/2026-seoul-race",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 문경 오미자 하프마라톤",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "문경시민운동장 영남일보",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.10 ~ 2026.8.28",
+   "url": "http://mgmarathon.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 핑크런",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "상암월드컵공원 평화광장 한국유방건강재단",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.27 ~ 2026.8.7",
+   "url": "http://www.pinkrun.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1748,6 +1839,32 @@
    "reg": "2차 7/24 09:00~ 선착순",
    "url": "https://www.tongyeongfondo.com",
    "note": "2,500명, 매년 조기마감",
+   "justOpened": false
+  },
+  {
+   "name": "2026 경청마라톤",
+   "cat": "road",
+   "date": "2026-10-17",
+   "loc": "신정교 하부 영롱이 억새구장 (사)행복한동행",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.7 ~ 2026.10.7",
+   "url": "http://storyrun.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제7회 충청남도 태안 전국어울림마라톤",
+   "cat": "road",
+   "date": "2026-10-17",
+   "loc": "장애인부 태안군 안면읍 꽃지해수욕장 일 충청남도장애인체육회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.22 ~ 2026.9.17",
+   "url": "http://www.충남전국어울림마라톤.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1902,6 +2019,32 @@
    "reg": "추가접수 7/6",
    "url": "http://speedagency.kr",
    "note": "추가접수 임박!",
+   "justOpened": false
+  },
+  {
+   "name": "2026 하남 어텀 패밀리 마라톤",
+   "cat": "road",
+   "date": "2026-10-24",
+   "loc": "하남 미사 경정 공원 청운의꿈(주)",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.7 ~ 2026.10.14",
+   "url": "http://hnrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 경기옛길 함께RUN",
+   "cat": "road",
+   "date": "2026-10-24",
+   "loc": "도농체육공원 경기도",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.9 ~ 2026.8.8",
+   "url": "http://ggcrun.kr/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2080,6 +2223,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 DMZ OPEN 평화마라톤",
+   "cat": "road",
+   "date": "2026-11-01",
+   "loc": "파주 임진각 평화누리 일원 경기도",
+   "courses": "하프, 10km",
+   "status": "접수예정",
+   "reg": "2026.8.1 ~ 2026.8.1",
+   "url": "http://dmzopenrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 무안 해안 노을길 걷기 및 마라톤",
    "cat": "road",
    "date": "2026-11-01",
@@ -2111,12 +2267,12 @@
    "date": "2026-11-01",
    "loc": "패밀리런 대전 뿌리공원 잔디광장 대전시 중구 육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.10 ~ 2026.7.31",
    "url": "http://www.djmarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제21회 울산인권마라톤",
@@ -2339,13 +2495,26 @@
    "justOpened": false
   },
   {
+   "name": "2026 9회 서울평화마라톤",
+   "cat": "road",
+   "date": "2026-11-15",
+   "loc": "신정교하부육상트랙구장 서울자주통일평화연대",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.8 ~ 2026.10.16",
+   "url": "http://seoultongilrun.org",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제24회 고창고인돌마라톤",
    "cat": "road",
    "date": "2026-11-15",
    "loc": "고창공설운동장 고창군체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.1 ~ 2026.8.31",
+   "status": "접수마감",
+   "reg": "2026.7.1 ~ 2026.7.9",
    "url": "http://www.gcrun.com",
    "note": null,
    "src": "roadrun",
@@ -2388,7 +2557,7 @@
    "url": "http://urfesta.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 남원 춘향 전국 마라톤대회",
@@ -2404,10 +2573,23 @@
    "justOpened": false
   },
   {
+   "name": "목욕런 2026",
+   "cat": "road",
+   "date": "2026-11-28",
+   "loc": "월드컵공원 평화의 광장 사우나 민족",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.10 ~ 2026.8.30",
+   "url": "http://mokyokrun.shop",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 전국마라톤협회 금산 골드런 마라톤",
    "cat": "road",
    "date": "2026-12-05",
-   "loc": "금산 전국마라톤협회",
+   "loc": "금산 엑스포 주차장 전국마라톤협회",
    "courses": "5km, 12km",
    "status": "접수중",
    "reg": "2026.7.2 ~ 2026.9.1",
