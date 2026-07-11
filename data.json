@@ -1,23 +1,10 @@
 {
- "lastUpdated": "2026-07-10 17:53",
+ "lastUpdated": "2026-07-11 09:14",
  "sourceLog": {
   "roadrun": "성공 (153건)",
   "triathlon.or.kr": "성공 (28건)"
  },
  "events": [
-  {
-   "name": "2026 챌린지 군산-새만금",
-   "cat": "triathlon",
-   "date": "2026-07-10",
-   "loc": "전북 군산 새만금방조제",
-   "courses": "미들 디스턴스 철인3종",
-   "status": "접수마감",
-   "reg": null,
-   "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2070",
-   "note": "7/10~12, 챌린지패밀리 승인 대회",
-   "src": "ktf",
-   "justOpened": false
-  },
   {
    "name": "2026 LOTTE 아쿠아슬론",
    "cat": "triathlon",
@@ -189,7 +176,7 @@
    "date": "2026-07-19",
    "loc": "화물터미널 청계산옛골 (사)한국산악마라톤연맹",
    "courses": "하프, 12km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2025.10.20 ~ 2026.7.10",
    "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250821130406&csno=20190812093657#baseline",
    "note": null,
@@ -1635,7 +1622,7 @@
    "url": "http://samsamis.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제5회 구미시장배 금오산트레일 레이스",
@@ -2272,7 +2259,7 @@
    "url": "http://www.djmarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제21회 울산인권마라톤",
