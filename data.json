@@ -1,48 +1,10 @@
 {
- "lastUpdated": "2026-07-12 08:39",
+ "lastUpdated": "2026-07-13 08:38",
  "sourceLog": {
   "roadrun": "성공 (153건)",
   "triathlon.or.kr": "성공 (28건)"
  },
  "events": [
-  {
-   "name": "2026 울릉도 국제 트레일러닝",
-   "cat": "trail",
-   "date": "2026-07-12",
-   "loc": "경북 울릉군 (해담길 일대)",
-   "courses": "40K/27K",
-   "status": "접수마감",
-   "reg": null,
-   "url": "http://osk.run/",
-   "note": "400명 한정",
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제12회 제주시체육회장배 바다수영대회",
-   "cat": "swim",
-   "date": "2026-07-12",
-   "loc": "제주 이호테우해수욕장",
-   "courses": "바다수영",
-   "status": "접수마감",
-   "reg": "6/1~6/14",
-   "url": "https://blog.naver.com/nike419v/224303487565",
-   "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "2026 광제산 트레일 런",
-   "cat": "trail",
-   "date": "2026-07-12",
-   "loc": "홍지소류지(진주 명석면 계원리 진주시육상연맹",
-   "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.12 ~ 2026.6.25",
-   "url": "http://www.trailrun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 코리아 나이트 런 태백",
    "cat": "trail",
@@ -1158,12 +1120,12 @@
    "date": "2026-09-20",
    "loc": "코스 미사 조정경기장 한돈자조금위원회, 런코리아",
    "courses": "10km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.13 ~ 2026.8.30",
    "url": "http://handonrun.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026(20회) 선사마라톤 축제",
@@ -1386,12 +1348,12 @@
    "date": "2026-10-04",
    "loc": "창원종합운동장 보조경기장 (주)경남신문사",
    "courses": "10km, 3km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.13 ~ 2026.8.29",
    "url": "http://www.knmarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 파주북시티마라톤",
