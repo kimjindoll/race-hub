@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-07-13 08:38",
+ "lastUpdated": "2026-07-14 08:39",
  "sourceLog": {
   "roadrun": "성공 (153건)",
   "triathlon.or.kr": "성공 (28건)"
@@ -1125,7 +1125,7 @@
    "url": "http://handonrun.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026(20회) 선사마라톤 축제",
@@ -1353,7 +1353,7 @@
    "url": "http://www.knmarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 파주북시티마라톤",
@@ -1836,7 +1836,7 @@
    "date": "2026-10-18",
    "loc": "대청공원 대덕구",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.10 ~ 2026.7.13",
    "url": "http://www.dcmarathon.or.kr/",
    "note": null,
@@ -1964,12 +1964,12 @@
    "date": "2026-10-24",
    "loc": "익산시종합운동장 (사)크레파스",
    "courses": "10km, 6.4km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.14 ~ 2026.8.31",
    "url": "http://iksangiverun.or.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 제3회 감성런",
@@ -2014,7 +2014,7 @@
    "date": "2026-10-25",
    "loc": "가족런 2~5인,커플런 광명역 일원 광명시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.1 ~ 2026.7.13",
    "url": "http://gmrun.kr",
    "note": null,
