@@ -1,8 +1,8 @@
 {
- "lastUpdated": "2026-07-14 08:39",
+ "lastUpdated": "2026-07-15 08:38",
  "sourceLog": {
-  "roadrun": "성공 (153건)",
-  "triathlon.or.kr": "성공 (28건)"
+  "roadrun": "성공 (161건)",
+  "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
   {
@@ -527,6 +527,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 시흥시장배 거북섬 전국 철인3종대회",
+   "cat": "triathlon",
+   "date": "2026-09-04",
+   "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06",
+   "courses": null,
+   "status": "접수예정",
+   "reg": null,
+   "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2098&page=1&sYear=2026&vType=list&field=&keyword=",
+   "note": null,
+   "src": "ktf",
+   "justOpened": false
+  },
+  {
    "name": "2026 다이나핏 태백 트레일",
    "cat": "trail",
    "date": "2026-09-05",
@@ -658,7 +671,7 @@
    "date": "2026-09-05",
    "loc": "제주도 제주시 김녕해수욕장 인근",
    "courses": "김녕해수욕장 인근",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2110&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
@@ -846,6 +859,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 히어로레이스",
+   "cat": "road",
+   "date": "2026-09-13",
+   "loc": "여의도공원 문화의마당 MBN",
+   "courses": "15km, 7.5km",
+   "status": "접수중",
+   "reg": "2026.7.14 ~ 2026.8.14",
+   "url": "http://web.runit.co.kr/races/1120",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026포항이차전지전국마라톤",
    "cat": "road",
    "date": "2026-09-13",
@@ -948,6 +974,19 @@
    "justOpened": false
   },
   {
+   "name": "제4회 문경 오미자런",
+   "cat": "road",
+   "date": "2026-09-19",
+   "loc": "문경종합온천 문경시, 문경시 청년센터",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.13 ~ 2026.8.3",
+   "url": "http://www.omijarun.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 안양천 하프 마라톤",
    "cat": "road",
    "date": "2026-09-19",
@@ -969,6 +1008,19 @@
    "status": "접수중",
    "reg": "2026.7.3 ~ 2026.7.31",
    "url": "http://runten.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제2회 경기신문 씨사이드 마라톤",
+   "cat": "road",
+   "date": "2026-09-19",
+   "loc": "영종구 씨사이드파크 일원 경기신문",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.13 ~ 2026.8.31",
+   "url": "http://kgseasiderun.co.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1068,12 +1120,12 @@
    "date": "2026-09-20",
    "loc": "태화강국가정원 내 왕버들 공연 울산광역시 남구 육상연맹",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.15 ~ 2026.7.30",
    "url": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 인천송도국제하프마라톤",
@@ -1238,6 +1290,19 @@
    "reg": null,
    "url": "https://www.xcworks.com/sub/race.html",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 JUST RUN10 청주",
+   "cat": "road",
+   "date": "2026-10-03",
+   "loc": "무심천체육공원 (주)러닝브레이커, 전국러닝협",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.14 ~ 2026.8.14",
+   "url": "http://runten.co.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1454,6 +1519,19 @@
    "status": "접수중",
    "reg": "2026.7.8 ~ 2026.8.27",
    "url": "http://www.runsense.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 한경서울마라톤",
+   "cat": "road",
+   "date": "2026-10-05",
+   "loc": "여의도 문화의공원 일원 한경닷컴/런코리아",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.14 ~ 2026.9.14",
+   "url": "http://www.hk-marathon.com/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1969,7 +2047,7 @@
    "url": "http://iksangiverun.or.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 제3회 감성런",
@@ -2110,6 +2188,19 @@
    "justOpened": false
   },
   {
+   "name": "제22회 울진 트라이애슬론 대회",
+   "cat": "triathlon",
+   "date": "2026-10-31",
+   "loc": "울진군 후포면 요트경기장 2026.10.31 ~ 11.01 심판",
+   "courses": null,
+   "status": "접수예정",
+   "reg": null,
+   "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2111&page=1&sYear=2026&vType=list&field=&keyword=",
+   "note": null,
+   "src": "ktf",
+   "justOpened": false
+  },
+  {
    "name": "2026 진도 해안도로랠리 자전거대회",
    "cat": "cycling",
    "date": "2026-11",
@@ -2165,12 +2256,12 @@
    "date": "2026-11-01",
    "loc": "김천종합스포츠타운 김천시체육회, 매일신문사",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.15 ~ 2026.9.18",
    "url": "http://gcmarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제2회 대전 신채호 마라톤",
@@ -2276,6 +2367,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 부산 헤리티지 런",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "다대포 해수욕장 아시아경제",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.11 ~ 2026.8.31",
+   "url": "http://heritage.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제11회 송파구청장배 마라톤",
    "cat": "road",
    "date": "2026-11-08",
@@ -2337,6 +2441,32 @@
    "reg": null,
    "url": "https://blog.naver.com/nayasunhihi/224336966926",
    "note": "공식 접수 정보 확인 필요",
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제28회 부산국제마라톤",
+   "cat": "road",
+   "date": "2026-11-15",
+   "loc": "부산시 사하구 다대포해수욕장 국제신문",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.20 ~ 2026.9.15",
+   "url": "http://kjmarathon.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 제주감귤마라톤",
+   "cat": "road",
+   "date": "2026-11-15",
+   "loc": "조천운동장 한라일보",
+   "courses": "풀, 하프, 10km",
+   "status": "접수중",
+   "reg": "2026.7.6 ~ 2026.9.11",
+   "url": "http://marathon.ihalla.com",
+   "note": null,
    "src": "roadrun",
    "justOpened": false
   },
