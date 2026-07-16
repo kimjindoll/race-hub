@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-15 08:38",
+ "lastUpdated": "2026-07-16 09:13",
  "sourceLog": {
-  "roadrun": "성공 (161건)",
+  "roadrun": "성공 (167건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -265,7 +265,7 @@
    "date": "2026-08-15",
    "loc": "9봉 5봉 가늘산장 JYD자연을달린다",
    "courses": "87k, 45k",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.1 ~ 2026.7.15",
    "url": "http://jyd.creatorlink.net",
    "note": null,
@@ -488,6 +488,19 @@
    "justOpened": false
   },
   {
+   "name": "제16회 성북구청장배육상대회",
+   "cat": "road",
+   "date": "2026-08-30",
+   "loc": "성북구 중랑천 체육공원 성북구육상연맹",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.15 ~ 2026.8.10",
+   "url": "http://cafe.naver.com/sblovemarathon/?viewType=pc",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제3회 GO대관령 국제 트레일런",
    "cat": "trail",
    "date": "2026-08-30",
@@ -527,7 +540,7 @@
    "justOpened": false
   },
   {
-   "name": "2026 시흥시장배 거북섬 전국 철인3종대회",
+   "name": "2026 시흥시장배 거북섬 전국 철인3종대회(토요일: 스프린트 / 일요일: 스탠다드)",
    "cat": "triathlon",
    "date": "2026-09-04",
    "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06",
@@ -614,6 +627,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 이일선마라톤",
+   "cat": "road",
+   "date": "2026-09-05",
+   "loc": "걷기 울릉도내 나리분지 이일선기념사업회",
+   "courses": "10km",
+   "status": "접수중",
+   "reg": "2026.7.14 ~ 2026.8.18",
+   "url": "http://forms.gle/6Y88RJqW6QCZkZoE7",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제12회 I LOVE 방송대 마라톤",
    "cat": "road",
    "date": "2026-09-05",
@@ -632,7 +658,7 @@
    "date": "2026-09-05",
    "loc": "세종마루공원 밑 금강변 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.19 ~ 2026.7.15",
    "url": "http://runten.co.kr",
    "note": null,
@@ -684,7 +710,7 @@
    "date": "2026-09-06",
    "loc": "서울광장 출발",
    "courses": "하프/11K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "6/17~ 선착순",
    "url": "https://run.ytn.co.kr/",
    "note": "조기 마감 가능",
@@ -808,6 +834,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 에너지 히어로 레이스",
+   "cat": "road",
+   "date": "2026-09-12",
+   "loc": "서울월드컵경기장 평화광장 굿피플",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.20 ~ 2026.8.31",
+   "url": "http://www.herorace.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제2회 화이트런 생리대 기부마라톤",
    "cat": "trail",
    "date": "2026-09-12",
@@ -856,6 +895,19 @@
    "reg": "6/29~ 선착순",
    "url": "https://runseoulrun.com/",
    "note": "조기 마감 유의",
+   "justOpened": false
+  },
+  {
+   "name": "달리는 세상 10km 런",
+   "cat": "road",
+   "date": "2026-09-13",
+   "loc": "대전엑스포시민광장 월드런",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.15 ~ 2026.8.31",
+   "url": "http://mara1080.com/event/0674df45-473c-4182-bed4-d15582fb8c73/guide/overview",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -971,6 +1023,19 @@
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2065",
    "note": "9/19~20 이틀 운영",
+   "justOpened": false
+  },
+  {
+   "name": "시포레 RUN & FIT with 디스커버리",
+   "cat": "road",
+   "date": "2026-09-19",
+   "loc": "+운동 프로그램 고양시 일산호수공원 HLL중앙 / 코틴스포츠",
+   "courses": "10km",
+   "status": "접수중",
+   "reg": "2026.7.16 ~ 2026.8.31",
+   "url": "http://cityforestival.kr/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1125,7 +1190,7 @@
    "url": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 인천송도국제하프마라톤",
@@ -1601,6 +1666,19 @@
    "justOpened": false
   },
   {
+   "name": "충주 앙성 비내길 마라톤 대회",
+   "cat": "road",
+   "date": "2026-10-10",
+   "loc": "충주앙성온천광장 앙성면체육회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.15 ~ 2026.9.10",
+   "url": "http://mara1080.com/event/380079d2-ab1c-4351-b1f2-d21ccaba5cdd/guide/overview",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제4회 강서허준런(RUN)",
    "cat": "road",
    "date": "2026-10-10",
@@ -1635,19 +1713,6 @@
    "status": "접수중",
    "reg": "2026.6.15 ~ 2026.7.31",
    "url": "http://cafe.naver.com/gumitrailrunnerclub",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제9회 거제시장배 섬꽃 전국 마라톤",
-   "cat": "road",
-   "date": "2026-10-10",
-   "loc": "거제스포츠파크 거제시, 거제시체육회",
-   "courses": "하프, 10km, 4km",
-   "status": "접수중",
-   "reg": "2026.5.8 ~ 2026.9.10",
-   "url": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1865,6 +1930,19 @@
    "status": "접수중",
    "reg": "2026.6.23 ~ 2026.7.22",
    "url": "http://jsrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 U+ 119 메모리얼런",
+   "cat": "road",
+   "date": "2026-10-17",
+   "loc": "코스 세종중앙공원 도시축제마당 (주)엘지유플러스",
+   "courses": "5km, 11.9km",
+   "status": "접수예정",
+   "reg": "2026.7.22 ~ 2026.9.14",
+   "url": "http://119memorial.com/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2261,7 +2339,7 @@
    "url": "http://gcmarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제2회 대전 신채호 마라톤",
@@ -2398,7 +2476,7 @@
    "date": "2026-11-08",
    "loc": "장선마을 회관 앞 운동장 배내골 주민자치위원회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.15 ~ 2026.7.15",
    "url": "http://k-marathon.or.kr/main.php",
    "note": null,
