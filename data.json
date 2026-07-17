@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-17 09:16",
+ "lastUpdated": "2026-07-18 08:38",
  "sourceLog": {
-  "roadrun": "성공 (171건)",
+  "roadrun": "성공 (172건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -125,7 +125,7 @@
    "date": "2026-07-25",
    "loc": "순천만국가정원 동문 순천만국가정원",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.9 ~ 2026.7.17",
    "url": "http://projectruntrip.com/",
    "note": null,
@@ -430,7 +430,7 @@
    "date": "2026-08-29",
    "loc": "충북 단양 생활체육공원",
    "courses": "10K/5K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "http://danyangmarathon.kr",
    "note": "야간 레이스",
@@ -829,6 +829,19 @@
    "status": "접수중",
    "reg": null,
    "url": "http://bbangtrailrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 여수 백리섬섬트레일런",
+   "cat": "trail",
+   "date": "2026-09-12",
+   "loc": "청심 국제해양청소년수련원 스피드에이전시",
+   "courses": "40K, 27K, 16K",
+   "status": "접수마감",
+   "reg": "2026.7.17 ~ 2026.7.17",
+   "url": "http://speedtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1723,7 +1736,7 @@
    "date": "2026-10-10",
    "loc": "패밀리런 서울식물원 초지원 강서구",
    "courses": "10km, 5km, 3km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.9 ~ 2026.7.17",
    "url": "http://강서허준런.com",
    "note": null,
