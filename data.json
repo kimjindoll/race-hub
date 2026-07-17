@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-16 09:13",
+ "lastUpdated": "2026-07-17 09:16",
  "sourceLog": {
-  "roadrun": "성공 (167건)",
+  "roadrun": "성공 (171건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -417,7 +417,7 @@
    "date": "2026-08-27",
    "loc": "경남 거제시 구조라해수욕장 일원",
    "courses": "전문체육(엘리트/U23: 스프린트), 학생부(고등부: 스프린트, 중등부: 슈퍼스프린트, 초등부: 아쿠아슬론)",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2041&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
@@ -842,6 +842,19 @@
    "status": "접수예정",
    "reg": "2026.7.20 ~ 2026.8.31",
    "url": "http://www.herorace.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 장수 레드푸드레이스",
+   "cat": "road",
+   "date": "2026-09-12",
+   "loc": "장수말역사체험관 주식회사 락앤런",
+   "courses": "10km, 5km, 16Km",
+   "status": "접수중",
+   "reg": "2026.7.16 ~ 2026.8.31",
+   "url": "http://rocknrun.kr/REDFOODRACE",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1358,7 +1371,7 @@
    "justOpened": false
   },
   {
-   "name": "2026 JUST RUN10 청주",
+   "name": "2026 하반기 JUST RUN10 청주",
    "cat": "road",
    "date": "2026-10-03",
    "loc": "무심천체육공원 (주)러닝브레이커, 전국러닝협",
@@ -1470,6 +1483,32 @@
    "reg": "7/2~7/6",
    "url": "http://speedagency.kr",
    "note": "접수 마감 임박!",
+   "justOpened": false
+  },
+  {
+   "name": "제14회 광명시장배건강달리기",
+   "cat": "road",
+   "date": "2026-10-04",
+   "loc": "광명 찬빛광장(안양천) 광명시육상연맹",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.20 ~ 2026.7.31",
+   "url": "http://gmaf.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 S오일 감동의 마라톤",
+   "cat": "road",
+   "date": "2026-10-04",
+   "loc": "상암동 평화의 광장 더윙, S오일",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.1 ~ 2026.8.31",
+   "url": "http://xn--439ar1m25cg1c810a7ro.com",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1987,6 +2026,19 @@
    "justOpened": false
   },
   {
+   "name": "제19회 중랑구청장배 장미 마라톤",
+   "cat": "road",
+   "date": "2026-10-18",
+   "loc": "중화체육공원 중랑구육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.15 ~ 2026.10.11",
+   "url": "http://www.jnrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제25회 대청호마라톤",
    "cat": "road",
    "date": "2026-10-18",
@@ -2300,19 +2352,6 @@
    "reg": null,
    "url": "http://marathon.jtbc.com/39",
    "note": "3.2만명 규모, 추가접수 공지 간헐적",
-   "justOpened": false
-  },
-  {
-   "name": "2026 DMZ OPEN 평화마라톤",
-   "cat": "road",
-   "date": "2026-11-01",
-   "loc": "파주 임진각 평화누리 일원 경기도",
-   "courses": "하프, 10km",
-   "status": "접수예정",
-   "reg": "2026.8.1 ~ 2026.8.1",
-   "url": "http://dmzopenrun.kr",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2713,6 +2752,19 @@
    "status": "접수중",
    "reg": "2026.7.2 ~ 2026.9.1",
    "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 부산브릿지 마라톤",
+   "cat": "road",
+   "date": "2026-12-06",
+   "loc": "부산 벡스코 제1전시장 KNN,부산시",
+   "courses": "풀, 10km",
+   "status": "접수예정",
+   "reg": "2026.8.1 ~ 2026.8.16",
+   "url": "http://www.busanmarathon.com",
    "note": null,
    "src": "roadrun",
    "justOpened": false
