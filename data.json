@@ -1,49 +1,10 @@
 {
- "lastUpdated": "2026-07-18 08:38",
+ "lastUpdated": "2026-07-19 08:38",
  "sourceLog": {
   "roadrun": "성공 (172건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 코리아 나이트 런 태백",
-   "cat": "trail",
-   "date": "2026-07-18",
-   "loc": "강원 태백 O2리조트",
-   "courses": "28K/17K/7K",
-   "status": "접수마감",
-   "reg": null,
-   "url": "http://koreanightrun.imweb.me/main",
-   "note": "야간 트레일",
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 전마협 청주 무료 초청 훈련 마라톤",
-   "cat": "road",
-   "date": "2026-07-18",
-   "loc": "청주 무심천 롤러스케이트장 전국마라톤협회",
-   "courses": "10km",
-   "status": "접수마감",
-   "reg": "2026.6.17 ~ 2026.6.17",
-   "url": "http://mara1080.com/event/e320ef81-c1ba-4939-bc1d-c398e514e920",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제2회 울릉나이트런",
-   "cat": "trail",
-   "date": "2026-07-18",
-   "loc": "울릉군 현포항 대저투어",
-   "courses": "10km",
-   "status": "접수마감",
-   "reg": "2026.5.18 ~ 2026.6.21",
-   "url": "http://forms.gle/wZenaiNwaS7MtRYa6",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "제7회 청계산·인릉산 일주 TRAIL",
    "cat": "trail",
@@ -2632,12 +2593,12 @@
    "date": "2026-11-15",
    "loc": "수서역 6번출구 광장 {사}소아암환우돕기 조직위",
    "courses": "29km, 9km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.19 ~ 2026.8.31",
    "url": "http://happytrailrun.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제4회 영남알프스 전국 하프마라톤",
