@@ -1,73 +1,10 @@
 {
- "lastUpdated": "2026-07-19 08:38",
+ "lastUpdated": "2026-07-20 11:15",
  "sourceLog": {
-  "roadrun": "성공 (172건)",
+  "roadrun": "성공 (174건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "제7회 청계산·인릉산 일주 TRAIL",
-   "cat": "trail",
-   "date": "2026-07-19",
-   "loc": "서울 양재 옛골 일대",
-   "courses": "21K/10K",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://www.koreatrail.net/",
-   "note": "한국트레일러너연맹",
-   "justOpened": false
-  },
-  {
-   "name": "제16회 부산 혹서기 마라톤",
-   "cat": "road",
-   "date": "2026-07-19",
-   "loc": "부산 삼락생태공원",
-   "courses": "하프/10K/7K",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://www.bsama.co.kr/index.asp",
-   "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "2026 쿨밸리트레일레이스",
-   "cat": "trail",
-   "date": "2026-07-19",
-   "loc": "장수종합경기장 (주)락앤런",
-   "courses": "18K",
-   "status": "접수마감",
-   "reg": "2026.4.27 ~ 2026.6.30",
-   "url": "http://rocknrun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제16회 태종대혹서기전국마라톤",
-   "cat": "road",
-   "date": "2026-07-19",
-   "loc": "태종대공원 (사)부산아마추어마라톤클럽연맹",
-   "courses": "하프, 10km, 7km",
-   "status": "접수마감",
-   "reg": "2026.4.15 ~ 2026.6.14",
-   "url": "http://www.bsama.co.kr/index.asp",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 청계산.인릉산 TrailRunn",
-   "cat": "trail",
-   "date": "2026-07-19",
-   "loc": "화물터미널 청계산옛골 (사)한국산악마라톤연맹",
-   "courses": "하프, 12km",
-   "status": "접수마감",
-   "reg": "2025.10.20 ~ 2026.7.10",
-   "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250821130406&csno=20190812093657#baseline",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 울주 해양레포츠대축전 아쿠아슬론",
    "cat": "triathlon",
@@ -813,12 +750,12 @@
    "date": "2026-09-12",
    "loc": "서울월드컵경기장 평화광장 굿피플",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.20 ~ 2026.8.31",
    "url": "http://www.herorace.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 장수 레드푸드레이스",
@@ -1465,12 +1402,12 @@
    "date": "2026-10-04",
    "loc": "광명 찬빛광장(안양천) 광명시육상연맹",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.20 ~ 2026.7.31",
    "url": "http://gmaf.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 S오일 감동의 마라톤",
@@ -1679,6 +1616,19 @@
    "justOpened": false
   },
   {
+   "name": "제주풍차런",
+   "cat": "road",
+   "date": "2026-10-10",
+   "loc": "한림수협다목적어업인종합지원센터 주식회사 어디감수광, 수원리",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.8 ~ 2026.9.4",
+   "url": "http://jejuwindmillrun.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "충주 앙성 비내길 마라톤 대회",
    "cat": "road",
    "date": "2026-10-10",
@@ -1826,7 +1776,7 @@
    "date": "2026-10-11",
    "loc": "나주종합스포츠파크 나주시, MBN, 매일경제",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.15 ~ 2026.7.19",
    "url": "http://najumarathon.com",
    "note": null,
@@ -2191,6 +2141,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 부산바다마라톤",
+   "cat": "road",
+   "date": "2026-10-25",
+   "loc": "코스 부산 벡스코 일원 부산일보사",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.28 ~ 2026.8.18",
+   "url": "http://marathon.busan.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 광명평화마라톤",
    "cat": "road",
    "date": "2026-10-25",
@@ -2450,12 +2413,12 @@
    "date": "2026-11-08",
    "loc": "관문체육공원 과천시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.20 ~ 2026.7.31",
    "url": "http://gcrun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 부산 헤리티지 런",
@@ -2541,12 +2504,12 @@
    "date": "2026-11-15",
    "loc": "부산시 사하구 다대포해수욕장 국제신문",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.20 ~ 2026.9.15",
    "url": "http://kjmarathon.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 제주감귤마라톤",
@@ -2598,7 +2561,7 @@
    "url": "http://happytrailrun.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제4회 영남알프스 전국 하프마라톤",
