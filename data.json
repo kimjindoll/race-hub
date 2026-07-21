@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-20 11:15",
+ "lastUpdated": "2026-07-21 09:15",
  "sourceLog": {
-  "roadrun": "성공 (174건)",
+  "roadrun": "성공 (178건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -556,8 +556,8 @@
    "date": "2026-09-05",
    "loc": "세종마루공원 밑 금강변 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.19 ~ 2026.7.15",
+   "status": "접수중",
+   "reg": "2026.6.19 ~ 2026.8.8",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -750,12 +750,12 @@
    "date": "2026-09-12",
    "loc": "서울월드컵경기장 평화광장 굿피플",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.20 ~ 2026.8.31",
+   "status": "접수예정",
+   "reg": "2026.7.27 ~ 2026.8.31",
    "url": "http://www.herorace.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 장수 레드푸드레이스",
@@ -853,7 +853,7 @@
    "date": "2026-09-13",
    "loc": "포항운하관주차장 매일신문사",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.29 ~ 2026.7.20",
    "url": "http://energyrun.co.kr/",
    "note": null,
@@ -956,7 +956,7 @@
    "loc": "+운동 프로그램 고양시 일산호수공원 HLL중앙 / 코틴스포츠",
    "courses": "10km",
    "status": "접수중",
-   "reg": "2026.7.16 ~ 2026.8.31",
+   "reg": "2026.7.16 ~ 2026.8.30",
    "url": "http://cityforestival.kr/",
    "note": null,
    "src": "roadrun",
@@ -1057,14 +1057,14 @@
    "name": "제 5회 익산 챌린지 아쿠아슬론 챔피언십 시리즈대회 Ⅲ (9.19 토요일)",
    "cat": "triathlon",
    "date": "2026-09-19",
-   "loc": "전북특별자치도 익산시 익산국제철인3종경기장 일원 2026.09.19",
+   "loc": "전북특별자치도 익산시 익산국제철인3종경기장 일원 2026.09.19 신청",
    "courses": null,
-   "status": "접수예정",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2065&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제7회 충청북도지사배 충주탄금호 전국 철인3종 경기대회",
@@ -1135,7 +1135,7 @@
    "date": "2026-09-20",
    "loc": "대부향기테마파크 안산시체육",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.6 ~ 2026.7.20",
    "url": "http://ansanrun.com",
    "note": null,
@@ -1224,14 +1224,14 @@
    "name": "제 5회 익산 챌린지 아쿠아슬론 챔피언십 시리즈대회 Ⅲ (9.20 일요일)",
    "cat": "triathlon",
    "date": "2026-09-20",
-   "loc": "전북특별자치도 익산시 익산국제철인3종경기장 일원 2026.09.20",
+   "loc": "전북특별자치도 익산시 익산국제철인3종경기장 일원 2026.09.20 신청",
    "courses": null,
-   "status": "접수예정",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2064&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 비앙키 그란폰도 춘천",
@@ -1279,6 +1279,19 @@
    "reg": null,
    "url": "https://www.xcworks.com/sub/race.html",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 춘천연합마라톤",
+   "cat": "road",
+   "date": "2026-10-03",
+   "loc": "춘천시 엘리시안 강촌 연합뉴스, 춘천시육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.16 ~ 2026.8.31",
+   "url": "http://www.yonma.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1407,7 +1420,7 @@
    "url": "http://gmaf.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 S오일 감동의 마라톤",
@@ -1776,8 +1789,8 @@
    "date": "2026-10-11",
    "loc": "나주종합스포츠파크 나주시, MBN, 매일경제",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.5.15 ~ 2026.7.19",
+   "status": "확인필요",
+   "reg": null,
    "url": "http://najumarathon.com",
    "note": null,
    "src": "roadrun",
@@ -1950,7 +1963,7 @@
    "justOpened": false
   },
   {
-   "name": "제19회 중랑구청장배 장미 마라톤",
+   "name": "제19회 중랑구청장배 장미 마라톤 준비중",
    "cat": "road",
    "date": "2026-10-18",
    "loc": "중화체육공원 중랑구육상연맹",
@@ -2062,6 +2075,19 @@
    "reg": "추가접수 7/6",
    "url": "http://speedagency.kr",
    "note": "추가접수 임박!",
+   "justOpened": false
+  },
+  {
+   "name": "RUN&MUSIC FESTIVAL in 안동",
+   "cat": "road",
+   "date": "2026-10-24",
+   "loc": "안동시민운동장 기후에너지환경부,안동시",
+   "courses": "하프, 10km",
+   "status": "접수예정",
+   "reg": "2026.7.28 ~ 2026.8.10",
+   "url": "http://runmusicfestival.localvibehub.com/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2369,6 +2395,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 해양수도 부산 런페스타",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "부산 북항친수공원 한국해운신문, 부산항발전협의회",
+   "courses": "10km",
+   "status": "접수예정",
+   "reg": "2026.7.27 ~ 2026.10.16",
+   "url": "http://runfesta.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제15회 부여 굿뜨래 마라톤 대회",
    "cat": "road",
    "date": "2026-11-07",
@@ -2418,7 +2457,7 @@
    "url": "http://gcrun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 부산 헤리티지 런",
@@ -2427,8 +2466,8 @@
    "loc": "다대포 해수욕장 아시아경제",
    "courses": "10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.11 ~ 2026.8.31",
-   "url": "http://heritage.co.kr",
+   "reg": "2026.8.11 ~ 2026.9.30",
+   "url": "http://heritagerun.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2509,7 +2548,7 @@
    "url": "http://kjmarathon.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 제주감귤마라톤",
@@ -2676,6 +2715,19 @@
    "status": "접수예정",
    "reg": "2026.8.10 ~ 2026.8.30",
    "url": "http://mokyokrun.shop",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제23회 한강시민마라톤",
+   "cat": "road",
+   "date": "2026-12-05",
+   "loc": "여의도 물빛무대 앞 광장 (사)대한생활체육회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.1 ~ 2026.10.28",
+   "url": "http://www.hangangmarathon.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
