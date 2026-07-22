@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-07-21 09:15",
+ "lastUpdated": "2026-07-22 09:09",
  "sourceLog": {
   "roadrun": "성공 (178건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -1064,7 +1064,7 @@
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2065&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제7회 충청북도지사배 충주탄금호 전국 철인3종 경기대회",
@@ -1231,7 +1231,7 @@
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2064&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 비앙키 그란폰도 춘천",
@@ -1531,12 +1531,12 @@
    "date": "2026-10-05",
    "loc": "한국공학대학교 제2캠퍼스 경기일보, 시흥시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.22 ~ 2026.7.22",
    "url": "http://shmarathon.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "런센스 2026",
@@ -1789,8 +1789,8 @@
    "date": "2026-10-11",
    "loc": "나주종합스포츠파크 나주시, MBN, 매일경제",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "확인필요",
-   "reg": null,
+   "status": "접수마감",
+   "reg": "2026.5.15 ~ 2026.7.19",
    "url": "http://najumarathon.com",
    "note": null,
    "src": "roadrun",
@@ -1890,12 +1890,12 @@
    "date": "2026-10-17",
    "loc": "장애인부 태안군 안면읍 꽃지해수욕장 일 충청남도장애인체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.22 ~ 2026.9.17",
    "url": "http://www.충남전국어울림마라톤.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 정선동강 마라톤",
@@ -1916,12 +1916,12 @@
    "date": "2026-10-17",
    "loc": "코스 세종중앙공원 도시축제마당 (주)엘지유플러스",
    "courses": "5km, 11.9km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.22 ~ 2026.9.14",
    "url": "http://119memorial.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 경주마라톤",
@@ -1968,8 +1968,8 @@
    "date": "2026-10-18",
    "loc": "중화체육공원 중랑구육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.15 ~ 2026.10.11",
+   "status": "접수예정",
+   "reg": "2026.7.30 ~ 2026.10.11",
    "url": "http://www.jnrun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2081,10 +2081,10 @@
    "name": "RUN&MUSIC FESTIVAL in 안동",
    "cat": "road",
    "date": "2026-10-24",
-   "loc": "안동시민운동장 기후에너지환경부,안동시",
+   "loc": "안동시민운동장 K-WATER, 안동시, SBS",
    "courses": "하프, 10km",
    "status": "접수예정",
-   "reg": "2026.7.28 ~ 2026.8.10",
+   "reg": "2026.7.24 ~ 2026.9.19",
    "url": "http://runmusicfestival.localvibehub.com/",
    "note": null,
    "src": "roadrun",
