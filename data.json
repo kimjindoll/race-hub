@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-07-23 09:17",
+ "lastUpdated": "2026-07-24 09:14",
  "sourceLog": {
   "roadrun": "성공 (178건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -86,7 +86,7 @@
    "date": "2026-08-08",
    "loc": "+양산 에덴밸리 리조트 루지장 양산시, 부산MBC",
    "courses": "1.7Km, 2Km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.8 ~ 2026.7.23",
    "url": "http://www.yangsanuphillrace.kr",
    "note": null,
@@ -438,12 +438,12 @@
    "justOpened": false
   },
   {
-   "name": "2026 시흥시장배 거북섬 전국 철인3종대회(토요일: 스프린트 / 일요일: 스탠다드)",
+   "name": "2026 시흥시장배 거북섬 전국 철인3종대회",
    "cat": "triathlon",
    "date": "2026-09-04",
-   "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06",
+   "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06 심판",
    "courses": null,
-   "status": "접수예정",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2098&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
@@ -2083,12 +2083,12 @@
    "date": "2026-10-24",
    "loc": "안동시민운동장 K-WATER, 안동시, SBS",
    "courses": "하프, 10km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.24 ~ 2026.9.19",
    "url": "http://runmusicfestival.localvibehub.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 하남 어텀 패밀리 마라톤",
@@ -2224,7 +2224,7 @@
    "date": "2026-10-25",
    "loc": "춘천 공지천공원 조선일보",
    "courses": "풀, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.16 ~ 2026.7.23",
    "url": "http://www.chuncheonmarathon.com",
    "note": null,
@@ -2401,7 +2401,7 @@
    "loc": "부산 북항친수공원 한국해운신문, 부산항발전협의회",
    "courses": "10km",
    "status": "접수예정",
-   "reg": "2026.7.27 ~ 2026.10.16",
+   "reg": "2026.7.31 ~ 2026.10.16",
    "url": "http://runfesta.co.kr",
    "note": null,
    "src": "roadrun",
