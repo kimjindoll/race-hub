@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-24 09:14",
+ "lastUpdated": "2026-07-25 15:06",
  "sourceLog": {
-  "roadrun": "성공 (178건)",
+  "roadrun": "성공 (182건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -1745,6 +1745,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 울산마라톤대회",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "울산종합운동장 울산광역시 육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.27 ~ 2026.8.31",
+   "url": "http://www.uaf.co.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 문경 오미자 하프마라톤",
    "cat": "road",
    "date": "2026-10-11",
@@ -1869,6 +1882,19 @@
    "reg": "2차 7/24 09:00~ 선착순",
    "url": "https://www.tongyeongfondo.com",
    "note": "2,500명, 매년 조기마감",
+   "justOpened": false
+  },
+  {
+   "name": "제2회 10.19 평화마라톤",
+   "cat": "road",
+   "date": "2026-10-17",
+   "loc": "10.19 여수진남경기장 주경기장 뉴스탑전남",
+   "courses": "5km",
+   "status": "접수중",
+   "reg": "2026.7.24 ~ 2026.9.20",
+   "url": "http://ys1019.kr/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2007,7 +2033,7 @@
    "date": "2026-10-18",
    "loc": "전라남도 해남군 솔라시도 목포MBC / 마라톤세상",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.1 ~ 2026.7.24",
    "url": "http://www.greenstep.co.kr/",
    "note": null,
@@ -2088,7 +2114,7 @@
    "url": "http://runmusicfestival.localvibehub.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 하남 어텀 패밀리 마라톤",
@@ -2434,6 +2460,19 @@
    "justOpened": false
   },
   {
+   "name": "경주시육상연맹회장배 마라톤대회",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "경주서천둔치(생활체육광장) 경주시육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.21 ~ 2026.10.8",
+   "url": "http://xn--289a04w1ifu9bvwfi4b78e.com/resv/competition.php",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 서울구석구석 국제 트레일런",
    "cat": "trail",
    "date": "2026-11-08",
@@ -2507,6 +2546,19 @@
    "status": "접수중",
    "reg": "2026.6.1 ~ 2026.9.30",
    "url": "http://www.거제앵산트레일레이스.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제26회 순천 남승룡마라톤대회",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "전남광주 순천시 팔마로 333 순천시체육회",
+   "courses": "풀, 하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.3 ~ 2026.10.16",
+   "url": "http://sc-marathon.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
