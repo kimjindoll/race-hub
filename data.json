@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-26 16:14",
+ "lastUpdated": "2026-07-27 19:51",
  "sourceLog": {
-  "roadrun": "성공 (187건)",
+  "roadrun": "성공 (189건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -558,7 +558,7 @@
    "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.5.26 ~ 2026.8.12",
+   "reg": "2026.5.26 ~ 2026.8.18",
    "url": "http://vrun.kr/index.asp",
    "note": null,
    "src": "roadrun",
@@ -720,6 +720,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 굿네이버스 레이스",
+   "cat": "road",
+   "date": "2026-09-12",
+   "loc": "여의도 한강공원 물빛무대 앞 굿네이버스",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.27 ~ 2026.8.21",
+   "url": "http://goodneighbors001.cafe24.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 여수 백리섬섬트레일런",
    "cat": "trail",
    "date": "2026-09-12",
@@ -733,12 +746,12 @@
    "justOpened": false
   },
   {
-   "name": "2026 에너지 히어로 레이스",
+   "name": "히어로 레이스 l 2026 에너지 히어로 레이",
    "cat": "road",
    "date": "2026-09-12",
    "loc": "서울월드컵경기장 평화광장 굿피플",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.27 ~ 2026.8.31",
    "url": "http://www.herorace.kr/",
    "note": null,
@@ -807,6 +820,19 @@
    "reg": "6/29~ 선착순",
    "url": "https://runseoulrun.com/",
    "note": "조기 마감 유의",
+   "justOpened": false
+  },
+  {
+   "name": "제19회 구로구청장배 안양천 단풍마라톤",
+   "cat": "road",
+   "date": "2026-09-13",
+   "loc": "구일역 하부 인라인스케이트장 구로구육상연맹",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.3 ~ 2026.8.14",
+   "url": "http://cafe.daum.net/guro-run/LvM7/45",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1751,12 +1777,12 @@
    "date": "2026-10-11",
    "loc": "울산종합운동장 울산광역시 육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.27 ~ 2026.8.31",
-   "url": "http://www.uaf.co.kr/",
+   "url": "http://run.uaf.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 문경 오미자 하프마라톤",
@@ -1777,12 +1803,12 @@
    "date": "2026-10-11",
    "loc": "상암월드컵공원 평화광장 한국유방건강재단",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.27 ~ 2026.8.7",
    "url": "http://www.pinkrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울레이스",
@@ -2505,12 +2531,12 @@
    "date": "2026-11-08",
    "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.27 ~ 2026.10.18",
-   "url": "http://www.hangangmarathon.kr/",
+   "url": "http://xn--oi2bo7bn3do4es0j56afy5b.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울구석구석 국제 트레일런",
@@ -2909,6 +2935,32 @@
    "status": "접수마감",
    "reg": "2026.3.27 ~ 2026.4.26",
    "url": "http://mara1080.com/event/3c31740e-986e-4cb8-a7e5-850a80d2a5fd",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제10회 노원구청장배 겸 회장배마라톤",
+   "cat": "road",
+   "date": "2027-07-05",
+   "loc": "창동교 나눔의 광장 노원구 노원구육상경기연맹",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.1.25 ~ 2026.5.31",
+   "url": "http://www.nowonmarathon.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제8회안산인왕산북악산TRAILRUN",
+   "cat": "trail",
+   "date": "2027-07-05",
+   "loc": "연세대학교 정문 (사)한국산악마라톤연맹",
+   "courses": "11km",
+   "status": "접수마감",
+   "reg": "2025.11.13 ~ 2026.6.27",
+   "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250821124548&csno=20220326200847#baseline",
    "note": null,
    "src": "roadrun",
    "justOpened": false
