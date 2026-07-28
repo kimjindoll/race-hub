@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-07-27 19:51",
+ "lastUpdated": "2026-07-28 09:14",
  "sourceLog": {
   "roadrun": "성공 (189건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -674,7 +674,7 @@
    "date": "2026-09-06",
    "loc": "봉화공설운동장 봉화군체육회, 매일신문사",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.2.3 ~ 2026.7.27",
    "url": "http://bonghwarun.kr",
    "note": null,
@@ -1782,7 +1782,7 @@
    "url": "http://run.uaf.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 문경 오미자 하프마라톤",
@@ -1808,7 +1808,7 @@
    "url": "http://www.pinkrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울레이스",
@@ -2251,12 +2251,12 @@
    "date": "2026-10-25",
    "loc": "코스 부산 벡스코 일원 부산일보사",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.28 ~ 2026.8.18",
    "url": "http://marathon.busan.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 광명평화마라톤",
@@ -2536,7 +2536,7 @@
    "url": "http://xn--oi2bo7bn3do4es0j56afy5b.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울구석구석 국제 트레일런",
