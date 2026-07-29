@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-28 09:14",
+ "lastUpdated": "2026-07-29 09:12",
  "sourceLog": {
-  "roadrun": "성공 (189건)",
+  "roadrun": "성공 (193건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -726,7 +726,7 @@
    "loc": "여의도 한강공원 물빛무대 앞 굿네이버스",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.27 ~ 2026.8.21",
+   "reg": "2026.7.27 ~ 2026.8.12",
    "url": "http://goodneighbors001.cafe24.com",
    "note": null,
    "src": "roadrun",
@@ -961,6 +961,19 @@
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2065",
    "note": "9/19~20 이틀 운영",
+   "justOpened": false
+  },
+  {
+   "name": "2026 무한도전 Run in 경주",
+   "cat": "road",
+   "date": "2026-09-19",
+   "loc": "경주시민운동장 MBC",
+   "courses": "하프, 10km",
+   "status": "접수예정",
+   "reg": "2026.7.30 ~ 2026.8.9",
+   "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1772,6 +1785,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 천안 이봉주 마라톤",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "천안종합운동장 일원 천안시체육회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.7.31 ~ 2026.8.28",
+   "url": "http://bjlee.casports.or.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 울산마라톤대회",
    "cat": "road",
    "date": "2026-10-11",
@@ -2029,13 +2055,13 @@
    "justOpened": false
   },
   {
-   "name": "제19회 중랑구청장배 장미 마라톤 준비중",
+   "name": "제19회 중랑구청장배 마라톤 8월5일 접수시작",
    "cat": "road",
    "date": "2026-10-18",
    "loc": "중화체육공원 중랑구육상연맹",
    "courses": "하프, 10km, 5km",
    "status": "접수예정",
-   "reg": "2026.7.30 ~ 2026.10.11",
+   "reg": "2026.8.5 ~ 2026.10.11",
    "url": "http://www.jnrun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2124,12 +2150,12 @@
    "date": "2026-10-24",
    "loc": "경남 통영 트라이애슬론광장",
    "courses": "스프린트(엘리트)/스탠다드(동호인)",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2042",
    "note": "동호인부 조기마감 관례, 접수 개시일 주시",
    "src": "ktf",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 섬섬여수 그란폰도",
@@ -2256,7 +2282,7 @@
    "url": "http://marathon.busan.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 광명평화마라톤",
@@ -2357,6 +2383,19 @@
    "reg": "7/6 10:00~ 선착순 2,000명",
    "url": "https://www.xcworks.com/sub/race.html",
    "note": "접수 오픈 임박!",
+   "justOpened": false
+  },
+  {
+   "name": "2026 오티즘 레이스",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "월드컵공원 평화의 광장 한국자폐인사랑협회",
+   "courses": "하프, 10km, 4.2km",
+   "status": "접수중",
+   "reg": "2026.7.8 ~ 2026.9.30",
+   "url": "http://autismrace.com",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2833,6 +2872,19 @@
    "status": "접수예정",
    "reg": "2026.8.10 ~ 2026.8.30",
    "url": "http://mokyokrun.shop",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제2회 천안독립기념관 마라톤대회",
+   "cat": "road",
+   "date": "2026-11-29",
+   "loc": "걷기 천안 독립기념관 주식회사 오소컴퍼니",
+   "courses": "10km, 5km, 3.56KM",
+   "status": "접수예정",
+   "reg": "2026.7.31 ~ 2026.11.28",
+   "url": "http://https://peacewalk.imweb.me/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
