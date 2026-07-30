@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-07-29 09:12",
+ "lastUpdated": "2026-07-30 09:15",
  "sourceLog": {
-  "roadrun": "성공 (193건)",
+  "roadrun": "성공 (195건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -720,6 +720,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 나이트런 플러스 청주",
+   "cat": "trail",
+   "date": "2026-09-12",
+   "loc": "청주시 무심천체육공원 청주청년회의소/주식회사 유고",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.29 ~ 2026.8.23",
+   "url": "http://n-runplus.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 굿네이버스 레이스",
    "cat": "road",
    "date": "2026-09-12",
@@ -880,7 +893,7 @@
    "date": "2026-09-13",
    "loc": "서울 광장 일간스포츠",
    "courses": "하프, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.29 ~ 2026.7.29",
    "url": "http://runseoulrun.com",
    "note": null,
@@ -969,9 +982,22 @@
    "date": "2026-09-19",
    "loc": "경주시민운동장 MBC",
    "courses": "하프, 10km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.7.30 ~ 2026.8.9",
    "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": true
+  },
+  {
+   "name": "2026 여수낭도트레일",
+   "cat": "trail",
+   "date": "2026-09-19",
+   "loc": "여수 화정면낭도출장소앞 주차장 파브코리아",
+   "courses": "13km",
+   "status": "접수중",
+   "reg": "2026.7.28 ~ 2026.9.18",
+   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1785,6 +1811,19 @@
    "justOpened": false
   },
   {
+   "name": "진안고원 포레스티벌 Run & Heal",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "국립진안고원산림치유원 주식회사 락앤런",
+   "courses": "16km, 6km",
+   "status": "접수예정",
+   "reg": "2026.8.10 ~ 2026.9.15",
+   "url": "http://rocknrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 천안 이봉주 마라톤",
    "cat": "road",
    "date": "2026-10-11",
@@ -2150,12 +2189,12 @@
    "date": "2026-10-24",
    "loc": "경남 통영 트라이애슬론광장",
    "courses": "스프린트(엘리트)/스탠다드(동호인)",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2042",
    "note": "동호인부 조기마감 관례, 접수 개시일 주시",
    "src": "ktf",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 섬섬여수 그란폰도",
@@ -2191,19 +2230,6 @@
    "status": "접수중",
    "reg": "2026.7.24 ~ 2026.9.24",
    "url": "http://sejongrun26.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 하남 어텀 패밀리 마라톤",
-   "cat": "road",
-   "date": "2026-10-24",
-   "loc": "하남 미사 경정 공원 청운의꿈(주)",
-   "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.7 ~ 2026.10.14",
-   "url": "http://hnrun.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2726,7 +2752,7 @@
    "date": "2026-11-15",
    "loc": "학생부초등부,학생부중.고등부 세종시민운동장 세종특별자치시육상연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.20 ~ 2026.7.29",
    "url": "http://sjrun.com",
    "note": null,
