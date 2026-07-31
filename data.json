@@ -1,23 +1,10 @@
 {
- "lastUpdated": "2026-07-31 17:11",
+ "lastUpdated": "2026-08-01 07:06",
  "sourceLog": {
-  "roadrun": "성공 (202건)",
+  "roadrun": "성공 (185건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "사우나런 in 올림픽공원",
-   "cat": "road",
-   "date": "2026-07-31",
-   "loc": "올림픽 공원 인근 사우나런",
-   "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.6.12 ~ 2026.7.31",
-   "url": "http://saunarun.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 인사이드런 S",
    "cat": "road",
@@ -125,7 +112,7 @@
    "date": "2026-08-15",
    "loc": "P,장수종합경기장 (주)락앤런",
    "courses": "38K, 14K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.15 ~ 2026.7.31",
    "url": "http://rocknrun.kr",
    "note": null,
@@ -202,7 +189,7 @@
    "date": "2026-08-22",
    "loc": "경기 이천 설봉저수지",
    "courses": "스탠다드(올림픽코스)",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2104",
    "note": "8/22~23, 현재 592명 신청",
@@ -392,7 +379,7 @@
    "date": "2026-08-30",
    "loc": "평창동계올림픽기념공원 국대레포츠, 대관령면체육회",
    "courses": "10km, 20.18km, 44km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.22 ~ 2026.7.31",
    "url": "http://daegwallyeongrun.com",
    "note": null,
@@ -531,7 +518,7 @@
    "date": "2026-09-05",
    "loc": "상암동 평화광장 한국방송통신대학교 전국 총동문",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.30 ~ 2026.7.31",
    "url": "http://runbs.co.kr",
    "note": null,
@@ -906,7 +893,7 @@
    "date": "2026-09-13",
    "loc": "강화함상공원 인천일보,(사)인천마라톤조직위",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.8 ~ 2026.7.31",
    "url": "http://www.ganghwamarathon.co.kr/",
    "note": null,
@@ -1468,7 +1455,7 @@
    "date": "2026-10-04",
    "loc": "광명 찬빛광장(안양천) 광명시육상연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.20 ~ 2026.7.31",
    "url": "http://gmaf.kr",
    "note": null,
@@ -1486,7 +1473,7 @@
    "url": "http://www.nbkorea.com/launchingCalendar/detail.action?listStatus=H&launchingIdx=3117",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 S오일 감동의 마라톤",
@@ -1494,12 +1481,12 @@
    "date": "2026-10-04",
    "loc": "상암동 평화의 광장 더윙, S오일",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.1 ~ 2026.8.31",
    "url": "http://xn--439ar1m25cg1c810a7ro.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제23회 경남마라톤",
@@ -1533,7 +1520,7 @@
    "date": "2026-10-04",
    "loc": "안동시민운동장 안동시, 매일신문사",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.13 ~ 2026.7.31",
    "url": "http://www.admarathon.kr",
    "note": null,
@@ -1752,7 +1739,7 @@
    "date": "2026-10-10",
    "loc": "금오산 공영 대주차장 구미시산악연맹, 구미트레일런",
    "courses": "10km, 18k, 23k",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.15 ~ 2026.7.31",
    "url": "http://cafe.naver.com/gumitrailrunnerclub",
    "note": null,
@@ -1834,7 +1821,7 @@
    "url": "http://bjlee.casports.or.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 울산마라톤대회",
@@ -2519,7 +2506,7 @@
    "date": "2026-11-01",
    "loc": "패밀리런 대전 뿌리공원 잔디광장 대전시 중구 육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.10 ~ 2026.7.31",
    "url": "http://www.djmarathon.co.kr",
    "note": null,
@@ -2687,7 +2674,7 @@
    "date": "2026-11-08",
    "loc": "관문체육공원 과천시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.20 ~ 2026.7.31",
    "url": "http://gcrun.co.kr",
    "note": null,
@@ -2991,7 +2978,7 @@
    "url": "http://runwithus.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제23회 한강시민마라톤",
@@ -2999,12 +2986,12 @@
    "date": "2026-12-05",
    "loc": "여의도 물빛무대 앞 광장 (사)대한생활체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.1 ~ 2026.10.28",
    "url": "http://www.hangangmarathon.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 전국마라톤협회 금산 골드런 마라톤",
@@ -3025,12 +3012,12 @@
    "date": "2026-12-06",
    "loc": "부산 벡스코 제1전시장 KNN,부산시",
    "courses": "풀, 10km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.1 ~ 2026.8.16",
    "url": "http://www.busanmarathon.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제36회 진주마라톤",
@@ -3067,71 +3054,6 @@
    "reg": "통상 전년 11~12월 접수",
    "url": "https://blog.naver.com/thread78/224113948638",
    "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "사우나런 in 석촌호수",
-   "cat": "road",
-   "date": "2027-07-01",
-   "loc": "석촌 호수 인근 사우나런",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.2 ~ 2026.6.30",
-   "url": "http://saunarun.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "IRON RUN 2026",
-   "cat": "road",
-   "date": "2027-07-04",
-   "loc": "포항 영일대해수욕장 장미광장 포스코노동조합",
-   "courses": "15.38km, 7.87km, 3.8km",
-   "status": "접수마감",
-   "reg": "2026.4.1 ~ 2026.5.31",
-   "url": "http://www.ironrun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 전마협 하계 무료 훈련 마라톤",
-   "cat": "road",
-   "date": "2027-07-04",
-   "loc": "금산인삼엑스포주차장 전국마라톤협회",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.3.27 ~ 2026.4.26",
-   "url": "http://mara1080.com/event/3c31740e-986e-4cb8-a7e5-850a80d2a5fd",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제10회 노원구청장배 겸 회장배마라톤",
-   "cat": "road",
-   "date": "2027-07-05",
-   "loc": "창동교 나눔의 광장 노원구 노원구육상경기연맹",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.1.25 ~ 2026.5.31",
-   "url": "http://www.nowonmarathon.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제8회안산인왕산북악산TRAILRUN",
-   "cat": "trail",
-   "date": "2027-07-05",
-   "loc": "연세대학교 정문 (사)한국산악마라톤연맹",
-   "courses": "11km",
-   "status": "접수마감",
-   "reg": "2025.11.13 ~ 2026.6.27",
-   "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250821124548&csno=20220326200847#baseline",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
