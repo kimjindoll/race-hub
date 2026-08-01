@@ -1,35 +1,10 @@
 {
- "lastUpdated": "2026-08-01 07:06",
+ "lastUpdated": "2026-08-02 06:58",
  "sourceLog": {
   "roadrun": "성공 (185건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 인사이드런 S",
-   "cat": "road",
-   "date": "2026-08-01",
-   "loc": "경기 고양 킨텍스",
-   "courses": "10K",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://insiderun.me",
-   "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "2026 인사이더런 S",
-   "cat": "road",
-   "date": "2026-08-01",
-   "loc": "일산 킨텍스 제2전시장 7,8 러너블",
-   "courses": "10km",
-   "status": "접수마감",
-   "reg": "2026.3.26 ~ 2026.7.30",
-   "url": "http://insiderun.me",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 양산 업힐 레이스",
    "cat": "road",
@@ -1486,7 +1461,7 @@
    "url": "http://xn--439ar1m25cg1c810a7ro.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제23회 경남마라톤",
@@ -1661,12 +1636,12 @@
    "date": "2026-10-09",
    "loc": "걷기 안성 미리내 성지 마라톤선교연합회/천주교수원교구",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.2 ~ 2026.8.23",
    "url": "http://cafe.naver.com/browna6seu",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제26회 홍성마라톤",
@@ -2643,7 +2618,7 @@
    "justOpened": false
   },
   {
-   "name": "2026 부산 사상 ECO마라톤",
+   "name": "2026 전국사상에코마라톤",
    "cat": "road",
    "date": "2026-11-08",
    "loc": "슬로조깅 삼락생태공원 럭비구장 사상구청,사상구체육회",
@@ -2991,7 +2966,7 @@
    "url": "http://www.hangangmarathon.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 전국마라톤협회 금산 골드런 마라톤",
@@ -3017,7 +2992,7 @@
    "url": "http://www.busanmarathon.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제36회 진주마라톤",
