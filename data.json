@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-03 06:57",
+ "lastUpdated": "2026-08-04 07:10",
  "sourceLog": {
-  "roadrun": "성공 (185건)",
+  "roadrun": "성공 (192건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -808,7 +808,7 @@
    "url": "http://cafe.daum.net/guro-run/LvM7/45",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "달리는 세상 10km 런",
@@ -983,7 +983,7 @@
    "date": "2026-09-19",
    "loc": "문경종합온천 문경시, 문경시 청년센터",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.13 ~ 2026.8.3",
    "url": "http://www.omijarun.com",
    "note": null,
@@ -2062,7 +2062,7 @@
    "loc": "중화체육공원 중랑구육상연맹",
    "courses": "하프, 10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.5 ~ 2026.10.11",
+   "reg": "2026.8.5 ~ 2026.10.7",
    "url": "http://www.jnrun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2105,7 +2105,7 @@
    "url": "http://maraton.dbsfa365.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "그린스텝 2026",
@@ -2194,7 +2194,7 @@
    "url": "http://marathon.newsis.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "RUN&MUSIC FESTIVAL in 안동",
@@ -2283,6 +2283,19 @@
    "reg": null,
    "url": "https://www.thebike.co.kr/bbs/board.php?bo_table=10",
    "note": "접수 일정 미공지",
+   "justOpened": false
+  },
+  {
+   "name": "제14회 정서진아라뱃길 마라톤",
+   "cat": "road",
+   "date": "2026-10-25",
+   "loc": "정서진 아라타워 인천일보,인천마라톤조직위원회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.7.31 ~ 2026.7.31",
+   "url": "http://www.jeongseojin.co.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2527,6 +2540,19 @@
    "justOpened": false
   },
   {
+   "name": "제19회 진해마라톤",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "진해공설운동장 (주)경남신문사",
+   "courses": "5km, 11.11km",
+   "status": "접수예정",
+   "reg": "2026.8.19 ~ 2026.10.9",
+   "url": "http://www.jinhaemarathon.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 해양수도 부산 런페스타",
    "cat": "road",
    "date": "2026-11-07",
@@ -2574,19 +2600,6 @@
    "status": "접수예정",
    "reg": "2026.8.7 ~ 2026.10.23",
    "url": "http://kw-marathon.com/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제19회 진해마라톤",
-   "cat": "road",
-   "date": "2026-11-08",
-   "loc": "진해공설운동장 (주)경남신문사",
-   "courses": "5km, 11.11km",
-   "status": "접수예정",
-   "reg": "2026.8.19 ~ 2026.10.9",
-   "url": "http://www.jinhaemarathon.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2709,6 +2722,19 @@
    "justOpened": false
   },
   {
+   "name": "제2회 안양천 단풍길 마라톤",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "신정교 하부 영롱이 억새구장 (사)대한생활체육연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.31 ~ 2026.11.5",
+   "url": "http://maplerun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제26회 순천 남승룡마라톤대회",
    "cat": "road",
    "date": "2026-11-14",
@@ -2719,7 +2745,7 @@
    "url": "http://sc-marathon.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 포항마라톤챔피언십",
@@ -2917,6 +2943,45 @@
    "justOpened": false
   },
   {
+   "name": "2026 평화의숲 마라톤",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "상암 월드컵공원 평화광장 세계평화사랑연맹",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.3 ~ 2026.11.15",
+   "url": "http://peace-run.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 무진장트레일레이스",
+   "cat": "trail",
+   "date": "2026-11-23",
+   "loc": "장수종합경기장 주식회사 락앤런",
+   "courses": "335km",
+   "status": "접수예정",
+   "reg": "2026.8.31 ~ 2026.10.31",
+   "url": "http://rocknrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2027 서울 세계청년대회 성공 기원 평화런",
+   "cat": "road",
+   "date": "2026-11-28",
+   "loc": "여의도공원 문화의마당 2027 서울WYD, CPBC",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.14 ~ 2026.10.24",
+   "url": "http://www.peacerun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 남원 춘향 전국 마라톤대회",
    "cat": "road",
    "date": "2026-11-28",
@@ -2943,6 +3008,19 @@
    "justOpened": false
   },
   {
+   "name": "제14회 안중근 평화 마라톤",
+   "cat": "road",
+   "date": "2026-11-29",
+   "loc": "여의도공원 문화의마당 안중근평화재단청년아카데미",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.31 ~ 2026.11.22",
+   "url": "http://ajgrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제2회 천안독립기념관 마라톤대회",
    "cat": "road",
    "date": "2026-11-29",
@@ -2951,6 +3029,19 @@
    "status": "접수중",
    "reg": "2026.7.31 ~ 2026.11.28",
    "url": "http://runwithus.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 하남 미사 호수 에너지런",
+   "cat": "road",
+   "date": "2026-12-05",
+   "loc": "하남미사경정공원 (사)행복한가게",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.3 ~ 2026.11.26",
+   "url": "http://energyrun.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
