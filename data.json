@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-04 07:10",
+ "lastUpdated": "2026-08-05 07:13",
  "sourceLog": {
-  "roadrun": "성공 (192건)",
+  "roadrun": "성공 (194건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -855,8 +855,8 @@
    "date": "2026-09-13",
    "loc": "서울 광장 일간스포츠",
    "courses": "하프, 10km",
-   "status": "접수마감",
-   "reg": "2026.6.29 ~ 2026.7.29",
+   "status": "접수중",
+   "reg": "2026.6.29 ~ 2026.8.14",
    "url": "http://runseoulrun.com",
    "note": null,
    "src": "roadrun",
@@ -2056,13 +2056,13 @@
    "justOpened": false
   },
   {
-   "name": "제19회 중랑구청장배 마라톤 8월5일 접수시작",
+   "name": "제19회 중랑구청장배마라톤 8월10일 접수시작",
    "cat": "road",
    "date": "2026-10-18",
    "loc": "중화체육공원 중랑구육상연맹",
    "courses": "하프, 10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.5 ~ 2026.10.7",
+   "reg": "2026.8.10 ~ 2026.10.7",
    "url": "http://www.jnrun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2074,12 +2074,12 @@
    "date": "2026-10-18",
    "loc": "창원스포츠파크 보조경기장 창원을 사랑하는 시민연합",
    "courses": "6km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.5 ~ 2026.9.20",
    "url": "http://www.cwrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제25회 대청호마라톤",
@@ -2540,6 +2540,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 문경 레전드 트레일 백두대간",
+   "cat": "trail",
+   "date": "2026-11-07",
+   "loc": "문경새재도립공원 야외공연장 에코라인",
+   "courses": "50k, 34k, 21k",
+   "status": "접수예정",
+   "reg": "2026.8.12 ~ 2026.8.12",
+   "url": "http://legendtrail.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제19회 진해마라톤",
    "cat": "road",
    "date": "2026-11-07",
@@ -2676,7 +2689,7 @@
    "loc": "다대포 해수욕장 아시아경제",
    "courses": "10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.11 ~ 2026.9.30",
+   "reg": "2026.8.25 ~ 2026.10.9",
    "url": "http://heritagerun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2829,10 +2842,10 @@
    "name": "제17회 행복트레일런 축제",
    "cat": "trail",
    "date": "2026-11-15",
-   "loc": "수서역 6번출구 광장 {사}소아암환우돕기 조직위",
-   "courses": "29km, 9km",
+   "loc": "청계산수변공원 {사}소아암환우돕기 조직위",
+   "courses": "20km, 10km",
    "status": "접수중",
-   "reg": "2026.7.19 ~ 2026.8.31",
+   "reg": "2026.7.19 ~ 2026.9.30",
    "url": "http://happytrailrun.com",
    "note": null,
    "src": "roadrun",
@@ -2943,6 +2956,19 @@
    "justOpened": false
   },
   {
+   "name": "자이스 스마일 레이스",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "여의도공원 문화의 마당 ZEISS/런코리아",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.10 ~ 2026.9.19",
+   "url": "http://zeiss-smilerace.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 평화의숲 마라톤",
    "cat": "road",
    "date": "2026-11-22",
@@ -2969,13 +2995,13 @@
    "justOpened": false
   },
   {
-   "name": "2027 서울 세계청년대회 성공 기원 평화런",
+   "name": "2026 평화런",
    "cat": "road",
    "date": "2026-11-28",
-   "loc": "여의도공원 문화의마당 2027 서울WYD, CPBC",
+   "loc": "여의도공원 문화의마당 가톨릭평화방송/런코리아",
    "courses": "10km, 5km",
-   "status": "접수예정",
-   "reg": "2026.8.14 ~ 2026.10.24",
+   "status": "접수중",
+   "reg": "2026.8.4 ~ 2026.10.24",
    "url": "http://www.peacerun.kr",
    "note": null,
    "src": "roadrun",
