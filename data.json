@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-05 07:13",
+ "lastUpdated": "2026-08-06 07:13",
  "sourceLog": {
-  "roadrun": "성공 (194건)",
+  "roadrun": "성공 (199건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -695,6 +695,19 @@
    "justOpened": false
   },
   {
+   "name": "제 6회 계란 마라톤",
+   "cat": "road",
+   "date": "2026-09-12",
+   "loc": "경인아라뱃길여객터미널 아라타워 계란자조금관리위원회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.6 ~ 2026.8.26",
+   "url": "http://egg-run.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 굿네이버스 레이스",
    "cat": "road",
    "date": "2026-09-12",
@@ -703,6 +716,19 @@
    "status": "접수중",
    "reg": "2026.7.27 ~ 2026.8.12",
    "url": "http://goodneighbors001.cafe24.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "서울올림픽기념 88RUN",
+   "cat": "road",
+   "date": "2026-09-12",
+   "loc": "미사경정공원 국민체육진흥공단경륜경정총괄본부",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.8.5 ~ 2026.8.5",
+   "url": "http://88run.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -840,10 +866,10 @@
    "name": "2026포항이차전지전국마라톤",
    "cat": "road",
    "date": "2026-09-13",
-   "loc": "포항운하관주차장 매일신문사",
+   "loc": "포항운하관주차장 매일신사",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.29 ~ 2026.7.20",
+   "status": "접수중",
+   "reg": "2026.6.29 ~ 2026.8.31",
    "url": "http://energyrun.co.kr/",
    "note": null,
    "src": "roadrun",
@@ -1657,6 +1683,19 @@
    "justOpened": false
   },
   {
+   "name": "제3회서울트레일런 대회",
+   "cat": "trail",
+   "date": "2026-10-10",
+   "loc": "37: 20:11 시청 덕수궁돌담길 서울랠리",
+   "courses": null,
+   "status": "접수마감",
+   "reg": "2026.8.5 ~ 2026.8.5",
+   "url": "http://www.xn--zl2btb922be3fb2a860c.com/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제주풍차런",
    "cat": "road",
    "date": "2026-10-10",
@@ -1770,6 +1809,19 @@
    "reg": "본접수 5/27~ 선착순",
    "url": "https://www.kormarathon.com/ko/races/2026-seoul-race",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 인천로봇랜드 퓨처런",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "인천로봇랜드 로봇타워 기호일보",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.7 ~ 2026.9.4",
+   "url": "http://futurerun.co.kr/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2056,13 +2108,13 @@
    "justOpened": false
   },
   {
-   "name": "제19회 중랑구청장배마라톤 8월10일 접수시작",
+   "name": "제19회 중랑구청장배 장미 마라톤",
    "cat": "road",
    "date": "2026-10-18",
    "loc": "중화체육공원 중랑구육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
-   "reg": "2026.8.10 ~ 2026.10.7",
+   "status": "접수중",
+   "reg": "2026.8.5 ~ 2026.10.7",
    "url": "http://www.jnrun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2079,7 +2131,7 @@
    "url": "http://www.cwrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제25회 대청호마라톤",
@@ -2197,6 +2249,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 무쓰런",
+   "cat": "road",
+   "date": "2026-10-24",
+   "loc": "무심천체육공원 청주충북환경운동연합",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.21 ~ 2026.8.31",
+   "url": "http://forms.gle/ga7gKHnRJB7pfLFY6",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "RUN&MUSIC FESTIVAL in 안동",
    "cat": "road",
    "date": "2026-10-24",
@@ -2286,13 +2351,13 @@
    "justOpened": false
   },
   {
-   "name": "제14회 정서진아라뱃길 마라톤",
+   "name": "제14회 정서진아라뱃길 전국마라톤대회",
    "cat": "road",
    "date": "2026-10-25",
    "loc": "정서진 아라타워 인천일보,인천마라톤조직위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.31 ~ 2026.7.31",
+   "status": "접수중",
+   "reg": "2026.8.5 ~ 2026.9.8",
    "url": "http://www.jeongseojin.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2766,8 +2831,8 @@
    "date": "2026-11-14",
    "loc": "영일대해상누각 kthcn",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.4.13 ~ 2026.6.30",
+   "status": "접수중",
+   "reg": "2026.4.13 ~ 2026.10.31",
    "url": "http://pohangmarathon.com/",
    "note": null,
    "src": "roadrun",
@@ -2960,10 +3025,23 @@
    "cat": "road",
    "date": "2026-11-22",
    "loc": "여의도공원 문화의 마당 ZEISS/런코리아",
-   "courses": "하프, 10km, 5km",
+   "courses": "10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.10 ~ 2026.9.19",
+   "reg": "2026.8.10 ~ 2026.10.18",
    "url": "http://zeiss-smilerace.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 서울 억새풀 마라톤대회",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "(영등포) 영롱이 억새구장 아시아투데이(사)한국마라톤연맹",
+   "courses": "풀, 하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.17 ~ 2026.10.30",
+   "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
