@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-08-06 07:13",
+ "lastUpdated": "2026-08-07 10:01",
  "sourceLog": {
   "roadrun": "성공 (199건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -49,7 +49,7 @@
    "date": "2026-08-15",
    "loc": "서울·안양천 일대",
    "courses": "10K/5K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "http://moonnightrun.kr/",
    "note": "야간 러닝",
@@ -393,7 +393,7 @@
    "date": "2026-09-04",
    "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06 심판",
    "courses": null,
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2098&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
@@ -584,7 +584,7 @@
    "date": "2026-09-06",
    "loc": "청주 무심천 체육공원 전국마라톤협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.10 ~ 2026.8.6",
    "url": "http://mara1080.com/event/a9780087-8fc3-4849-a234-7659978f6792",
    "note": null,
@@ -1477,14 +1477,14 @@
    "justOpened": false
   },
   {
-   "name": "2026 S오일 감동의 마라톤",
+   "name": "S-OIL과 함께하는 감동의 마라톤",
    "cat": "road",
    "date": "2026-10-04",
-   "loc": "상암동 평화의 광장 더윙, S오일",
+   "loc": "상암동 평화의 광장 S-OIL, 한국장애인재활협회",
    "courses": "하프, 10km, 5km",
    "status": "접수중",
    "reg": "2026.8.1 ~ 2026.8.31",
-   "url": "http://xn--439ar1m25cg1c810a7ro.com",
+   "url": "http://감동의마라톤.com",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1817,12 +1817,12 @@
    "date": "2026-10-11",
    "loc": "인천로봇랜드 로봇타워 기호일보",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.7 ~ 2026.9.4",
    "url": "http://futurerun.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "진안고원 포레스티벌 Run & Heal",
@@ -2478,6 +2478,19 @@
    "justOpened": false
   },
   {
+   "name": "제21회 사천노을 마라톤대회",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "사천 선진거북선공원 경남일보",
+   "courses": "하프, 10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.8.6 ~ 2026.8.6",
+   "url": "http://sunset.or.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 오티즘 레이스",
    "cat": "road",
    "date": "2026-10-31",
@@ -2636,12 +2649,12 @@
    "date": "2026-11-07",
    "loc": "부산 북항친수공원 한국해운신문, 부산항발전협의회",
    "courses": "10km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.7 ~ 2026.10.16",
    "url": "http://runfesta.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제15회 부여 굿뜨래 마라톤 대회",
@@ -2673,14 +2686,14 @@
    "name": "2026 라운드랩 RUN",
    "cat": "road",
    "date": "2026-11-08",
-   "loc": "춘천 송암스포츠타운 종합경기장 서린컴퍼니(주), 강원일보",
+   "loc": "춘천 송암스포츠타운 종합경기장 라운드랩, 강원일보",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.7 ~ 2026.10.23",
    "url": "http://kw-marathon.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "경주시육상연맹회장배 마라톤대회",
@@ -3055,19 +3068,6 @@
    "status": "접수중",
    "reg": "2026.8.3 ~ 2026.11.15",
    "url": "http://peace-run.kr/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 무진장트레일레이스",
-   "cat": "trail",
-   "date": "2026-11-23",
-   "loc": "장수종합경기장 주식회사 락앤런",
-   "courses": "335km",
-   "status": "접수예정",
-   "reg": "2026.8.31 ~ 2026.10.31",
-   "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
