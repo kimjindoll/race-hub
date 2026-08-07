@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-07 10:01",
+ "lastUpdated": "2026-08-08 06:40",
  "sourceLog": {
-  "roadrun": "성공 (199건)",
+  "roadrun": "성공 (204건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -507,7 +507,7 @@
    "loc": "세종마루공원 밑 금강변 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.6.19 ~ 2026.8.8",
+   "reg": "2026.6.19 ~ 2026.8.14",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -965,6 +965,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 사찰런",
+   "cat": "road",
+   "date": "2026-09-19",
+   "loc": "경산 갓바위 소원길 윌슨컴퍼니 주식회사",
+   "courses": "6.3km",
+   "status": "접수중",
+   "reg": "2026.8.7 ~ 2026.9.10",
+   "url": "http://sachalrun.com/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 무한도전 Run in 경주",
    "cat": "road",
    "date": "2026-09-19",
@@ -1036,7 +1049,7 @@
    "loc": "김해 대동생태체육공원 축구장 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.3 ~ 2026.8.8",
+   "reg": "2026.7.3 ~ 2026.8.14",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1163,7 +1176,7 @@
    "date": "2026-09-20",
    "loc": "송도인천대캠퍼스 정문앞 (주)경인일보",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.8 ~ 2026.8.7",
    "url": "http://songdorun.net",
    "note": null,
@@ -1577,6 +1590,7 @@
    "reg": "8/1부터 (추첨제)",
    "url": "https://peacemarathon.co.kr/",
    "note": "참가비 저렴 (풀 3만원)",
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1822,7 +1836,7 @@
    "url": "http://futurerun.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "진안고원 포레스티벌 Run & Heal",
@@ -1882,7 +1896,7 @@
    "date": "2026-10-11",
    "loc": "상암월드컵공원 평화광장 한국유방건강재단",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.27 ~ 2026.8.7",
    "url": "http://www.pinkrun.kr",
    "note": null,
@@ -2478,6 +2492,19 @@
    "justOpened": false
   },
   {
+   "name": "제7회 중소기업 인 기살리기 마라톤 대회",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "구일역 하부 구로 안양천축구장 (사) 중소기업진흥회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.8.7 ~ 2026.8.7",
+   "url": "http://kasmirun.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제21회 사천노을 마라톤대회",
    "cat": "road",
    "date": "2026-10-31",
@@ -2654,7 +2681,7 @@
    "url": "http://runfesta.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제15회 부여 굿뜨래 마라톤 대회",
@@ -2693,7 +2720,20 @@
    "url": "http://kw-marathon.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
+  },
+  {
+   "name": "제12회 아산 은행나무길 전국마라톤",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "아산시  현충사 은행나무길 아산시 마라톤 협회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.20 ~ 2026.10.25",
+   "url": "http://asanmarathon.co.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
   },
   {
    "name": "경주시육상연맹회장배 마라톤대회",
@@ -2728,7 +2768,7 @@
    "loc": "슬로조깅 삼락생태공원 럭비구장 사상구청,사상구체육회",
    "courses": "10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.10 ~ 2026.10.11",
+   "reg": "2026.8.18 ~ 2026.10.11",
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -3190,10 +3230,23 @@
    "justOpened": false
   },
   {
+   "name": "제5회 밤섬 마라톤",
+   "cat": "road",
+   "date": "2026-12-13",
+   "loc": "상암월드컵공원 평화광장 (사)대한생활체육연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.7 ~ 2026.11.22",
+   "url": "http://bamseom.com/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제36회 진주마라톤",
    "cat": "road",
    "date": "2026-12-13",
-   "loc": "진주종합경기장 진주시육상연맹",
+   "loc": "진주노을공원 진주시육상연맹",
    "courses": "풀, 하프, 10km, 5km",
    "status": "접수예정",
    "reg": "2026.10.22 ~ 2026.11.16",
