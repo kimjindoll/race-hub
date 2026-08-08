@@ -1,48 +1,10 @@
 {
- "lastUpdated": "2026-08-08 06:40",
+ "lastUpdated": "2026-08-09 06:31",
  "sourceLog": {
   "roadrun": "성공 (204건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 양산 업힐 레이스",
-   "cat": "road",
-   "date": "2026-08-08",
-   "loc": "경남 양산",
-   "courses": "1.7K 업힐",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://www.yangsanuphillrace.kr",
-   "note": "오르막 스프린트",
-   "justOpened": false
-  },
-  {
-   "name": "2026 양산 어필(up-hill) 레이스",
-   "cat": "road",
-   "date": "2026-08-08",
-   "loc": "+양산 에덴밸리 리조트 루지장 양산시, 부산MBC",
-   "courses": "1.7Km, 2Km",
-   "status": "접수마감",
-   "reg": "2026.6.8 ~ 2026.7.23",
-   "url": "http://www.yangsanuphillrace.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제1회 테마임도  트레일런",
-   "cat": "trail",
-   "date": "2026-08-08",
-   "loc": "부산스포원 코리안런조직위",
-   "courses": "50km",
-   "status": "접수마감",
-   "reg": "2026.6.1 ~ 2026.6.30",
-   "url": "http://korearun01.imweb.me/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 안양천 달빛 나이트런",
    "cat": "road",
@@ -74,7 +36,7 @@
    "date": "2026-08-15",
    "loc": "인천 영정구 중산동 1946 국민건강진흥원",
    "courses": "8.15km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.7 ~ 2026.8.8",
    "url": "http://icnr.kr",
    "note": null,
@@ -1022,8 +984,8 @@
    "date": "2026-09-19",
    "loc": "문경종합온천 문경시, 문경시 청년센터",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.13 ~ 2026.8.3",
+   "status": "접수중",
+   "reg": "2026.7.13 ~ 2026.8.31",
    "url": "http://www.omijarun.com",
    "note": null,
    "src": "roadrun",
@@ -2307,7 +2269,7 @@
    "date": "2026-10-24",
    "loc": "도농체육공원 경기도",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.9 ~ 2026.8.8",
    "url": "http://ggcrun.kr/",
    "note": null,
