@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-08-09 06:31",
+ "lastUpdated": "2026-08-10 06:33",
  "sourceLog": {
   "roadrun": "성공 (204건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -945,7 +945,7 @@
    "date": "2026-09-19",
    "loc": "경주시민운동장 MBC",
    "courses": "하프, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.30 ~ 2026.8.9",
    "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/",
    "note": null,
@@ -1344,7 +1344,7 @@
    "courses": "36K, 22K, 7K",
    "status": "접수중",
    "reg": "2026.6.19 ~ 2026.8.31",
-   "url": "http://samsamis.com",
+   "url": "http://samsamis.com/34",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1548,12 +1548,12 @@
    "date": "2026-10-05",
    "loc": "서울 강남 봉은사로",
    "courses": "풀/하프/10K/5K",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "8/1부터 (추첨제)",
    "url": "https://peacemarathon.co.kr/",
    "note": "참가비 저렴 (풀 3만원)",
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제12회 시흥시 전국하프마라톤",
@@ -1718,7 +1718,7 @@
    "courses": "10km, 5km",
    "status": "접수중",
    "reg": "2026.7.10 ~ 2026.8.30",
-   "url": "http://samsamis.com",
+   "url": "http://samsamis.com/57",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1806,12 +1806,12 @@
    "date": "2026-10-11",
    "loc": "국립진안고원산림치유원 주식회사 락앤런",
    "courses": "16km, 6km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.10 ~ 2026.9.15",
    "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 천안 이봉주 마라톤",
@@ -3015,12 +3015,12 @@
    "date": "2026-11-21",
    "loc": "남해공설운동장 주식회사 락앤런",
    "courses": "풀, 30km, 12km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.10 ~ 2026.10.15",
    "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 세정 가을바람 유러닝페스타",
@@ -3041,12 +3041,12 @@
    "date": "2026-11-22",
    "loc": "여의도공원 문화의 마당 ZEISS/런코리아",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.10 ~ 2026.10.18",
    "url": "http://zeiss-smilerace.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울 억새풀 마라톤대회",
@@ -3106,12 +3106,12 @@
    "date": "2026-11-28",
    "loc": "월드컵공원 평화의 광장 사우나 민족",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.10 ~ 2026.8.30",
    "url": "http://mokyokrun.shop",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제14회 안중근 평화 마라톤",
