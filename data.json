@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-10 06:33",
+ "lastUpdated": "2026-08-11 06:42",
  "sourceLog": {
-  "roadrun": "성공 (204건)",
+  "roadrun": "성공 (209건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -303,8 +303,8 @@
    "date": "2026-08-30",
    "loc": "성북구 중랑천 체육공원 성북구육상연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.15 ~ 2026.8.10",
+   "status": "접수마감",
+   "reg": "2026.7.15 ~ 2026.8.9",
    "url": "http://cafe.naver.com/sblovemarathon/?viewType=pc",
    "note": null,
    "src": "roadrun",
@@ -639,6 +639,19 @@
    "status": "접수중",
    "reg": null,
    "url": "http://bbangtrailrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "비포 선라이즈 슬로우 마라톤",
+   "cat": "road",
+   "date": "2026-09-12",
+   "loc": "강릉 경포호수 일대 강릉시, 강릉관광개발공사",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.8.23",
+   "url": "http://healingtour.gtdc.or.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1062,7 +1075,7 @@
    "date": "2026-09-19",
    "loc": "JTR Miler,JTR 40J 장수종합경기장 (주)락앤런",
    "courses": "100km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.10 ~ 2026.8.10",
    "url": "http://rocknrun.kr",
    "note": null,
@@ -1203,7 +1216,7 @@
    "date": "2026-09-20",
    "loc": "중랑천 제1수변공원 동대문구육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.10 ~ 2026.8.10",
    "url": "http://www.runddm.com",
    "note": null,
@@ -1483,7 +1496,7 @@
    "date": "2026-10-04",
    "loc": "(거북이마라톤) 파주출판도시 (사)파주출판도시입주기업체협의",
    "courses": "10km, 5km, 3Km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.4 ~ 2026.8.10",
    "url": "http://runbookcity.com",
    "note": null,
@@ -1496,8 +1509,8 @@
    "date": "2026-10-04",
    "loc": "안동시민운동장 안동시, 매일신문사",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.4.13 ~ 2026.7.31",
+   "status": "접수중",
+   "reg": "2026.4.13 ~ 2026.8.31",
    "url": "http://www.admarathon.kr",
    "note": null,
    "src": "roadrun",
@@ -1553,7 +1566,7 @@
    "url": "https://peacemarathon.co.kr/",
    "note": "참가비 저렴 (풀 3만원)",
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제12회 시흥시 전국하프마라톤",
@@ -1801,6 +1814,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 대학생RUN",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "구일역 안양천 축구장 대학문화유니온",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.9.20",
+   "url": "http://www.univrun.co.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "진안고원 포레스티벌 Run & Heal",
    "cat": "road",
    "date": "2026-10-11",
@@ -1811,7 +1837,7 @@
    "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 천안 이봉주 마라톤",
@@ -2530,6 +2556,19 @@
    "justOpened": false
   },
   {
+   "name": "26서울동행마라톤대회",
+   "cat": "road",
+   "date": "2026-11-01",
+   "loc": "서울 목동종합운동장 주경기장 서울동행마라톤조직위원회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.10.2",
+   "url": "http://seoulrun.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 무안 해안 노을길 걷기 및 마라톤",
    "cat": "road",
    "date": "2026-11-01",
@@ -2604,6 +2643,19 @@
    "reg": "하반기 공지 예정",
    "url": "http://speedagency.kr",
    "note": "이색 대회",
+   "justOpened": false
+  },
+  {
+   "name": "GVIE RUN 2026 구미",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "구미 낙동강체육공원 굿피플",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.12 ~ 2026.10.9",
+   "url": "http://giverun.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -3010,6 +3062,19 @@
    "justOpened": false
   },
   {
+   "name": "GIVE RUN 2026 부산",
+   "cat": "road",
+   "date": "2026-11-21",
+   "loc": "부산 삼락생태공원 굿피플",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.12 ~ 2026.10.16",
+   "url": "http://giverun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 남해트레일레이스(가을)",
    "cat": "trail",
    "date": "2026-11-21",
@@ -3020,7 +3085,7 @@
    "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 세정 가을바람 유러닝페스타",
@@ -3041,12 +3106,12 @@
    "date": "2026-11-22",
    "loc": "여의도공원 문화의 마당 ZEISS/런코리아",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.10 ~ 2026.10.18",
+   "status": "접수예정",
+   "reg": "2026.8.24 ~ 2026.10.18",
    "url": "http://zeiss-smilerace.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울 억새풀 마라톤대회",
@@ -3111,7 +3176,7 @@
    "url": "http://mokyokrun.shop",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제14회 안중근 평화 마라톤",
