@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-11 06:42",
+ "lastUpdated": "2026-08-12 06:49",
  "sourceLog": {
-  "roadrun": "성공 (209건)",
+  "roadrun": "성공 (215건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -168,6 +168,19 @@
    "reg": null,
    "url": "http://www.runnerking.com",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 교룡산성 백야드",
+   "cat": "road",
+   "date": "2026-08-23",
+   "loc": "1회전 6회전 전북 남원시 산곡동 251-2 삼삼이즈",
+   "courses": "7K, 42K",
+   "status": "접수중",
+   "reg": "2026.8.9 ~ 2026.8.17",
+   "url": "http://samsamis.com/66",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -536,6 +549,19 @@
    "status": "접수중",
    "reg": null,
    "url": "http://www.koreatrail.net/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 문경새재 트레일런",
+   "cat": "trail",
+   "date": "2026-09-06",
+   "loc": "문경새재도립공원 제1주차장 파브코리아",
+   "courses": "13km",
+   "status": "접수마감",
+   "reg": "2026.8.10 ~ 2026.8.10",
+   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -979,6 +1005,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 청년의날 남동런",
+   "cat": "road",
+   "date": "2026-09-19",
+   "loc": "인천대공원 디지틀조선일보C&M",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.7.28 ~ 2026.9.1",
+   "url": "http://namdongrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "시포레 RUN & FIT with 디스커버리",
    "cat": "road",
    "date": "2026-09-19",
@@ -1240,7 +1279,7 @@
    "name": "제19회 가평자라섬 전국마라톤",
    "cat": "road",
    "date": "2026-09-20",
-   "loc": "커플런,가족런 가평종합운동장(경기) 가평군체육회, 세계일보",
+   "loc": "커플런,가족런 (가평) 자라섬 행사장 가평군체육회, 세계일보",
    "courses": "하프, 10km, 5km, 5Km",
    "status": "접수마감",
    "reg": "2026.4.14 ~ 2026.5.30",
@@ -1853,6 +1892,19 @@
    "justOpened": false
   },
   {
+   "name": "제6회 영등포구청장배 육상대회",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "신정교하부육상트랙구장 서울특별시영등포구체육회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.10.4",
+   "url": "http://cafe.naver.com/ydprun1/646",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 울산마라톤대회",
    "cat": "road",
    "date": "2026-10-11",
@@ -2238,6 +2290,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 서울 펫림픽 & 런 위드 고",
+   "cat": "road",
+   "date": "2026-10-24",
+   "loc": "서울 월드컵경기장 평화광장 (사)함께하는 사랑밭",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.13 ~ 2026.8.31",
+   "url": "http://runwithgo.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 뉴시스 바다마라톤",
    "cat": "road",
    "date": "2026-10-24",
@@ -2480,6 +2545,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 JUST RUN10 포천",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "포천시종합운동장 (주)러닝브레이커,전국러닝협회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.11 ~ 2026.9.11",
+   "url": "http://runten.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제7회 중소기업 인 기살리기 마라톤 대회",
    "cat": "road",
    "date": "2026-10-31",
@@ -2651,12 +2729,12 @@
    "date": "2026-11-07",
    "loc": "구미 낙동강체육공원 굿피플",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.12 ~ 2026.10.9",
    "url": "http://giverun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 문경 레전드 트레일 백두대간",
@@ -2664,12 +2742,12 @@
    "date": "2026-11-07",
    "loc": "문경새재도립공원 야외공연장 에코라인",
    "courses": "50k, 34k, 21k",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.12 ~ 2026.8.12",
    "url": "http://legendtrail.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제19회 진해마라톤",
@@ -3068,7 +3146,7 @@
    "loc": "부산 삼락생태공원 굿피플",
    "courses": "10km, 5km",
    "status": "접수예정",
-   "reg": "2026.8.12 ~ 2026.10.16",
+   "reg": "2026.8.31 ~ 2026.10.16",
    "url": "http://giverun.kr",
    "note": null,
    "src": "roadrun",
