@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-14 06:46",
+ "lastUpdated": "2026-08-15 06:26",
  "sourceLog": {
-  "roadrun": "성공 (220건)",
+  "roadrun": "성공 (224건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -779,7 +779,7 @@
    "date": "2026-09-12",
    "loc": "걷기 영등포구 신정교하부 육상트랙구 청년일보, (주)소풍",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.27 ~ 2026.8.14",
    "url": "http://whiterun.kr",
    "note": null,
@@ -856,7 +856,7 @@
    "date": "2026-09-13",
    "loc": "여의도공원 문화의마당 MBN",
    "courses": "15km, 7.5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.14 ~ 2026.8.14",
    "url": "http://web.runit.co.kr/races/1120",
    "note": null,
@@ -882,7 +882,7 @@
    "date": "2026-09-13",
    "loc": "서울 광장 일간스포츠",
    "courses": "하프, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.29 ~ 2026.8.14",
    "url": "http://runseoulrun.com",
    "note": null,
@@ -1063,7 +1063,7 @@
    "loc": "김해 대동생태체육공원 축구장 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.3 ~ 2026.8.14",
+   "reg": "2026.7.3 ~ 2026.8.21",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1088,8 +1088,8 @@
    "date": "2026-09-19",
    "loc": "걷기여의도 물빛무대 앞 광 (사)21세기경제사회연구원",
    "courses": "하프, 10km, 5km, 3km",
-   "status": "접수마감",
-   "reg": "2026.6.17 ~ 2026.8.12",
+   "status": "접수중",
+   "reg": "2026.6.17 ~ 2026.9.8",
    "url": "http://www.cyber-run.com",
    "note": null,
    "src": "roadrun",
@@ -1369,7 +1369,7 @@
    "loc": "무심천체육공원 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.14 ~ 2026.8.14",
+   "reg": "2026.7.14 ~ 2026.8.21",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1616,6 +1616,19 @@
    "status": "접수마감",
    "reg": "2026.7.22 ~ 2026.7.22",
    "url": "http://shmarathon.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 양주 천일홍 가을 페스타 마라톤",
+   "cat": "road",
+   "date": "2026-10-05",
+   "loc": "코스 양주시 나리공원 양주시체육회",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.19 ~ 2026.10.2",
+   "url": "http://yangjurun.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2815,6 +2828,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 해남땅끝 전국마라톤대회",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "대흥사쉼터 일원 해남군육상연맹",
+   "courses": "풀, 하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.13 ~ 2026.10.14",
+   "url": "http://haenammarathon.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 라운드랩 RUN",
    "cat": "road",
    "date": "2026-11-08",
@@ -3309,6 +3335,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 새한미디어 마라톤",
+   "cat": "road",
+   "date": "2026-11-29",
+   "loc": "평화의공원 평화광장 새한일보",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.8.17 ~ 2026.11.16",
+   "url": "http://sh-run.co.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제2회 천안독립기념관 마라톤대회",
    "cat": "road",
    "date": "2026-11-29",
@@ -3421,6 +3460,19 @@
    "status": "접수중",
    "reg": "2026.8.12 ~ 2026.12.9",
    "url": "http://youngrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 한강런",
+   "cat": "road",
+   "date": "2026-12-28",
+   "loc": "안양천다목적광장 (사)대한생활체육연맹",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.14 ~ 2026.12.12",
+   "url": "http://hgrun.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
