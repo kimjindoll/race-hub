@@ -1,100 +1,10 @@
 {
- "lastUpdated": "2026-08-15 06:26",
+ "lastUpdated": "2026-08-16 06:22",
  "sourceLog": {
   "roadrun": "성공 (224건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 안양천 달빛 나이트런",
-   "cat": "road",
-   "date": "2026-08-15",
-   "loc": "서울·안양천 일대",
-   "courses": "10K/5K",
-   "status": "접수마감",
-   "reg": null,
-   "url": "http://moonnightrun.kr/",
-   "note": "야간 러닝",
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 무주 나이트 트레일 (덕유산)",
-   "cat": "trail",
-   "date": "2026-08-15",
-   "loc": "전북 무주 덕유산리조트",
-   "courses": "38K/14K",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://rocknrun.kr",
-   "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "2026 INCHEON NIGHT RACE",
-   "cat": "road",
-   "date": "2026-08-15",
-   "loc": "인천 영정구 중산동 1946 국민건강진흥원",
-   "courses": "8.15km",
-   "status": "접수마감",
-   "reg": "2026.7.7 ~ 2026.8.8",
-   "url": "http://icnr.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 장수 나이트 트레일",
-   "cat": "trail",
-   "date": "2026-08-15",
-   "loc": "P,장수종합경기장 (주)락앤런",
-   "courses": "38K, 14K",
-   "status": "접수마감",
-   "reg": "2026.5.15 ~ 2026.7.31",
-   "url": "http://rocknrun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "영남알프스9봉 트레일 레이스",
-   "cat": "trail",
-   "date": "2026-08-15",
-   "loc": "9봉 5봉 가늘산장 JYD자연을달린다",
-   "courses": "87k, 45k",
-   "status": "접수마감",
-   "reg": "2026.4.1 ~ 2026.7.15",
-   "url": "http://jyd.creatorlink.net",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 전마협 광복절 무료 초청 마라톤",
-   "cat": "road",
-   "date": "2026-08-15",
-   "loc": "대전엑스포다리 밑 전국마라톤협회",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.15 ~ 2026.6.16",
-   "url": "http://mara1080.com/event/9e568eef-64ff-4548-881f-3a420689dece",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제38회 지리산화대종주 UTMB",
-   "cat": "trail",
-   "date": "2026-08-15",
-   "loc": "화엄사주차장 (사)한국산악마라톤연맹",
-   "courses": "48km, 40km, 34km, 21km",
-   "status": "접수마감",
-   "reg": "2025.12.5 ~ 2026.8.2",
-   "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250820150217&csno=20191209143330#baseline",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "2026 Happy700 평창 마라톤",
    "cat": "road",
@@ -559,8 +469,8 @@
    "date": "2026-09-06",
    "loc": "문경새재도립공원 제1주차장 파브코리아",
    "courses": "13km",
-   "status": "접수마감",
-   "reg": "2026.8.10 ~ 2026.8.10",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.9.5",
    "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
@@ -1828,19 +1738,6 @@
    "justOpened": false
   },
   {
-   "name": "제7회 천안삼거리 흥타령울트라마라톤",
-   "cat": "road",
-   "date": "2026-10-10",
-   "loc": "천안삼거리공원 천안삼거리흥타령조직위",
-   "courses": "100km, 60km",
-   "status": "접수중",
-   "reg": "2026.2.1 ~ 2026.9.30",
-   "url": "http://www.chultra.kr/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
    "name": "2026 서울레이스 (SEOUL RACE)",
    "cat": "road",
    "date": "2026-10-11",
@@ -2605,6 +2502,19 @@
    "status": "접수마감",
    "reg": "2026.8.6 ~ 2026.8.6",
    "url": "http://sunset.or.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 태종대 BEAT ON 좀비레이스",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "코스 부산 영도구 태종대 자동차야외극장(Drive in영도) 주식회사 무",
+   "courses": "4km",
+   "status": "접수예정",
+   "reg": "2026.8.20 ~ 2026.9.20",
+   "url": "http://taejongdaezombie.com",
    "note": null,
    "src": "roadrun",
    "justOpened": false
