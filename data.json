@@ -1,35 +1,10 @@
 {
- "lastUpdated": "2026-08-16 06:22",
+ "lastUpdated": "2026-08-17 06:21",
  "sourceLog": {
   "roadrun": "성공 (224건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 Happy700 평창 마라톤",
-   "cat": "road",
-   "date": "2026-08-16",
-   "loc": "강원 평창",
-   "courses": "하프/10K",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://www.ifunrunkorea.co.kr/sub0102",
-   "note": "고랭지 여름 대회",
-   "justOpened": false
-  },
-  {
-   "name": "2026Happy700평창대관령전국하프마라톤",
-   "cat": "road",
-   "date": "2026-08-16",
-   "loc": "2018 평창동계올림픽 기념관 한국실업육상연맹",
-   "courses": "하프, 10km",
-   "status": "접수마감",
-   "reg": "2026.6.10 ~ 2026.7.25",
-   "url": "http://www.ifunrunkorea.co.kr/sub0102",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "제28회 설봉철인3종대회",
    "cat": "triathlon",
@@ -3146,12 +3121,12 @@
    "date": "2026-11-22",
    "loc": "(영등포) 영롱이 억새구장 아시아투데이(사)한국마라톤연맹",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.17 ~ 2026.10.30",
    "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 평화의숲 마라톤",
@@ -3250,12 +3225,12 @@
    "date": "2026-11-29",
    "loc": "평화의공원 평화광장 새한일보",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.17 ~ 2026.11.16",
    "url": "http://sh-run.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제2회 천안독립기념관 마라톤대회",
@@ -3328,7 +3303,7 @@
    "date": "2026-12-06",
    "loc": "부산 벡스코 제1전시장 KNN,부산시",
    "courses": "풀, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.1 ~ 2026.8.16",
    "url": "http://www.busanmarathon.com",
    "note": null,
