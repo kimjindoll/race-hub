@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-08-17 06:21",
+ "lastUpdated": "2026-08-18 06:27",
  "sourceLog": {
   "roadrun": "성공 (224건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -61,7 +61,7 @@
    "date": "2026-08-23",
    "loc": "1회전 6회전 전북 남원시 산곡동 251-2 삼삼이즈",
    "courses": "7K, 42K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.9 ~ 2026.8.17",
    "url": "http://samsamis.com/66",
    "note": null,
@@ -2602,12 +2602,12 @@
    "date": "2026-11-01",
    "loc": "태화강 둔치 울산인권마라톤대회 조직위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.18 ~ 2026.9.18",
    "url": "http://www.humanrun.org",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 jtbc 마라톤",
@@ -2783,12 +2783,12 @@
    "date": "2026-11-08",
    "loc": "슬로조깅 삼락생태공원 럭비구장 사상구청,사상구체육회",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.18 ~ 2026.10.11",
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울구석구석 국제 트레일런",
@@ -3126,7 +3126,7 @@
    "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 평화의숲 마라톤",
@@ -3230,7 +3230,7 @@
    "url": "http://sh-run.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제2회 천안독립기념관 마라톤대회",
