@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-08-18 06:27",
+ "lastUpdated": "2026-08-19 06:25",
  "sourceLog": {
   "roadrun": "성공 (224건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -340,7 +340,7 @@
    "date": "2026-09-05",
    "loc": "걷기 울릉도내 나리분지 이일선기념사업회",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.14 ~ 2026.8.18",
    "url": "http://forms.gle/6Y88RJqW6QCZkZoE7",
    "note": null,
@@ -379,7 +379,7 @@
    "date": "2026-09-05",
    "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.26 ~ 2026.8.18",
    "url": "http://vrun.kr/index.asp",
    "note": null,
@@ -793,7 +793,7 @@
    "date": "2026-09-13",
    "loc": "걷기 상암동 평화의공원 평화광장 (사)대한치과의사협회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.29 ~ 2026.8.18",
    "url": "http://www.smilerun.co.kr",
    "note": null,
@@ -1511,12 +1511,12 @@
    "date": "2026-10-05",
    "loc": "코스 양주시 나리공원 양주시체육회",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.19 ~ 2026.10.2",
    "url": "http://yangjurun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "런센스 2026",
@@ -2334,7 +2334,7 @@
    "date": "2026-10-25",
    "loc": "코스 부산 벡스코 일원 부산일보사",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.28 ~ 2026.8.18",
    "url": "http://marathon.busan.com",
    "note": null,
@@ -2459,7 +2459,7 @@
    "name": "제7회 중소기업 인 기살리기 마라톤 대회",
    "cat": "road",
    "date": "2026-10-31",
-   "loc": "구일역 하부 구로 안양천축구장 (사) 중소기업진흥회",
+   "loc": "구일역(1호선) 하부 구로 안양천축구장 (사) 중소기업진흥회",
    "courses": "하프, 10km, 5km",
    "status": "접수마감",
    "reg": "2026.8.7 ~ 2026.8.7",
@@ -2607,7 +2607,7 @@
    "url": "http://www.humanrun.org",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 jtbc 마라톤",
@@ -2788,7 +2788,7 @@
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울구석구석 국제 트레일런",
@@ -3119,10 +3119,10 @@
    "name": "2026 서울 억새풀 마라톤대회",
    "cat": "road",
    "date": "2026-11-22",
-   "loc": "(영등포) 영롱이 억새구장 아시아투데이(사)한국마라톤연맹",
+   "loc": "(영등포) 영롱이 억새구장 세계일보, (사)한국마라톤연맹",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.17 ~ 2026.10.30",
+   "status": "접수예정",
+   "reg": "2026.8.20 ~ 2026.10.30",
    "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
