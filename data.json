@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-19 06:25",
+ "lastUpdated": "2026-08-20 06:26",
  "sourceLog": {
-  "roadrun": "성공 (224건)",
+  "roadrun": "성공 (228건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -715,8 +715,8 @@
    "date": "2026-09-13",
    "loc": "구일역 하부 인라인스케이트장 구로구육상연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.3 ~ 2026.8.31",
+   "status": "접수마감",
+   "reg": "2026.8.3 ~ 2026.8.18",
    "url": "http://cafe.daum.net/guro-run/LvM7/45",
    "note": null,
    "src": "roadrun",
@@ -986,7 +986,7 @@
    "date": "2026-09-19",
    "loc": "금산세계인삼엑스포주차장 전마협",
    "courses": "하프, 10km, 4km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.17 ~ 2026.8.19",
    "url": "http://mara1080.com/event/2044eb82-fcdb-4e56-b79b-f3543a6a360d",
    "note": null,
@@ -1509,14 +1509,14 @@
    "name": "2026 양주 천일홍 가을 페스타 마라톤",
    "cat": "road",
    "date": "2026-10-05",
-   "loc": "코스 양주시 나리공원 양주시체육회",
-   "courses": "10km, 5km",
+   "loc": "걷기 양주시 나리농원 양주시체육회",
+   "courses": "하프, 10km, 5km",
    "status": "접수중",
-   "reg": "2026.8.19 ~ 2026.10.2",
+   "reg": "2026.8.19 ~ 2026.10.1",
    "url": "http://yangjurun.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "런센스 2026",
@@ -1604,6 +1604,19 @@
    "status": "접수마감",
    "reg": "2026.3.25 ~ 2026.4.14",
    "url": "http://amarunhs.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "카카오프렌즈런 2026",
+   "cat": "road",
+   "date": "2026-10-10",
+   "loc": "탄천 종합운동장 카카오",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.8.10 ~ 2026.8.17",
+   "url": "http://b.kakao.com/views/kakaofriendsrun",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2194,7 +2207,7 @@
    "loc": "서울 월드컵경기장 평화광장 (사)함께하는 사랑밭",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.8.13 ~ 2026.8.31",
+   "reg": "2026.8.13 ~ 2026.9.18",
    "url": "http://runwithgo.com",
    "note": null,
    "src": "roadrun",
@@ -2313,6 +2326,19 @@
    "reg": null,
    "url": "https://www.thebike.co.kr/bbs/board.php?bo_table=10",
    "note": "접수 일정 미공지",
+   "justOpened": false
+  },
+  {
+   "name": "울산 런 페스타 (U-RUN)",
+   "cat": "road",
+   "date": "2026-10-25",
+   "loc": "울산 문수 국제양궁장 울산문화방송(주)",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.19 ~ 2026.9.20",
+   "url": "http://www.ulsanrunfesta.com",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2487,12 +2513,12 @@
    "date": "2026-10-31",
    "loc": "코스 부산 영도구 태종대 자동차야외극장(Drive in영도) 주식회사 무",
    "courses": "4km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.20 ~ 2026.9.20",
    "url": "http://taejongdaezombie.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 오티즘 레이스",
@@ -2744,12 +2770,12 @@
    "date": "2026-11-08",
    "loc": "아산시  현충사 은행나무길 아산시 마라톤 협회",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.20 ~ 2026.10.25",
    "url": "http://asanmarathon.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "경주시육상연맹회장배 마라톤대회",
@@ -3121,12 +3147,12 @@
    "date": "2026-11-22",
    "loc": "(영등포) 영롱이 억새구장 세계일보, (사)한국마라톤연맹",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.20 ~ 2026.10.30",
    "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 평화의숲 마라톤",
@@ -3246,6 +3272,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 정읍공동체 프리마켓 마라톤",
+   "cat": "road",
+   "date": "2026-11-29",
+   "loc": "가족부(2인1조),단체전(3인1조) 정읍천변 어린이전용축구장 대흥리마을공",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.18 ~ 2026.11.15",
+   "url": "http://www.xn--ob0bs4k27c8xc9da633vynbkyur2ft5hckl.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 하남 미사 호수 에너지런",
    "cat": "road",
    "date": "2026-12-05",
@@ -3311,6 +3350,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 소년소녀 가장 돕기 기부런",
+   "cat": "road",
+   "date": "2026-12-12",
+   "loc": "걷기 상암동 평화광장 소풍",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.18 ~ 2026.11.6",
+   "url": "http://gibukidsrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제5회 밤섬 마라톤",
    "cat": "road",
    "date": "2026-12-13",
@@ -3355,8 +3407,8 @@
    "date": "2026-12-28",
    "loc": "안양천다목적광장 (사)대한생활체육연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.14 ~ 2026.12.12",
+   "status": "접수예정",
+   "reg": "2026.9.20 ~ 2026.12.12",
    "url": "http://hgrun.kr",
    "note": null,
    "src": "roadrun",
