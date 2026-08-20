@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-20 06:26",
+ "lastUpdated": "2026-08-21 06:29",
  "sourceLog": {
-  "roadrun": "성공 (228건)",
+  "roadrun": "성공 (233건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -16,19 +16,6 @@
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2104",
    "note": "8/22~23, 현재 592명 신청",
    "src": "ktf",
-   "justOpened": false
-  },
-  {
-   "name": "제2회 한양도성길 트레일런",
-   "cat": "trail",
-   "date": "2026-08-22",
-   "loc": "낙산공원중앙광장(낙산길54) 파브코리아",
-   "courses": "20km",
-   "status": "접수중",
-   "reg": "2026.6.15 ~ 2026.8.20",
-   "url": "http://www.mtrailrun.kr/",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -193,6 +180,19 @@
    "reg": null,
    "url": "http://daegwallyeongrun.com",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "포항호미반도트레일런",
+   "cat": "trail",
+   "date": "2026-08-30",
+   "loc": "도구해수욕장 파브코리아",
+   "courses": "15km, 10km",
+   "status": "접수중",
+   "reg": "2026.8.15 ~ 2026.8.29",
+   "url": "http://www.mtrailrun.kr/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1101,7 +1101,7 @@
    "date": "2026-09-20",
    "loc": "평화의 공원 평화광장 마포구체육회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.23 ~ 2026.8.20",
    "url": "http://mara1080.com/event/53b338c6-d38a-47b3-9479-080b00c6113a",
    "note": null,
@@ -1331,8 +1331,8 @@
    "date": "2026-10-03",
    "loc": "서산스포츠테마파크 서산시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.3.20 ~ 2026.9.3",
+   "status": "접수마감",
+   "reg": "2026.3.20 ~ 2026.7.14",
    "url": "http://mara1080.com/event/fcaa0bc8-1489-47c3-8fec-8e5a5c17284e",
    "note": null,
    "src": "roadrun",
@@ -1591,6 +1591,19 @@
    "status": "접수중",
    "reg": "2026.8.2 ~ 2026.8.23",
    "url": "http://cafe.naver.com/browna6seu",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 고흥우주항공배 마라톤",
+   "cat": "road",
+   "date": "2026-10-09",
+   "loc": "고흥군 박지성공설운동장 고흥군체육회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.19 ~ 2026.9.20",
+   "url": "http://mara1080.com/event/10fcc153-1bb7-403e-8f57-7571c1c324d5",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2518,7 +2531,7 @@
    "url": "http://taejongdaezombie.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 오티즘 레이스",
@@ -2661,6 +2674,19 @@
    "justOpened": false
   },
   {
+   "name": "SaveRace 2026",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "여의도공원 문화의마당 카카오뱅크, 유니셰프",
+   "courses": "10km",
+   "status": "접수예정",
+   "reg": "2026.9.1 ~ 2026.10.25",
+   "url": "http://www.saverace.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "GVIE RUN 2026 구미",
    "cat": "road",
    "date": "2026-11-07",
@@ -2726,6 +2752,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 푸르메런",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "상암 월드컵공원 평화광장 푸르메재단",
+   "courses": "10km, 3km",
+   "status": "접수예정",
+   "reg": "2026.8.26 ~ 2026.9.23",
+   "url": "http://purmerun.com/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 영천댐 마라톤",
    "cat": "road",
    "date": "2026-11-07",
@@ -2734,6 +2773,19 @@
    "status": "접수예정",
    "reg": "2026.9.1 ~ 2026.9.30",
    "url": "http://runyc.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제24회 전국 나주 금성산숲길마라톤",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "나주시 금성산 일원 나주시체육회",
+   "courses": "하프, 6km, 11km",
+   "status": "접수예정",
+   "reg": "2026.8.24 ~ 2026.9.10",
+   "url": "http://www.geumsungsan.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2775,7 +2827,7 @@
    "url": "http://asanmarathon.co.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "경주시육상연맹회장배 마라톤대회",
@@ -2943,6 +2995,19 @@
    "reg": null,
    "url": "https://blog.naver.com/nayasunhihi/224336966926",
    "note": "공식 접수 정보 확인 필요",
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 나눔레이스 인 용인",
+   "cat": "road",
+   "date": "2026-11-15",
+   "loc": "세리박위드용인 나눔레이스조직위원회",
+   "courses": "10km, 15km",
+   "status": "접수예정",
+   "reg": "2026.8.24 ~ 2026.9.6",
+   "url": "http://nanumrun.or.kr",
+   "note": null,
    "src": "roadrun",
    "justOpened": false
   },
@@ -3152,7 +3217,7 @@
    "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 평화의숲 마라톤",
