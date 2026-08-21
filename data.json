@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-21 06:29",
+ "lastUpdated": "2026-08-22 06:25",
  "sourceLog": {
-  "roadrun": "성공 (233건)",
+  "roadrun": "성공 (234건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -137,7 +137,7 @@
    "date": "2026-08-29",
    "loc": "의정부시 동막교 인라인광장 플랜인",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.25 ~ 2026.8.21",
    "url": "http://funandrun.co.kr",
    "note": null,
@@ -947,7 +947,7 @@
    "date": "2026-09-19",
    "loc": "김해 대동생태체육공원 축구장 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.3 ~ 2026.8.21",
    "url": "http://runten.co.kr",
    "note": null,
@@ -1253,7 +1253,7 @@
    "date": "2026-10-03",
    "loc": "무심천체육공원 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.14 ~ 2026.8.21",
    "url": "http://runten.co.kr",
    "note": null,
@@ -2026,8 +2026,8 @@
    "date": "2026-10-17",
    "loc": "커플런 가족런 정선생태체험학습장 정선군",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.23 ~ 2026.7.22",
+   "status": "접수중",
+   "reg": "2026.6.23 ~ 2026.8.31",
    "url": "http://jsrun.kr",
    "note": null,
    "src": "roadrun",
@@ -2752,7 +2752,7 @@
    "justOpened": false
   },
   {
-   "name": "2026 푸르메런",
+   "name": "넥슨과 함께하는 2026 푸르메런",
    "cat": "road",
    "date": "2026-11-07",
    "loc": "상암 월드컵공원 평화광장 푸르메재단",
@@ -2861,8 +2861,8 @@
    "date": "2026-11-08",
    "loc": "슬로조깅 삼락생태공원 럭비구장 사상구청,사상구체육회",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.18 ~ 2026.10.11",
+   "status": "접수예정",
+   "reg": "2026.8.24 ~ 2026.10.11",
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -3241,6 +3241,19 @@
    "status": "접수예정",
    "reg": "2026.9.1 ~ 2026.10.1",
    "url": "http://www.djrun.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 인천마라톤",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "인천아시아드 주경기장 인천시,대한육연",
+   "courses": "풀, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.9.21 ~ 2026.9.21",
+   "url": "http://incheonmarathn.or.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
