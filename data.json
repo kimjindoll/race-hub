@@ -1,73 +1,10 @@
 {
- "lastUpdated": "2026-08-23 06:23",
+ "lastUpdated": "2026-08-24 06:23",
  "sourceLog": {
   "roadrun": "성공 (234건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "대구세계마스터스육상 10km 로드레이스",
-   "cat": "road",
-   "date": "2026-08-23",
-   "loc": "대구",
-   "courses": "10K (만 35세 이상, 3,000명)",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://www.wmac2026.com",
-   "note": "8/30 하프 부문 별도",
-   "justOpened": false
-  },
-  {
-   "name": "2026 금수산 트레일러닝",
-   "cat": "trail",
-   "date": "2026-08-23",
-   "loc": "충북 제천 청풍리조트",
-   "courses": "22K/13K",
-   "status": "확인필요",
-   "reg": null,
-   "url": "http://www.runnerking.com",
-   "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "2026 교룡산성 백야드",
-   "cat": "road",
-   "date": "2026-08-23",
-   "loc": "1회전 6회전 전북 남원시 산곡동 251-2 삼삼이즈",
-   "courses": "7K, 42K",
-   "status": "접수마감",
-   "reg": "2026.8.9 ~ 2026.8.17",
-   "url": "http://samsamis.com/66",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026대구세계마스터즈 10km대회",
-   "cat": "road",
-   "date": "2026-08-23",
-   "loc": "35세이상일반인,3000명 대구스타디움 일원 대구광역시,세계마스터즈육상연",
-   "courses": "10km",
-   "status": "접수마감",
-   "reg": "2025.12.23 ~ 2026.6.23",
-   "url": "http://www.wmac2026.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 금수산트레일러닝대회",
-   "cat": "trail",
-   "date": "2026-08-23",
-   "loc": "청풍리조트 제천시산악연맹",
-   "courses": "22km, 13km",
-   "status": "접수마감",
-   "reg": "2026.4.7 ~ 2026.5.31",
-   "url": "http://www.runnerking.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "제18회 전국해양스포츠제전 철인3종",
    "cat": "triathlon",
@@ -150,7 +87,7 @@
    "date": "2026-08-30",
    "loc": "서울 여의도 한강공원",
    "courses": "하프/10K/5K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "http://seoulhalfrun.kr/",
    "note": null,
@@ -547,7 +484,7 @@
    "date": "2026-09-12",
    "loc": "강릉 경포호수 일대 강릉시, 강릉관광개발공사",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.10 ~ 2026.8.23",
    "url": "http://healingtour.gtdc.or.kr",
    "note": null,
@@ -560,7 +497,7 @@
    "date": "2026-09-12",
    "loc": "청주시 무심천체육공원 청주청년회의소/주식회사 유고",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.29 ~ 2026.8.23",
    "url": "http://n-runplus.co.kr",
    "note": null,
@@ -934,8 +871,8 @@
    "date": "2026-09-19",
    "loc": "김해 대동생태체육공원 축구장 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.3 ~ 2026.8.21",
+   "status": "접수중",
+   "reg": "2026.7.3 ~ 2026.8.31",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1240,8 +1177,8 @@
    "date": "2026-10-03",
    "loc": "무심천체육공원 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.14 ~ 2026.8.21",
+   "status": "접수중",
+   "reg": "2026.7.14 ~ 2026.8.31",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1575,7 +1512,7 @@
    "date": "2026-10-09",
    "loc": "걷기 안성 미리내 성지 마라톤선교연합회/천주교수원교구",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.2 ~ 2026.8.23",
    "url": "http://cafe.naver.com/browna6seu",
    "note": null,
@@ -2705,12 +2642,12 @@
    "date": "2026-11-07",
    "loc": "진해공설운동장 (주)경남신문사",
    "courses": "5km, 11.11km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.24 ~ 2026.10.9",
    "url": "http://www.jinhaemarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 해양수도 부산 런페스타",
@@ -2770,12 +2707,12 @@
    "date": "2026-11-08",
    "loc": "나주시 금성산 일원 나주시체육회",
    "courses": "하프, 6km, 11km",
-   "status": "접수예정",
-   "reg": "2026.8.24 ~ 2026.9.10",
-   "url": "http://www.geumsungsan.co.kr",
+   "status": "접수중",
+   "reg": "2026.8.24 ~ 2026.10.10",
+   "url": "http://www.geumsungsan.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 해남땅끝 전국마라톤대회",
@@ -2848,12 +2785,12 @@
    "date": "2026-11-08",
    "loc": "슬로조깅 삼락생태공원 럭비구장 사상구청,사상구체육회",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.24 ~ 2026.10.11",
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울구석구석 국제 트레일런",
@@ -2991,12 +2928,12 @@
    "date": "2026-11-15",
    "loc": "세리박위드용인 나눔레이스조직위원회",
    "courses": "10km, 15km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.24 ~ 2026.9.6",
    "url": "http://nanumrun.or.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제28회 부산국제마라톤",
@@ -3186,12 +3123,12 @@
    "date": "2026-11-22",
    "loc": "여의도공원 문화의 마당 ZEISS/런코리아",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.24 ~ 2026.10.18",
    "url": "http://zeiss-smilerace.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 서울 억새풀 마라톤대회",
