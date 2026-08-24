@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-24 06:23",
+ "lastUpdated": "2026-08-25 06:30",
  "sourceLog": {
-  "roadrun": "성공 (234건)",
+  "roadrun": "성공 (233건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -172,12 +172,12 @@
    "justOpened": false
   },
   {
-   "name": "2026 시흥시장배 거북섬 전국 철인3종대회(토요일: 스프린트 / 일요일: 스탠다드)",
+   "name": "2026 시흥시장배 거북섬 전국 철인3종대회(토요일: 스프린트 / 일요일: 스탠다드) 중등부, 주니어부 모집 - 8월 26일 17:00 마감",
    "cat": "triathlon",
    "date": "2026-09-04",
    "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06 심판",
    "courses": null,
-   "status": "접수마감",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2098&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
@@ -316,7 +316,7 @@
    "date": "2026-09-05",
    "loc": "순천동천천변공원 순천만조직위",
    "courses": "100km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.1 ~ 2026.8.24",
    "url": "http://www.scultra100.net",
    "note": null,
@@ -871,8 +871,8 @@
    "date": "2026-09-19",
    "loc": "김해 대동생태체육공원 축구장 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.3 ~ 2026.8.31",
+   "status": "접수마감",
+   "reg": "2026.7.3 ~ 2026.8.24",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2054,7 +2054,7 @@
    "date": "2026-10-18",
    "loc": "금호강 산격야영장 대구광역시북구체육회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.3 ~ 2026.8.24",
    "url": "http://maraton.dbsfa365.co.kr/",
    "note": null,
@@ -2647,7 +2647,7 @@
    "url": "http://www.jinhaemarathon.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 해양수도 부산 런페스타",
@@ -2712,7 +2712,7 @@
    "url": "http://www.geumsungsan.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 해남땅끝 전국마라톤대회",
@@ -2790,7 +2790,7 @@
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울구석구석 국제 트레일런",
@@ -2824,12 +2824,12 @@
    "date": "2026-11-08",
    "loc": "다대포 해수욕장 아시아경제",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.25 ~ 2026.10.9",
    "url": "http://heritagerun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제11회 송파구청장배 마라톤",
@@ -2933,7 +2933,7 @@
    "url": "http://nanumrun.or.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제28회 부산국제마라톤",
@@ -3128,7 +3128,7 @@
    "url": "http://zeiss-smilerace.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 서울 억새풀 마라톤대회",
@@ -3165,19 +3165,6 @@
    "status": "접수예정",
    "reg": "2026.9.1 ~ 2026.10.1",
    "url": "http://www.djrun.kr/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 인천마라톤",
-   "cat": "road",
-   "date": "2026-11-22",
-   "loc": "인천아시아드 주경기장 인천시,대한육연",
-   "courses": "풀, 10km, 5km",
-   "status": "접수예정",
-   "reg": "2026.9.21 ~ 2026.9.21",
-   "url": "http://incheonmarathn.or.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
