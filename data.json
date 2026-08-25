@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-25 06:30",
+ "lastUpdated": "2026-08-26 06:29",
  "sourceLog": {
-  "roadrun": "성공 (233건)",
+  "roadrun": "성공 (235건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -639,8 +639,8 @@
    "date": "2026-09-13",
    "loc": "구일역 하부 인라인스케이트장 구로구육상연맹",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.3 ~ 2026.8.18",
+   "status": "접수중",
+   "reg": "2026.8.3 ~ 2026.8.31",
    "url": "http://cafe.daum.net/guro-run/LvM7/45",
    "note": null,
    "src": "roadrun",
@@ -1541,6 +1541,19 @@
    "status": "접수마감",
    "reg": "2026.3.25 ~ 2026.4.14",
    "url": "http://amarunhs.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 하트런",
+   "cat": "trail",
+   "date": "2026-10-10",
+   "loc": "올림픽공원 피크닉장 하트-하트재단",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.24 ~ 2026.9.11",
+   "url": "http://heartrun.co.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2474,14 +2487,14 @@
    "name": "제22회 울진 트라이애슬론 대회",
    "cat": "triathlon",
    "date": "2026-10-31",
-   "loc": "울진군 후포면 요트경기장 2026.10.31 ~ 11.01 심판",
+   "loc": "울진군 후포면 요트경기장 2026.10.31 ~ 11.01 심판 신청 신",
    "courses": null,
-   "status": "접수예정",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2111&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 진도 해안도로랠리 자전거대회",
@@ -2681,12 +2694,12 @@
    "date": "2026-11-07",
    "loc": "상암 월드컵공원 평화광장 푸르메재단",
    "courses": "10km, 3km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.8.26 ~ 2026.9.23",
    "url": "http://purmerun.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 영천댐 마라톤",
@@ -2829,7 +2842,7 @@
    "url": "http://heritagerun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제11회 송파구청장배 마라톤",
@@ -2866,6 +2879,19 @@
    "status": "접수중",
    "reg": "2026.6.1 ~ 2026.9.30",
    "url": "http://www.거제앵산트레일레이스.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제2회 한강 브릿지 런",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "구리한강시민공원 주차장 파브코리아",
+   "courses": "65km",
+   "status": "접수중",
+   "reg": "2026.8.21 ~ 2026.11.13",
+   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
