@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-26 06:29",
+ "lastUpdated": "2026-08-27 09:30",
  "sourceLog": {
-  "roadrun": "성공 (235건)",
+  "roadrun": "성공 (237건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -159,25 +159,12 @@
    "justOpened": false
   },
   {
-   "name": "사우나런 in 뚝섬한강공원",
-   "cat": "road",
-   "date": "2026-08-31",
-   "loc": "뚝섬한강공원 인근 사우나런",
-   "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.6 ~ 2026.8.31",
-   "url": "http://saunarun.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
    "name": "2026 시흥시장배 거북섬 전국 철인3종대회(토요일: 스프린트 / 일요일: 스탠다드) 중등부, 주니어부 모집 - 8월 26일 17:00 마감",
    "cat": "triathlon",
    "date": "2026-09-04",
    "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06 심판",
    "courses": null,
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2098&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
@@ -510,7 +497,7 @@
    "date": "2026-09-12",
    "loc": "경인아라뱃길여객터미널 아라타워 계란자조금관리위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.6 ~ 2026.8.26",
    "url": "http://egg-run.com",
    "note": null,
@@ -2023,6 +2010,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 하남시 시장기 당정마라톤",
+   "cat": "road",
+   "date": "2026-10-18",
+   "loc": "하남스타필드 앞 당정뜰 하남시육상연맹",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.9.2 ~ 2026.9.18",
+   "url": "http://runcop.com/event/hanam",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제19회 중랑구청장배 장미 마라톤",
    "cat": "road",
    "date": "2026-10-18",
@@ -2349,8 +2349,8 @@
    "date": "2026-10-25",
    "loc": "청도공설운동장 청도군체육회, 대구일보",
    "courses": "하프, 10km, 5.9km",
-   "status": "접수중",
-   "reg": "2026.7.1 ~ 2026.8.28",
+   "status": "접수마감",
+   "reg": "2026.7.1 ~ 2026.7.31",
    "url": "http://청도반시마라톤.kr",
    "note": null,
    "src": "roadrun",
@@ -2487,14 +2487,14 @@
    "name": "제22회 울진 트라이애슬론 대회",
    "cat": "triathlon",
    "date": "2026-10-31",
-   "loc": "울진군 후포면 요트경기장 2026.10.31 ~ 11.01 심판 신청 신",
+   "loc": "울진군 후포면 요트경기장 2026.10.31 ~ 11.01 심판 조회 신",
    "courses": null,
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2111&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 진도 해안도로랠리 자전거대회",
@@ -2552,8 +2552,8 @@
    "date": "2026-11-01",
    "loc": "김천종합스포츠타운 김천시체육회, 매일신문사",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.15 ~ 2026.9.18",
+   "status": "접수마감",
+   "reg": "2026.7.15 ~ 2026.8.24",
    "url": "http://gcmarathon.co.kr",
    "note": null,
    "src": "roadrun",
@@ -2699,7 +2699,7 @@
    "url": "http://purmerun.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 영천댐 마라톤",
@@ -2879,6 +2879,19 @@
    "status": "접수중",
    "reg": "2026.6.1 ~ 2026.9.30",
    "url": "http://www.거제앵산트레일레이스.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 영종 하늘길 마라톤",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "인천, 영종 씨사이드파크 일대 리빗",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.24 ~ 2026.10.8",
+   "url": "http://www.leaveit.co.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -3412,6 +3425,19 @@
    "status": "접수중",
    "reg": "2026.8.12 ~ 2026.12.9",
    "url": "http://youngrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 코리아 시즌 레이스",
+   "cat": "road",
+   "date": "2026-12-26",
+   "loc": "상암월드컵공원 평화광장 (사)한국경비원협회중앙회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.25 ~ 2026.12.16",
+   "url": "http://k-run.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
