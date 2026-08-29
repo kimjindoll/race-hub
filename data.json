@@ -1,61 +1,10 @@
 {
- "lastUpdated": "2026-08-29 12:05",
+ "lastUpdated": "2026-08-30 08:01",
  "sourceLog": {
   "roadrun": "성공 (241건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 단양 달빛레이스",
-   "cat": "road",
-   "date": "2026-08-29",
-   "loc": "충북 단양 생활체육공원",
-   "courses": "10K/5K",
-   "status": "접수마감",
-   "reg": null,
-   "url": "http://danyangmarathon.kr",
-   "note": "야간 레이스",
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "한성자동차 2026 양평 그란폰도",
-   "cat": "cycling",
-   "date": "2026-08-29",
-   "loc": "경기 양평종합운동장",
-   "courses": "그란폰도 93.8km/챌린지 47.1km",
-   "status": "확인필요",
-   "reg": "5/20~ 선착순 2,500명",
-   "url": "https://www.yangpyeonggranfondo.com",
-   "note": "잔여석 확인 필요",
-   "justOpened": false
-  },
-  {
-   "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
-   "cat": "road",
-   "date": "2026-08-29",
-   "loc": "의정부시 동막교 인라인광장 플랜인",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.25 ~ 2026.8.21",
-   "url": "http://funandrun.co.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 전마협 증평 무료 마라톤",
-   "cat": "road",
-   "date": "2026-08-29",
-   "loc": "증평군 다목적운동장 일원 전국마라톤협회",
-   "courses": "10km",
-   "status": "접수마감",
-   "reg": "2026.6.8 ~ 2026.6.16",
-   "url": "http://mara1080.com/event/48116855-ac2a-4db5-b343-593a01c5b353",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
   {
    "name": "제3회 한강 서울 하프 마라톤",
    "cat": "road",
@@ -79,19 +28,6 @@
    "reg": null,
    "url": "http://daegwallyeongrun.com",
    "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "포항호미반도트레일런",
-   "cat": "trail",
-   "date": "2026-08-30",
-   "loc": "도구해수욕장 파브코리아",
-   "courses": "15km, 10km",
-   "status": "접수중",
-   "reg": "2026.8.15 ~ 2026.8.29",
-   "url": "http://www.mtrailrun.kr/",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -320,19 +256,6 @@
    "status": "접수중",
    "reg": null,
    "url": "http://www.koreatrail.net/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 문경새재 트레일런",
-   "cat": "trail",
-   "date": "2026-09-06",
-   "loc": "문경새재도립공원 제1주차장 파브코리아",
-   "courses": "13km",
-   "status": "접수중",
-   "reg": "2026.8.10 ~ 2026.9.5",
-   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1293,7 +1216,7 @@
    "date": "2026-10-04",
    "loc": "창원종합운동장 보조경기장 (주)경남신문사",
    "courses": "10km, 3km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.13 ~ 2026.8.29",
    "url": "http://www.knmarathon.co.kr",
    "note": null,
@@ -2230,6 +2153,19 @@
    "justOpened": false
   },
   {
+   "name": "서울 대모-구룡산트레일런",
+   "cat": "trail",
+   "date": "2026-10-24",
+   "loc": "수서역6번출구 파브코리아",
+   "courses": "14.6km",
+   "status": "접수중",
+   "reg": "2026.8.15 ~ 2026.10.23",
+   "url": "http://www.mtrailrun.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 제3회 감성런",
    "cat": "road",
    "date": "2026-10-24",
@@ -2620,6 +2556,19 @@
    "status": "접수중",
    "reg": "2026.8.12 ~ 2026.10.9",
    "url": "http://giverun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "남한산성트레일",
+   "cat": "trail",
+   "date": "2026-11-07",
+   "loc": "산성로타리 명품트레일런",
+   "courses": "13km",
+   "status": "접수중",
+   "reg": "2026.8.29 ~ 2026.11.6",
+   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -3515,6 +3464,32 @@
    "status": "접수마감",
    "reg": "2026.3.26 ~ 2026.7.30",
    "url": "http://insiderun.me",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 양산 어필(up-hill) 레이스",
+   "cat": "road",
+   "date": "2027-08-08",
+   "loc": "+양산 에덴밸리 리조트 루지장 양산시, 부산MBC",
+   "courses": "1.7Km, 2Km",
+   "status": "접수마감",
+   "reg": "2026.6.8 ~ 2026.7.23",
+   "url": "http://www.yangsanuphillrace.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제1회 테마임도  트레일런",
+   "cat": "trail",
+   "date": "2027-08-08",
+   "loc": "부산스포원 코리안런조직위",
+   "courses": "50km",
+   "status": "접수마감",
+   "reg": "2026.6.1 ~ 2026.6.30",
+   "url": "http://korearun01.imweb.me/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
