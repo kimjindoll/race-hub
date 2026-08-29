@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-08-28 14:08",
+ "lastUpdated": "2026-08-29 12:05",
  "sourceLog": {
-  "roadrun": "성공 (237건)",
+  "roadrun": "성공 (241건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -961,7 +961,7 @@
    "date": "2026-09-20",
    "loc": "송도인천대캠퍼스 정문앞 (주)경인일보",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.8 ~ 2026.8.28",
    "url": "http://songdorun.net",
    "note": null,
@@ -1694,7 +1694,7 @@
    "date": "2026-10-11",
    "loc": "천안종합운동장 일원 천안시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.31 ~ 2026.8.28",
    "url": "http://bjlee.casports.or.kr",
    "note": null,
@@ -1733,7 +1733,7 @@
    "date": "2026-10-11",
    "loc": "문경시민운동장 영남일보",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.10 ~ 2026.8.28",
    "url": "http://mgmarathon.kr",
    "note": null,
@@ -2212,6 +2212,19 @@
    "status": "접수중",
    "reg": "2026.7.14 ~ 2026.8.31",
    "url": "http://iksangiverun.or.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 담양 트레일런 데이브레이크",
+   "cat": "trail",
+   "date": "2026-10-24",
+   "loc": "담양군 일원 담양군",
+   "courses": "29km, 9km",
+   "status": "접수중",
+   "reg": "2026.8.27 ~ 2026.10.24",
+   "url": "http://projectruntrip.com",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2859,6 +2872,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 통큰런",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "(가족런) 상암 월드컵공원 평화광장 롯데마트, 롯데슈퍼, 기아대책",
+   "courses": "10km, 5km, 3km",
+   "status": "접수예정",
+   "reg": "2026.9.14 ~ 2026.10.23",
+   "url": "http://tongkeun-run.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 영종 하늘길 마라톤",
    "cat": "road",
    "date": "2026-11-14",
@@ -3080,6 +3106,19 @@
    "justOpened": false
   },
   {
+   "name": "제16회 대전서구청장배 마라톤대회",
+   "cat": "road",
+   "date": "2026-11-15",
+   "loc": "가족코스,건강코스 대전 유성구  엑스포 다리밑 대전서구육상연맹/중걷마런",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.28 ~ 2026.10.28",
+   "url": "http://JGMRUN.COM",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제24회 대모산,구룡산 트레일런",
    "cat": "trail",
    "date": "2026-11-15",
@@ -3127,6 +3166,19 @@
    "status": "접수중",
    "reg": "2026.7.8 ~ 2026.11.7",
    "url": "http://urfesta.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 인천마라톤",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "인천아시아드 주경기장, 운서역 인천시,대한육상경기연맹",
+   "courses": "풀, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.9.7 ~ 2026.9.8",
+   "url": "http://incheonmarathon.or.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
