@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-09-01 09:25",
+ "lastUpdated": "2026-09-02 08:05",
  "sourceLog": {
   "roadrun": "성공 (223건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -473,7 +473,7 @@
    "date": "2026-09-13",
    "loc": "대전엑스포시민광장 월드런",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.15 ~ 2026.9.1",
    "url": "http://mara1080.com/event/0674df45-473c-4182-bed4-d15582fb8c73/guide/overview",
    "note": null,
@@ -640,7 +640,7 @@
    "date": "2026-09-19",
    "loc": "인천대공원 디지틀조선일보C&M",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.28 ~ 2026.9.1",
    "url": "http://namdongrun.kr",
    "note": null,
@@ -846,7 +846,7 @@
    "date": "2026-09-20",
    "loc": "평화의 공원 평화광장 마포구체육회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.23 ~ 2026.9.1",
    "url": "http://mara1080.com/event/53b338c6-d38a-47b3-9479-080b00c6113a",
    "note": null,
@@ -1519,7 +1519,7 @@
    "url": "http://www.gcrun.kr/s1p1",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 인천로봇랜드 퓨처런",
@@ -1875,12 +1875,12 @@
    "date": "2026-10-18",
    "loc": "하남스타필드 앞 당정뜰 하남시육상연맹",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.9.2 ~ 2026.9.18",
    "url": "http://runcop.com/event/hanam",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제19회 중랑구청장배 장미 마라톤",
@@ -2507,7 +2507,7 @@
    "url": "http://www.saverace.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "GVIE RUN 2026 구미",
@@ -2611,7 +2611,7 @@
    "url": "http://runyc.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제24회 전국 나주 금성산숲길마라톤",
@@ -2962,7 +2962,7 @@
    "url": "http://영남알프스마라톤.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제24회 상주 곶감 마라톤 대회",
@@ -3144,7 +3144,7 @@
    "url": "http://www.djrun.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 평화런",
