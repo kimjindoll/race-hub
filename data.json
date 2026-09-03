@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-03 08:03",
+ "lastUpdated": "2026-09-04 08:01",
  "sourceLog": {
-  "roadrun": "성공 (232건)",
+  "roadrun": "성공 (235건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -1024,8 +1024,8 @@
    "date": "2026-10-03",
    "loc": "완주군 고산자연휴양림 완주군/삼삼이즈",
    "courses": "36K, 22K, 7K",
-   "status": "접수마감",
-   "reg": "2026.6.19 ~ 2026.8.31",
+   "status": "접수중",
+   "reg": "2026.6.19 ~ 2026.9.30",
    "url": "http://samsamis.com/34",
    "note": null,
    "src": "roadrun",
@@ -1139,8 +1139,8 @@
    "date": "2026-10-04",
    "loc": "상암동 평화의 광장 S-OIL, 한국장애인재활협회",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.1 ~ 2026.8.31",
+   "status": "접수중",
+   "reg": "2026.8.1 ~ 2026.9.9",
    "url": "http://감동의마라톤.com",
    "note": null,
    "src": "roadrun",
@@ -1450,8 +1450,8 @@
    "date": "2026-10-10",
    "loc": "살곶이대운동장(축구장) 성동구체육회 / 성동구육상연맹",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.10 ~ 2026.8.30",
+   "status": "접수중",
+   "reg": "2026.7.10 ~ 2026.9.30",
    "url": "http://samsamis.com/57",
    "note": null,
    "src": "roadrun",
@@ -2645,12 +2645,12 @@
    "date": "2026-11-08",
    "loc": "가족달리기 경기 화성 궁평항 일대 경기신문",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.9.4 ~ 2026.10.18",
    "url": "http://kiccrace.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제24회 전국 나주 금성산숲길마라톤",
@@ -2705,6 +2705,19 @@
    "justOpened": false
   },
   {
+   "name": "강남하프마라톤(제17회강남구청장배육상대회)",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "강남구 대치유수지 체육공원 강남구육상연맹",
+   "courses": "하프, 10km",
+   "status": "접수중",
+   "reg": "2026.9.3 ~ 2026.10.23",
+   "url": "http://comport11.oopy.io/gangnamhalfmarathon",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "경주시육상연맹회장배 마라톤대회",
    "cat": "road",
    "date": "2026-11-08",
@@ -2739,6 +2752,19 @@
    "status": "접수중",
    "reg": "2026.8.24 ~ 2026.10.11",
    "url": "http://ssecorun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제3회 자유민주 마라톤대회",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "서울시청 민주화운동기념사업회",
+   "courses": "10km, 6.1km",
+   "status": "접수중",
+   "reg": "2026.9.4 ~ 2026.9.30",
+   "url": "http://www.610run.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -3389,6 +3415,19 @@
    "status": "접수중",
    "reg": "2026.8.1 ~ 2026.10.28",
    "url": "http://www.hangangmarathon.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제20회 양산전국하프마라톤",
+   "cat": "road",
+   "date": "2026-12-06",
+   "loc": "양산종합운동장 양산시체육회, 양산육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.10.1 ~ 2026.10.20",
+   "url": "http://ysmarathon.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
