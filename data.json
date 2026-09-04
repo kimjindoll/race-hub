@@ -1,23 +1,10 @@
 {
- "lastUpdated": "2026-09-04 08:01",
+ "lastUpdated": "2026-09-05 07:49",
  "sourceLog": {
   "roadrun": "성공 (235건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
-  {
-   "name": "2026 시흥시장배 거북섬 전국 철인3종대회(토요일: 스프린트 / 일요일: 스탠다드) 중등부, 주니어부 모집 - 8월 26일 17:00 마감",
-   "cat": "triathlon",
-   "date": "2026-09-04",
-   "loc": "경기도 시흥시 시화해역 및 거북섬 일원 2026.09.04 ~ 06 심판",
-   "courses": null,
-   "status": "접수마감",
-   "reg": null,
-   "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2098&page=1&sYear=2026&vType=list&field=&keyword=",
-   "note": null,
-   "src": "ktf",
-   "justOpened": false
-  },
   {
    "name": "2026 다이나핏 태백 트레일",
    "cat": "trail",
@@ -90,19 +77,6 @@
    "reg": null,
    "url": "http://speedagency.kr",
    "note": null,
-   "justOpened": false
-  },
-  {
-   "name": "2026 이일선마라톤",
-   "cat": "road",
-   "date": "2026-09-05",
-   "loc": "걷기 울릉도내 나리분지 이일선기념사업회",
-   "courses": "10km",
-   "status": "접수마감",
-   "reg": "2026.7.14 ~ 2026.8.18",
-   "url": "http://forms.gle/6Y88RJqW6QCZkZoE7",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -993,6 +967,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 이일선마라톤",
+   "cat": "road",
+   "date": "2026-10-03",
+   "loc": "걷기 울릉도내 나리분지 이일선기념사업회",
+   "courses": "10km",
+   "status": "접수마감",
+   "reg": "2026.7.14 ~ 2026.8.18",
+   "url": "http://forms.gle/6Y88RJqW6QCZkZoE7",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 하반기 JUST RUN10 청주",
    "cat": "road",
    "date": "2026-10-03",
@@ -1411,7 +1398,7 @@
    "date": "2026-10-10",
    "loc": "한림수협다목적어업인종합지원센터 주식회사 어디감수광, 수원리",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.8 ~ 2026.9.4",
    "url": "http://jejuwindmillrun.com",
    "note": null,
@@ -1527,7 +1514,7 @@
    "date": "2026-10-11",
    "loc": "인천로봇랜드 로봇타워 기호일보",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.7 ~ 2026.9.4",
    "url": "http://futurerun.co.kr/",
    "note": null,
@@ -2619,8 +2606,8 @@
    "date": "2026-11-08",
    "loc": "청양군 청양목재문화자연사체험관 청양군육상연맹",
    "courses": "하프, 14km, 7km",
-   "status": "접수마감",
-   "reg": "2026.9.2 ~ 2026.9.2",
+   "status": "접수중",
+   "reg": "2026.9.2 ~ 2026.10.15",
    "url": "http://cymarathon.imweb.me/index?preview_mode=1",
    "note": null,
    "src": "roadrun",
@@ -2650,7 +2637,7 @@
    "url": "http://kiccrace.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제24회 전국 나주 금성산숲길마라톤",
@@ -3381,7 +3368,7 @@
    "justOpened": false
   },
   {
-   "name": "2026월드 레코드 국제 마라톤 축제 - 사웨",
+   "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
    "cat": "road",
    "date": "2026-12-05",
    "loc": "금산세계인삼엑스포광장 전국마라톤협회",
