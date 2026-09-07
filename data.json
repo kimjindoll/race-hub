@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-07 07:44",
+ "lastUpdated": "2026-09-08 08:19",
  "sourceLog": {
-  "roadrun": "성공 (235건)",
+  "roadrun": "성공 (241건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -742,7 +742,7 @@
    "date": "2026-10-03",
    "loc": "무심천체육공원 (주)러닝브레이커, 전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.14 ~ 2026.9.7",
    "url": "http://runten.co.kr",
    "note": null,
@@ -1150,6 +1150,19 @@
    "justOpened": false
   },
   {
+   "name": "진안트레일레이스",
+   "cat": "trail",
+   "date": "2026-10-10",
+   "loc": "국립진안고원산림치유원 주식회사 락앤런",
+   "courses": "16km, 6km",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.9.20",
+   "url": "http://rocknrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제주풍차런",
    "cat": "road",
    "date": "2026-10-10",
@@ -1253,6 +1266,19 @@
    "justOpened": false
   },
   {
+   "name": "함께런 러닝 페스티벌",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "미사경정공원 관리동 광장 미사강변종합사회복지관, 진선재",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.4 ~ 2026.9.20",
+   "url": "http://runcop.com/event/hamkkerun",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제22회  금천구청장배 건강달리기",
    "cat": "road",
    "date": "2026-10-11",
@@ -1287,19 +1313,6 @@
    "status": "접수중",
    "reg": "2026.8.10 ~ 2026.9.20",
    "url": "http://www.univrun.co.kr/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "진안고원 포레스티벌 Run & Heal",
-   "cat": "road",
-   "date": "2026-10-11",
-   "loc": "국립진안고원산림치유원 주식회사 락앤런",
-   "courses": "16km, 6km",
-   "status": "접수중",
-   "reg": "2026.8.10 ~ 2026.9.15",
-   "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1481,6 +1494,19 @@
    "reg": "2차 7/24 09:00~ 선착순",
    "url": "https://www.tongyeongfondo.com",
    "note": "2,500명, 매년 조기마감",
+   "justOpened": false
+  },
+  {
+   "name": "2026 억새노을마라톤대회",
+   "cat": "road",
+   "date": "2026-10-17",
+   "loc": "상무시민공원 전남광주통합특별시 서구",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.8 ~ 2026.9.28",
+   "url": "http://xn--o80b37in2b02lesgqqcj12a.kr/index.asp",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1755,6 +1781,19 @@
    "justOpened": false
   },
   {
+   "name": "불닭 버닝 트레일런",
+   "cat": "trail",
+   "date": "2026-10-24",
+   "loc": "대관령 삼양라운드힐 프립, 러너킹",
+   "courses": "5km, 23K, 13K",
+   "status": "접수마감",
+   "reg": "2026.9.6 ~ 2026.9.6",
+   "url": "http://burningfesta.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 서울 펫림픽 & 런 위드 고",
    "cat": "road",
    "date": "2026-10-24",
@@ -1786,12 +1825,12 @@
    "date": "2026-10-24",
    "loc": "무심천체육공원 청주충북환경운동연합",
    "courses": "10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.9.8 ~ 2026.9.22",
    "url": "http://forms.gle/ga7gKHnRJB7pfLFY6",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "RUN&MUSIC FESTIVAL in 안동",
@@ -2114,6 +2153,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 당진원런 마라톤",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "석문방조제 인근 당진 마라톤 연합회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.3 ~ 2026.9.30",
+   "url": "http://www.instagram.com/drt_2022",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제22회 울진 트라이애슬론 대회",
    "cat": "triathlon",
    "date": "2026-10-31",
@@ -2238,6 +2290,19 @@
    "reg": "하반기 공지 예정",
    "url": "http://speedagency.kr",
    "note": "이색 대회",
+   "justOpened": false
+  },
+  {
+   "name": "런텐 13차 레이스 JUST RUN10 대전",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "엑스포다리 인근 (주)러닝브레이커,전국러닝협회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.2 ~ 2026.10.10",
+   "url": "http://runten.co.kr",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -2953,7 +3018,7 @@
    "url": "http://incheonmarathon.or.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "자이스 스마일 레이스",
@@ -3125,19 +3190,6 @@
    "justOpened": false
   },
   {
-   "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
-   "cat": "road",
-   "date": "2026-12-05",
-   "loc": "금산세계인삼엑스포광장 전국마라톤협회",
-   "courses": "14km",
-   "status": "접수중",
-   "reg": "2026.8.31 ~ 2026.9.20",
-   "url": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
    "name": "2026 하남 미사 호수 에너지런",
    "cat": "road",
    "date": "2026-12-05",
@@ -3159,6 +3211,19 @@
    "status": "접수중",
    "reg": "2026.8.1 ~ 2026.10.28",
    "url": "http://www.hangangmarathon.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
+   "cat": "road",
+   "date": "2026-12-06",
+   "loc": "금산세계인삼엑스포광장 전국마라톤협회",
+   "courses": "14km",
+   "status": "접수중",
+   "reg": "2026.8.31 ~ 2026.9.20",
+   "url": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview",
    "note": null,
    "src": "roadrun",
    "justOpened": false
