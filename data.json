@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-08 08:19",
+ "lastUpdated": "2026-09-09 08:14",
  "sourceLog": {
-  "roadrun": "성공 (241건)",
+  "roadrun": "성공 (243건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -449,7 +449,7 @@
    "date": "2026-09-19",
    "loc": "걷기여의도 물빛무대 앞 광 (사)21세기경제사회연구원",
    "courses": "하프, 10km, 5km, 3km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.17 ~ 2026.9.8",
    "url": "http://www.cyber-run.com",
    "note": null,
@@ -1830,7 +1830,7 @@
    "url": "http://forms.gle/ga7gKHnRJB7pfLFY6",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "RUN&MUSIC FESTIVAL in 안동",
@@ -1966,7 +1966,7 @@
    "date": "2026-10-25",
    "loc": "정서진 아라타워 인천일보,인천마라톤조직위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.5 ~ 2026.9.8",
    "url": "http://www.jeongseojin.co.kr",
    "note": null,
@@ -3013,7 +3013,7 @@
    "date": "2026-11-22",
    "loc": "인천아시아드 주경기장, 운서역 인천시,대한육상경기연맹",
    "courses": "풀, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.7 ~ 2026.9.8",
    "url": "http://incheonmarathon.or.kr",
    "note": null,
@@ -3081,6 +3081,19 @@
    "status": "접수중",
    "reg": "2026.9.1 ~ 2026.10.28",
    "url": "http://mujumarathon.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제6회 고용노동부장관배 직장인마라톤대회",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "하남미사경정공원일원 나눔레이스조직위원회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.9 ~ 2026.9.30",
+   "url": "http://krun.or.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -3268,6 +3281,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 청춘런",
+   "cat": "road",
+   "date": "2026-12-06",
+   "loc": "상암동 평화의공원 평화광장 런앤런",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.9 ~ 2026.11.8",
+   "url": "http://www.youthrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 소년소녀 가장 돕기 기부런",
    "cat": "road",
    "date": "2026-12-12",
@@ -3349,7 +3375,7 @@
    "name": "2026 한강런 준비중",
    "cat": "road",
    "date": "2026-12-28",
-   "loc": "안양천다목적광장 (사)대한생활체육연맹",
+   "loc": "안양천다목적광장 한강런(주)",
    "courses": "10km, 5km",
    "status": "접수예정",
    "reg": "2026.9.20 ~ 2026.12.12",
