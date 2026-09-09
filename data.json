@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-09 08:14",
+ "lastUpdated": "2026-09-10 08:00",
  "sourceLog": {
-  "roadrun": "성공 (243건)",
+  "roadrun": "성공 (244건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -883,7 +883,7 @@
    "date": "2026-10-04",
    "loc": "상암동 평화의 광장 S-OIL, 한국장애인재활협회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.1 ~ 2026.9.9",
    "url": "http://감동의마라톤.com",
    "note": null,
@@ -1441,7 +1441,7 @@
    "loc": "광평교운동장 한국트레일러너연맹 (사)한국산악마라톤연맹",
    "courses": "풀, 하프, 10km, 5km, 31km",
    "status": "접수중",
-   "reg": "2026.2.23 ~ 2026.9.15",
+   "reg": "2026.2.23 ~ 2026.9.13",
    "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&csno=20190605121808&opp=20260203121910#baseline",
    "note": null,
    "src": "roadrun",
@@ -2085,6 +2085,19 @@
    "reg": "7/6 10:00~ 선착순 2,000명",
    "url": "https://www.xcworks.com/sub/race.html",
    "note": "접수 오픈 임박!",
+   "justOpened": false
+  },
+  {
+   "name": "2026 마블런",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "인제스피디움 원유니버스",
+   "courses": "10km, 5km, 2.5km",
+   "status": "접수예정",
+   "reg": "2026.9.22 ~ 2026.10.30",
+   "url": "http://marvelrunkorea2026.com/",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
