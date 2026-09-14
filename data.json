@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-09-14 07:57",
+ "lastUpdated": "2026-09-15 08:43",
  "sourceLog": {
   "roadrun": "성공 (251건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -459,7 +459,7 @@
    "loc": "상암 월드컵공원 평화광장 (사)사회안전예방중앙회",
    "courses": "하프, 10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.7 ~ 2026.9.21",
+   "reg": "2026.7.7 ~ 2026.9.27",
    "url": "http://mastershalf.kr/",
    "note": null,
    "src": "roadrun",
@@ -729,7 +729,7 @@
    "date": "2026-10-05",
    "loc": "여의도 문화의공원 일원 한경닷컴/런코리아",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.14 ~ 2026.9.14",
    "url": "http://www.hk-marathon.com/",
    "note": null,
@@ -1296,7 +1296,7 @@
    "date": "2026-10-17",
    "loc": "코스 세종중앙공원 도시축제마당 (주)엘지유플러스",
    "courses": "5km, 11.9km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.22 ~ 2026.9.14",
    "url": "http://119memorial.com/",
    "note": null,
@@ -2040,12 +2040,12 @@
    "date": "2026-11-07",
    "loc": "여수시 화양면 조발전망대 광장 일레븐브리지마라톤조직위원회",
    "courses": "하프, 10km",
-   "status": "접수중",
-   "reg": "2026.9.14 ~ 2026.9.23",
-   "url": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/",
+   "status": "접수예정",
+   "reg": "2026.9.16 ~ 2026.9.23",
+   "url": "http://11bridge.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "SaveRace 2026",
@@ -2409,7 +2409,7 @@
    "url": "http://tongkeun-run.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 영종 하늘길 마라톤",
@@ -2495,7 +2495,7 @@
    "date": "2026-11-15",
    "loc": "미정 (예년 11월 중순)",
    "courses": "예년 풀/하프/10K/5K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://www.sonkeechungrun.com/",
    "note": "요강 준비중",
@@ -2565,7 +2565,7 @@
    "url": "http://www.tongilmarathon.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 제주감귤마라톤",
@@ -2987,7 +2987,7 @@
    "name": "제4회 가든파이브 라이프 레이스",
    "cat": "road",
    "date": "2026-12-05",
-   "loc": "마니아 서울 가든파이브라이프 중앙광장 국민체육진흥협회",
+   "loc": "마니아 서울 가든파이브라이프 중앙광장 스포테인",
    "courses": "하프, 10km, 5km",
    "status": "접수중",
    "reg": "2026.9.10 ~ 2026.11.16",
@@ -3124,7 +3124,7 @@
    "url": "http://www.omrun.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제5회 밤섬 마라톤",
@@ -3150,7 +3150,7 @@
    "url": "http://www.jinma.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제2회 청춘 릴레이 마라톤",
