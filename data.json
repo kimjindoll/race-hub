@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-15 08:43",
+ "lastUpdated": "2026-09-16 08:26",
  "sourceLog": {
-  "roadrun": "성공 (251건)",
+  "roadrun": "성공 (254건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -814,6 +814,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 연수 꿈이음길 러닝대회",
+   "cat": "road",
+   "date": "2026-10-10",
+   "loc": "인천광역시 연수구 한마음공원 (주)경기일보",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.14 ~ 2026.9.30",
+   "url": "http://kyeonggiincheon.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 하트런",
    "cat": "trail",
    "date": "2026-10-10",
@@ -1464,7 +1477,7 @@
    "date": "2026-10-24",
    "loc": "경남 통영 트라이애슬론광장",
    "courses": "스프린트(엘리트)/스탠다드(동호인)",
-   "status": "접수마감",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2042",
    "note": "동호인부 조기마감 관례, 접수 개시일 주시",
@@ -2040,12 +2053,12 @@
    "date": "2026-11-07",
    "loc": "여수시 화양면 조발전망대 광장 일레븐브리지마라톤조직위원회",
    "courses": "하프, 10km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.9.16 ~ 2026.9.23",
    "url": "http://11bridge.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "SaveRace 2026",
@@ -2199,6 +2212,19 @@
    "status": "접수중",
    "reg": "2026.9.4 ~ 2026.10.18",
    "url": "http://kiccrace.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 안성맞춤 전국 마라톤",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "안성맞춤랜드 일원 안성시 체육회 / 경인일보",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.1 ~ 2026.9.30",
+   "url": "http://asrun.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2399,6 +2425,19 @@
    "justOpened": false
   },
   {
+   "name": "그 시절 스타들과 달리는 레트로 런 IN 증평",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "증평군 보강천 시민체육공원 스타콜 & 롤링스톤 코리아",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.15 ~ 2026.10.25",
+   "url": "http://n-runplus.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 통큰런",
    "cat": "road",
    "date": "2026-11-14",
@@ -2521,7 +2560,7 @@
    "date": "2026-11-15",
    "loc": "창원시 광려천수변공원 창원시육상연맹",
    "courses": "하프, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.1 ~ 2026.9.15",
    "url": "http://www.cwaaf.kr/bbs/board.php?bo_table=rally&wr_id=3",
    "note": null,
@@ -2547,7 +2586,7 @@
    "date": "2026-11-15",
    "loc": "부산시 사하구 다대포해수욕장 국제신문",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.20 ~ 2026.9.15",
    "url": "http://kjmarathon.com",
    "note": null,
@@ -2740,10 +2779,10 @@
    "name": "GIVE RUN 2026 부산",
    "cat": "road",
    "date": "2026-11-21",
-   "loc": "부산 삼락생태공원 굿피플",
+   "loc": "부산 대저생태공원 굿피플",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.8.31 ~ 2026.10.16",
+   "reg": "2026.9.16 ~ 2026.10.16",
    "url": "http://giverun.kr",
    "note": null,
    "src": "roadrun",
@@ -3145,8 +3184,8 @@
    "date": "2026-12-13",
    "loc": "진주노을공원 진주시육상연맹",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.9.14 ~ 2026.9.21",
+   "status": "접수마감",
+   "reg": "2026.9.14 ~ 2026.9.14",
    "url": "http://www.jinma.co.kr",
    "note": null,
    "src": "roadrun",
