@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-16 08:26",
+ "lastUpdated": "2026-09-17 08:34",
  "sourceLog": {
-  "roadrun": "성공 (254건)",
+  "roadrun": "성공 (256건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -982,6 +982,19 @@
    "justOpened": false
   },
   {
+   "name": "83타워 업힐런",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "업힐코스,수직계단코스 대구 이월드 및 83타워 ㈜이월드 / 페스티벌잼",
+   "courses": null,
+   "status": "접수중",
+   "reg": "2026.9.11 ~ 2026.10.10",
+   "url": "http://leisure-web.yanolja.com/leisure/10365567",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "함께런 러닝 페스티벌",
    "cat": "road",
    "date": "2026-10-11",
@@ -1296,8 +1309,8 @@
    "date": "2026-10-17",
    "loc": "커플런 가족런 정선생태체험학습장 정선군",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.6.23 ~ 2026.8.31",
+   "status": "접수중",
+   "reg": "2026.6.23 ~ 2026.9.25",
    "url": "http://jsrun.kr",
    "note": null,
    "src": "roadrun",
@@ -2035,6 +2048,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 EGG RUN",
+   "cat": "road",
+   "date": "2026-11-07",
+   "loc": "국립세종수목원 축제마당 굿네이버스충청권역,국립세종수목원",
+   "courses": "5km",
+   "status": "접수중",
+   "reg": "2026.9.7 ~ 2026.10.7",
+   "url": "http://eggrun2026.imweb.me",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "런텐 13차 레이스 JUST RUN10 대전",
    "cat": "road",
    "date": "2026-11-07",
@@ -2058,7 +2084,7 @@
    "url": "http://11bridge.com",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "SaveRace 2026",
@@ -2997,7 +3023,7 @@
    "justOpened": false
   },
   {
-   "name": "제2회 천안독립기념관 마라톤대회",
+   "name": "2026 천안 희망나눔 마라톤",
    "cat": "road",
    "date": "2026-11-29",
    "loc": "걷기 천안 독립기념관 주식회사 오소컴퍼니",
