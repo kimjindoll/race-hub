@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-17 08:34",
+ "lastUpdated": "2026-09-18 08:26",
  "sourceLog": {
-  "roadrun": "성공 (256건)",
+  "roadrun": "성공 (258건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -51,19 +51,6 @@
    "status": "접수마감",
    "reg": "2026.7.30 ~ 2026.8.9",
    "url": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 여수낭도트레일",
-   "cat": "trail",
-   "date": "2026-09-19",
-   "loc": "여수 화정면낭도출장소앞 주차장 파브코리아",
-   "courses": "13km",
-   "status": "접수중",
-   "reg": "2026.7.28 ~ 2026.9.18",
-   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1257,7 +1244,7 @@
    "date": "2026-10-17",
    "loc": "광주공원앞 광주천변 광주교 전남광주통합특별시남구육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.10 ~ 2026.9.17",
    "url": "http://cafe.daum.net/6507447/Ep6u",
    "note": null,
@@ -1296,7 +1283,7 @@
    "date": "2026-10-17",
    "loc": "장애인부 태안군 안면읍 꽃지해수욕장 일 충청남도장애인체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.22 ~ 2026.9.17",
    "url": "http://www.충남전국어울림마라톤.kr",
    "note": null,
@@ -1361,7 +1348,7 @@
    "date": "2026-10-17",
    "loc": "보문산 숲속공연장, 은행동 대전광역시 중구체육회",
    "courses": "50km, 25km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.17 ~ 2026.9.17",
    "url": "http://dtrail.co.kr",
    "note": null,
@@ -1510,6 +1497,19 @@
    "justOpened": false
   },
   {
+   "name": "TOUR 5K & Beach Ploggin망상",
+   "cat": "road",
+   "date": "2026-10-24",
+   "loc": "플로깅 동해시 망상해수욕장 스포노베이션",
+   "courses": "5K, 5km, 2K",
+   "status": "접수중",
+   "reg": "2026.9.16 ~ 2026.10.17",
+   "url": "http://mypb.info/competition/666",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "불닭 버닝 트레일런",
    "cat": "trail",
    "date": "2026-10-24",
@@ -1646,7 +1646,7 @@
    "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.6.18 ~ 2026.9.23",
+   "reg": "2026.6.18 ~ 2026.10.8",
    "url": "http://xn--439a68tboh.kr/index.asp",
    "note": null,
    "src": "roadrun",
@@ -2984,6 +2984,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 원주 치악마라톤",
+   "cat": "road",
+   "date": "2026-11-29",
+   "loc": "원주종합운동장 강원도민일보, 원주시육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.17 ~ 2026.10.30",
+   "url": "http://wonju.raceplan.co.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "가야왕도 김해 전국어울림 마라톤대회",
    "cat": "road",
    "date": "2026-11-29",
@@ -2992,6 +3005,19 @@
    "status": "접수중",
    "reg": "2026.8.13 ~ 2026.10.25",
    "url": "http://gimhaemarathon.imweb.me/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 대전보문산트레일",
+   "cat": "trail",
+   "date": "2026-11-29",
+   "loc": "오월드 주차장 명품 파브코리아",
+   "courses": "15km, 10km",
+   "status": "접수중",
+   "reg": "2026.8.28 ~ 2026.11.28",
+   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
