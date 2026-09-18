@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-18 08:26",
+ "lastUpdated": "2026-09-19 08:05",
  "sourceLog": {
-  "roadrun": "성공 (258건)",
+  "roadrun": "성공 (259건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -1361,7 +1361,7 @@
    "date": "2026-10-18",
    "loc": "하남스타필드 앞 당정뜰 하남시육상연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.2 ~ 2026.9.18",
    "url": "http://runcop.com/event/hanam",
    "note": null,
@@ -1528,7 +1528,7 @@
    "date": "2026-10-24",
    "loc": "서울 월드컵경기장 평화광장 (사)함께하는 사랑밭",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.13 ~ 2026.9.18",
    "url": "http://runwithgo.com",
    "note": null,
@@ -1541,7 +1541,7 @@
    "date": "2026-10-24",
    "loc": "영종도 씨사이드파크 하늘구름광 뉴시스",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.3 ~ 2026.9.18",
    "url": "http://marathon.newsis.com",
    "note": null,
@@ -1817,6 +1817,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 INCHEON NIGHT RACE",
+   "cat": "road",
+   "date": "2026-10-31",
+   "loc": "인천 영정구 중산동 하늘구름광 국민건강진흥원/인천광역시걷기협",
+   "courses": "하프, 10km, 5km, 8.15km",
+   "status": "접수중",
+   "reg": "2026.9.1 ~ 2026.10.20",
+   "url": "http://icnr.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "마블런 2026",
    "cat": "road",
    "date": "2026-10-31",
@@ -1945,6 +1958,19 @@
    "justOpened": false
   },
   {
+   "name": "JUSTICE RUN SEOCHO 2026",
+   "cat": "road",
+   "date": "2026-11-01",
+   "loc": "반포한강공원 달빛광장 법률신문",
+   "courses": "10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.9.21 ~ 2026.10.14",
+   "url": "http://justicerun.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "26서울동행마라톤대회",
    "cat": "road",
    "date": "2026-11-01",
@@ -2002,7 +2028,7 @@
    "date": "2026-11-01",
    "loc": "태화강 둔치 울산인권마라톤대회 조직위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.18 ~ 2026.9.18",
    "url": "http://www.humanrun.org",
    "note": null,
@@ -2586,8 +2612,8 @@
    "date": "2026-11-15",
    "loc": "창원시 광려천수변공원 창원시육상연맹",
    "courses": "하프, 10km",
-   "status": "접수마감",
-   "reg": "2026.9.1 ~ 2026.9.15",
+   "status": "접수중",
+   "reg": "2026.9.1 ~ 2026.9.20",
    "url": "http://www.cwaaf.kr/bbs/board.php?bo_table=rally&wr_id=3",
    "note": null,
    "src": "roadrun",
@@ -3088,6 +3114,19 @@
    "justOpened": false
   },
   {
+   "name": "전국마라톤협회 2026 골드런 레이스",
+   "cat": "road",
+   "date": "2026-12-05",
+   "loc": "금산세계인삼엑스포광장 전국마라톤협회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.31 ~ 2026.9.20",
+   "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 하남 미사 호수 에너지런",
    "cat": "road",
    "date": "2026-12-05",
@@ -3109,19 +3148,6 @@
    "status": "접수중",
    "reg": "2026.8.1 ~ 2026.10.28",
    "url": "http://www.hangangmarathon.kr/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
-   "cat": "road",
-   "date": "2026-12-06",
-   "loc": "금산세계인삼엑스포광장 전국마라톤협회",
-   "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.31 ~ 2026.9.20",
-   "url": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview",
    "note": null,
    "src": "roadrun",
    "justOpened": false
