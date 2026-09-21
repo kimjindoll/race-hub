@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-09-21 08:03",
+ "lastUpdated": "2026-09-22 08:53",
  "sourceLog": {
   "roadrun": "성공 (259건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -1130,7 +1130,7 @@
    "date": "2026-10-24",
    "loc": "경남 통영 트라이애슬론광장",
    "courses": "스프린트(엘리트)/스탠다드(동호인)",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2042",
    "note": "동호인부 조기마감 관례, 접수 개시일 주시",
@@ -1488,12 +1488,12 @@
    "date": "2026-10-31",
    "loc": "인제스피디움 원유니버스",
    "courses": "10km, 5km, 2.3km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.9.22 ~ 2026.10.12",
    "url": "http://marvelrunkorea2026.com/",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "런텐 12차 레이스 JUST RUN10 포천",
@@ -1621,7 +1621,7 @@
    "url": "http://justicerun.kr/",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "26서울동행마라톤대회",
