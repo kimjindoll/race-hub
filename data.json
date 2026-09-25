@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-09-25 08:47",
+ "lastUpdated": "2026-09-26 08:53",
  "sourceLog": {
   "roadrun": "성공 (269건)",
   "triathlon.or.kr": "성공 (31건)"
@@ -962,7 +962,7 @@
    "date": "2026-10-17",
    "loc": "커플런 가족런 정선생태체험학습장 정선군",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.23 ~ 2026.9.25",
    "url": "http://jsrun.kr",
    "note": null,
@@ -1540,7 +1540,7 @@
    "date": "2026-10-31",
    "loc": "포천시종합운동장 (주)러닝브레이커,전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.11 ~ 2026.9.25",
    "url": "http://runten.co.kr",
    "note": null,
