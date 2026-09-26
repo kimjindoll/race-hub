@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-09-26 08:53",
+ "lastUpdated": "2026-09-27 08:24",
  "sourceLog": {
   "roadrun": "성공 (269건)",
   "triathlon.or.kr": "성공 (31건)"
@@ -3126,6 +3126,84 @@
    "reg": "통상 전년 11~12월 접수",
    "url": "https://blog.naver.com/thread78/224113948638",
    "note": null,
+   "justOpened": false
+  },
+  {
+   "name": "2026 다이나핏 태백 트레일",
+   "cat": "trail",
+   "date": "2027-09-05",
+   "loc": "강원 태백 (태백산·함백산)",
+   "courses": "50K/32K/24K/15K",
+   "status": "접수마감",
+   "reg": "본접수 5/11~ 선착순",
+   "url": "http://taebaektrail.com/",
+   "note": "4,200명 모집",
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제23회 철원DMZ국제평화마라톤",
+   "cat": "road",
+   "date": "2027-09-05",
+   "loc": "강원 철원",
+   "courses": "풀/하프/10K",
+   "status": "접수마감",
+   "reg": null,
+   "url": "http://dmzrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제12회 I LOVE 방송대 마라톤",
+   "cat": "road",
+   "date": "2027-09-05",
+   "loc": "상암동 평화광장 한국방송통신대학교 전국 총동문",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.6.30 ~ 2026.7.31",
+   "url": "http://runbs.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 하반기 JUST RUN10 세종",
+   "cat": "road",
+   "date": "2027-09-05",
+   "loc": "세종마루공원 밑 금강변 (주)러닝브레이커, 전국러닝협회",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.6.19 ~ 2026.8.13",
+   "url": "http://runten.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제2회 2026 Vrun",
+   "cat": "road",
+   "date": "2027-09-05",
+   "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.5.26 ~ 2026.8.18",
+   "url": "http://vrun.kr/index.asp",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제20회 순천만울트라마라톤대회",
+   "cat": "road",
+   "date": "2027-09-05",
+   "loc": "순천동천천변공원 순천만조직위",
+   "courses": "100km",
+   "status": "접수마감",
+   "reg": "2026.4.1 ~ 2026.8.24",
+   "url": "http://www.scultra100.net",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
