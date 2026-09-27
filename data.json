@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-27 08:24",
+ "lastUpdated": "2026-09-28 08:42",
  "sourceLog": {
-  "roadrun": "성공 (269건)",
+  "roadrun": "성공 (273건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -98,7 +98,7 @@
    "date": "2026-10-03",
    "loc": "상암 월드컵공원 평화광장 (사)사회안전예방중앙회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.7 ~ 2026.9.27",
    "url": "http://mastershalf.kr/",
    "note": null,
@@ -356,7 +356,7 @@
    "date": "2026-10-05",
    "loc": "상암동 평화의공원 평화광장 (주)일요신문사 (주)비즈한국",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.8 ~ 2026.9.27",
    "url": "http://www.runsense.co.kr",
    "note": null,
@@ -622,6 +622,19 @@
    "justOpened": false
   },
   {
+   "name": "독립유공자후손 기부마라톤 2026대학생RUN",
+   "cat": "road",
+   "date": "2026-10-11",
+   "loc": "서울시 구로구 안양천 축구장A 대학문화유니온, 사단법인 독립",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.21 ~ 2026.10.4",
+   "url": "http://www.univrun.co.kr/index.php",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "83타워 업힐런",
    "cat": "road",
    "date": "2026-10-11",
@@ -874,6 +887,19 @@
    "status": "접수마감",
    "reg": "2026.9.21 ~ 2026.9.21",
    "url": "http://gnrace.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 원주 바람길숲 기부런",
+   "cat": "road",
+   "date": "2026-10-17",
+   "loc": "강원도 원주 치악산 바람길숲 한국관광공사",
+   "courses": "10km",
+   "status": "접수중",
+   "reg": "2026.9.23 ~ 2026.10.13",
+   "url": "http://cltoo.com/ko/product/379?category=CL_TO_EDITION",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2221,6 +2247,19 @@
    "justOpened": false
   },
   {
+   "name": "서울 빵빵런 2026",
+   "cat": "road",
+   "date": "2026-11-14",
+   "loc": "뚝섬한강공원 수변무대 (주)1986프로덕션",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.9.21 ~ 2026.11.13",
+   "url": "http://seoul.bbangrun.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "그 시절 스타들과 달리는 레트로 런 IN 증평",
    "cat": "road",
    "date": "2026-11-14",
@@ -2554,6 +2593,19 @@
    "status": "접수중",
    "reg": "2026.9.11 ~ 2026.10.30",
    "url": "http://cafe.naver.com/bikewin/12",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 서울 라이프마라톤(가을)",
+   "cat": "road",
+   "date": "2026-11-21",
+   "loc": "평화의공원 평화광장 (주)1986프로덕션",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.11.20",
+   "url": "http://seoul.lifemarathon.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -3202,6 +3254,110 @@
    "status": "접수마감",
    "reg": "2026.4.1 ~ 2026.8.24",
    "url": "http://www.scultra100.net",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 YTN 서울투어마라톤",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "서울광장 출발",
+   "courses": "하프/11K",
+   "status": "접수마감",
+   "reg": "6/17~ 선착순",
+   "url": "https://run.ytn.co.kr/",
+   "note": "조기 마감 가능",
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제24회 청광종주 TRAILRUNNING",
+   "cat": "trail",
+   "date": "2027-09-06",
+   "loc": "청계산~광교산 종주",
+   "courses": "26K/14K",
+   "status": "접수마감",
+   "reg": null,
+   "url": "http://www.koreatrail.net/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 전마협회장배 청주마라톤",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "청주 무심천 체육공원 전국마라톤협회",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.6.10 ~ 2026.8.6",
+   "url": "http://mara1080.com/event/a9780087-8fc3-4849-a234-7659978f6792",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제9회 인천 서구청장배 단축마라톤",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "청라호수공원 멀티프라자 트랙 인천광역시 체육회",
+   "courses": "10km, 4.3km",
+   "status": "접수마감",
+   "reg": "2026.6.10 ~ 2026.6.16",
+   "url": "http://www.sgicaaf.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제11회 김대중 평화 마라톤 대회",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "뚝섬 한강공원 수변무대 김대중재단",
+   "courses": "하프, 10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.5.13 ~ 2026.8.30",
+   "url": "http://kdjrun.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 샌드런 IN 영덕",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "영덕 대진해수욕장 (주)메이드인피플",
+   "courses": "4km, 8km",
+   "status": "접수마감",
+   "reg": "2026.3.16 ~ 2026.7.6",
+   "url": "http://sandrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 봉화송이 전국마라톤",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "봉화공설운동장 봉화군체육회, 매일신문사",
+   "courses": "하프, 10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.2.3 ~ 2026.7.27",
+   "url": "http://bonghwarun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "희망드림 제23회 새벽강변 국제마라톤",
+   "cat": "road",
+   "date": "2027-09-06",
+   "loc": "가족런 (양천구)목동운동장 (사)한국마라톤협회",
+   "courses": "하프, 10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.4.13 ~ 2026.7.22",
+   "url": "http://amarunsb.com/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
