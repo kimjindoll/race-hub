@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-09-29 09:51",
+ "lastUpdated": "2026-09-30 09:06",
  "sourceLog": {
-  "roadrun": "성공 (273건)",
+  "roadrun": "성공 (274건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -651,10 +651,10 @@
    "name": "함께런 러닝 페스티벌",
    "cat": "road",
    "date": "2026-10-11",
-   "loc": "미사경정공원 관리동 광장 미사강변종합사회복지관, 진선재",
+   "loc": "미사경정공원 관리동 광장 미사강변사회복지관,진선재단",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.9.4 ~ 2026.9.20",
+   "status": "접수중",
+   "reg": "2026.9.4 ~ 2026.9.30",
    "url": "http://runcop.com/event/hamkkerun",
    "note": null,
    "src": "roadrun",
@@ -1979,12 +1979,12 @@
    "date": "2026-11-07",
    "loc": "경기도 여주시 대신면 당남리 일원(이포보 인근)",
    "courses": "듀애슬론 코스(달리기(run) 8km, 사이클(bike) 84km, 달리기(run) 8km)",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": null,
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2129&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 청양군 칠갑마라톤",
@@ -2122,8 +2122,8 @@
    "date": "2026-11-08",
    "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.7.27 ~ 2026.10.18",
+   "status": "접수마감",
+   "reg": "2026.7.27 ~ 2026.9.27",
    "url": "http://xn--oi2bo7bn3do4es0j56afy5b.kr/",
    "note": null,
    "src": "roadrun",
@@ -2645,6 +2645,19 @@
    "status": "접수중",
    "reg": "2026.8.10 ~ 2026.10.15",
    "url": "http://rocknrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "K-거상 트레일 러닝 대회",
+   "cat": "trail",
+   "date": "2026-11-21",
+   "loc": "가례초등학교(경남 의령) 경남관광재단",
+   "courses": "19km, 16km, 4km",
+   "status": "접수중",
+   "reg": "2026.9.28 ~ 2026.11.21",
+   "url": "http://www.kpioneertrailrun.co.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
