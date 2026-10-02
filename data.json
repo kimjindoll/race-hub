@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-01 09:24",
+ "lastUpdated": "2026-10-02 09:34",
  "sourceLog": {
   "roadrun": "성공 (219건)",
   "triathlon.or.kr": "성공 (31건)"
@@ -343,7 +343,7 @@
    "date": "2026-10-05",
    "loc": "걷기 양주시 나리농원 양주시체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.19 ~ 2026.10.1",
    "url": "http://yangjurun.kr",
    "note": null,
@@ -1694,7 +1694,7 @@
    "date": "2026-11-01",
    "loc": "무안낙지공원 무안군체육회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.6.15 ~ 2026.10.1",
    "url": "http://mara1080.com/event/d596615e-cf32-4f20-bdbe-13b633f51c4e",
    "note": null,
@@ -2161,8 +2161,8 @@
    "date": "2026-11-08",
    "loc": "트레일런 트레일런 서울마당(지하철1호선 시청역 4번출구) 서울신문, 한국",
    "courses": "14km, 35km",
-   "status": "접수마감",
-   "reg": "2026.7.2 ~ 2026.9.30",
+   "status": "접수중",
+   "reg": "2026.7.2 ~ 2026.10.12",
    "url": "http://cafe.naver.com/seoultrailrun/?viewType=pc",
    "note": null,
    "src": "roadrun",
@@ -2473,8 +2473,8 @@
    "date": "2026-11-15",
    "loc": "청계산수변공원 {사}소아암환우돕기 조직위",
    "courses": "20km, 10km",
-   "status": "접수마감",
-   "reg": "2026.7.19 ~ 2026.9.30",
+   "status": "접수중",
+   "reg": "2026.7.19 ~ 2026.10.30",
    "url": "http://happytrailrun.com",
    "note": null,
    "src": "roadrun",
@@ -2746,7 +2746,7 @@
    "date": "2026-11-22",
    "loc": "목포종합경기장 김대중마라톤대회 조직위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.1 ~ 2026.10.1",
    "url": "http://www.djrun.kr/",
    "note": null,
@@ -3011,7 +3011,7 @@
    "url": "http://ysmarathon.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 황영조 로드레이스",
