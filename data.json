@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-02 09:34",
+ "lastUpdated": "2026-10-03 09:12",
  "sourceLog": {
-  "roadrun": "성공 (219건)",
+  "roadrun": "성공 (218건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -15,18 +15,6 @@
    "reg": "7/15~ 선착순 2,500명",
    "url": "https://www.bianchigranfondo.kr",
    "note": "2025년은 10/19 개최",
-   "justOpened": false
-  },
-  {
-   "name": "트랜스제주 by UTMB",
-   "cat": "trail",
-   "date": "2026-10-02",
-   "loc": "제주 한라산 일대",
-   "courses": "148K/104K/60K/20K",
-   "status": "확인필요",
-   "reg": "3/18~ 선착순",
-   "url": "https://jeju.utmb.world/",
-   "note": "UTMB 월드시리즈, 10/2~4, 잔여석 확인",
    "justOpened": false
   },
   {
@@ -1620,7 +1608,7 @@
    "courses": "10km, 5km",
    "status": "접수마감",
    "reg": "2026.9.3 ~ 2026.9.29",
-   "url": "http://pf.kakao.com/_vQWxaX",
+   "url": "http://onerun2026.life/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1681,7 +1669,7 @@
    "date": "2026-11-01",
    "loc": "서울 목동종합운동장 주경기장 서울동행마라톤조직위원회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.10 ~ 2026.10.2",
    "url": "http://seoulrun.com",
    "note": null,
@@ -2606,19 +2594,6 @@
    "status": "접수중",
    "reg": "2026.9.11 ~ 2026.10.20",
    "url": "http://runten.co.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 전마협 보성녹차 Autumn 마라톤",
-   "cat": "road",
-   "date": "2026-11-21",
-   "loc": "보성군 공설운동장 전국마라톤협회",
-   "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.9.11 ~ 2026.10.16",
-   "url": "http://mara1080.com/event/cf5801a7-c7fd-4152-998b-bf11f0ec3e26",
    "note": null,
    "src": "roadrun",
    "justOpened": false
