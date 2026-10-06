@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-05 08:51",
+ "lastUpdated": "2026-10-06 10:41",
  "sourceLog": {
   "roadrun": "성공 (218건)",
   "triathlon.or.kr": "성공 (31건)"
@@ -15,84 +15,6 @@
    "reg": "7/15~ 선착순 2,500명",
    "url": "https://www.bianchigranfondo.kr",
    "note": "2025년은 10/19 개최",
-   "justOpened": false
-  },
-  {
-   "name": "제23회 강남국제평화마라톤",
-   "cat": "road",
-   "date": "2026-10-05",
-   "loc": "서울 강남 봉은사로",
-   "courses": "풀/하프/10K/5K",
-   "status": "접수마감",
-   "reg": "8/1부터 (추첨제)",
-   "url": "https://peacemarathon.co.kr/",
-   "note": "참가비 저렴 (풀 3만원)",
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제12회 시흥시 전국하프마라톤",
-   "cat": "road",
-   "date": "2026-10-05",
-   "loc": "한국공학대학교 제2캠퍼스 경기일보, 시흥시체육회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.22 ~ 2026.7.22",
-   "url": "http://shmarathon.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 양주 천일홍 가을 페스타 마라톤",
-   "cat": "road",
-   "date": "2026-10-05",
-   "loc": "걷기 양주시 나리농원 양주시체육회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.19 ~ 2026.10.1",
-   "url": "http://yangjurun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "런센스 2026",
-   "cat": "road",
-   "date": "2026-10-05",
-   "loc": "상암동 평화의공원 평화광장 (주)일요신문사 (주)비즈한국",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.8 ~ 2026.9.27",
-   "url": "http://www.runsense.co.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 한경서울마라톤",
-   "cat": "road",
-   "date": "2026-10-05",
-   "loc": "여의도 문화의공원 일원 한경닷컴/런코리아",
-   "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.7.14 ~ 2026.9.14",
-   "url": "http://www.hk-marathon.com/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 서울오픈마라톤",
-   "cat": "road",
-   "date": "2026-10-05",
-   "loc": "광화문광장(예정) (사)한국체육개발원 등",
-   "courses": "하프, 10km",
-   "status": "접수마감",
-   "reg": "2026.4.26 ~ 2026.5.26",
-   "url": "http://seoulopen.or.kr",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -406,7 +328,7 @@
    "justOpened": false
   },
   {
-   "name": "제6회 영등포구청장배 육상대회",
+   "name": "제6회 영등포구청장배 육상대회 (마감)",
    "cat": "road",
    "date": "2026-10-11",
    "loc": "신정교하부육상트랙구장 서울특별시영등포구체육회",
@@ -1259,8 +1181,8 @@
    "date": "2026-10-31",
    "loc": "포천시종합운동장 (주)러닝브레이커,전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.11 ~ 2026.9.25",
+   "status": "접수중",
+   "reg": "2026.8.11 ~ 2026.10.25",
    "url": "http://runten.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1906,7 +1828,7 @@
    "date": "2026-11-08",
    "loc": "송파구 여성축구장 송파구육상연맹",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.1 ~ 2026.10.5",
    "url": "http://www.songparunsportal.com",
    "note": null,
