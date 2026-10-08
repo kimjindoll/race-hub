@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-07 09:24",
+ "lastUpdated": "2026-10-08 09:45",
  "sourceLog": {
-  "roadrun": "성공 (222건)",
+  "roadrun": "성공 (223건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -681,7 +681,7 @@
    "date": "2026-10-18",
    "loc": "중화체육공원 중랑구육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.5 ~ 2026.10.7",
    "url": "http://www.jnrun.co.kr",
    "note": null,
@@ -848,7 +848,7 @@
    "date": "2026-10-24",
    "loc": "서울 월드컵경기장 평화광장 (사)함께하는 사랑밭",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.13 ~ 2026.10.7",
    "url": "http://runwithgo.com",
    "note": null,
@@ -1452,7 +1452,7 @@
    "loc": "국립세종수목원 축제마당 굿네이버스충청권역,국립세종수목원",
    "courses": "5km",
    "status": "접수중",
-   "reg": "2026.9.7 ~ 2026.10.7",
+   "reg": "2026.9.7 ~ 2026.10.18",
    "url": "http://eggrun2026.imweb.me",
    "note": null,
    "src": "roadrun",
@@ -1984,7 +1984,7 @@
    "date": "2026-11-15",
    "loc": "미정 (예년 11월 중순)",
    "courses": "예년 풀/하프/10K/5K",
-   "status": "접수마감",
+   "status": "접수중",
    "reg": null,
    "url": "https://www.sonkeechungrun.com/",
    "note": "요강 준비중",
@@ -2099,7 +2099,7 @@
    "name": "우리함께런 with 빗썸나눔",
    "cat": "road",
    "date": "2026-11-15",
-   "loc": "여의도 한강공원 물빛무대앞 광 빗썸나눔 & 이투데이",
+   "loc": "여의도한강공원 물빛무대앞광장 빗썸나눔 & 이투데이",
    "courses": "10km, 5km",
    "status": "접수중",
    "reg": "2026.10.6 ~ 2026.10.21",
@@ -2338,6 +2338,19 @@
    "status": "접수중",
    "reg": "2026.9.1 ~ 2026.10.21",
    "url": "http://gofree.seoul.co.kr/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "부산항일학생의거86주년기념 부산시민이어달리기",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "이어달리기16키로 부산시내 중앙로구덕운동장~초읍 (사)부산항일학생의거기념",
+   "courses": null,
+   "status": "접수마감",
+   "reg": "2026.10.7 ~ 2026.10.7",
+   "url": "http://i1123.org",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2712,12 +2725,12 @@
    "date": "2026-12-12",
    "loc": "미사경정공원 및 하남시 일대 연합뉴스,하남시,한국체육대학교",
    "courses": "10km, 5km, 15km, 28km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.10.8 ~ 2026.11.26",
    "url": "http://yhitf.co.kr",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 소년소녀 가장 돕기 기부런",
