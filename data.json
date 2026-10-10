@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-09 10:01",
+ "lastUpdated": "2026-10-10 09:31",
  "sourceLog": {
-  "roadrun": "성공 (225건)",
+  "roadrun": "성공 (227건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -15,70 +15,6 @@
    "reg": "7/15~ 선착순 2,500명",
    "url": "https://www.bianchigranfondo.kr",
    "note": "2025년은 10/19 개최",
-   "justOpened": false
-  },
-  {
-   "name": "2026 빙그레 그란폰도",
-   "cat": "cycling",
-   "date": "2026-10-09",
-   "loc": "충남 공주시민운동장",
-   "courses": "그란폰도 (2025년 125km 기준)",
-   "status": "접수예정",
-   "reg": "8/3 10:00~ 선착순",
-   "url": "https://www.xcworks.com/sub/race.html",
-   "note": "참가비 전액 기부",
-   "justOpened": false
-  },
-  {
-   "name": "2026 한글런",
-   "cat": "road",
-   "date": "2026-10-09",
-   "loc": "세종중앙공원 도시축제마당 헤럴드경제",
-   "courses": "5.15km, 10.9km",
-   "status": "접수마감",
-   "reg": "2026.7.1 ~ 2026.8.30",
-   "url": "http://hangeulrun.com/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "WYD와 함께하는 생명사랑 마라톤/걷기 대회",
-   "cat": "road",
-   "date": "2026-10-09",
-   "loc": "걷기 안성 미리내 성지 마라톤선교연합회/천주교수원교구",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.2 ~ 2026.8.23",
-   "url": "http://cafe.naver.com/browna6seu",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 고흥우주항공배 마라톤",
-   "cat": "road",
-   "date": "2026-10-09",
-   "loc": "고흥군 박지성공설운동장 고흥군체육회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.19 ~ 2026.9.20",
-   "url": "http://mara1080.com/event/10fcc153-1bb7-403e-8f57-7571c1c324d5",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제26회 홍성마라톤",
-   "cat": "road",
-   "date": "2026-10-09",
-   "loc": "단체런(5인) 홍주 종합경기장 홍성군체육회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.3.25 ~ 2026.4.14",
-   "url": "http://amarunhs.com",
-   "note": null,
-   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1425,7 +1361,7 @@
    "date": "2026-11-07",
    "loc": "구간마라톤 제주 서부일주로 10개소 구간 제주특별자치도,대한육상연맹",
    "courses": null,
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.21 ~ 2026.10.9",
    "url": "http://www.jaaf.kr/",
    "note": null,
@@ -1503,7 +1439,7 @@
    "date": "2026-11-07",
    "loc": "구미 낙동강체육공원 굿피플",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.12 ~ 2026.10.9",
    "url": "http://giverun.kr",
    "note": null,
@@ -1815,7 +1751,7 @@
    "date": "2026-11-08",
    "loc": "다대포 해수욕장 아시아경제",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.25 ~ 2026.10.9",
    "url": "http://heritagerun.co.kr",
    "note": null,
@@ -2629,6 +2565,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 허그런(HUG RUN)",
+   "cat": "road",
+   "date": "2026-12-05",
+   "loc": "상암 월드컵공원 평화광장 동방사회복지회",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.10.6 ~ 2026.11.8",
+   "url": "http://hugrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제4회 가든파이브 라이프 레이스",
    "cat": "road",
    "date": "2026-12-05",
@@ -2793,6 +2742,19 @@
    "status": "접수중",
    "reg": "2026.9.14 ~ 2026.11.20",
    "url": "http://www.omrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "제2회 일자산TRAL RUNNING",
+   "cat": "trail",
+   "date": "2026-12-13",
+   "loc": "일자산보훈병원앞 (사)한국산악마라톤연맹",
+   "courses": "8km, 4km",
+   "status": "접수중",
+   "reg": "2026.10.9 ~ 2026.12.9",
+   "url": "http://koreatrail.net",
    "note": null,
    "src": "roadrun",
    "justOpened": false
