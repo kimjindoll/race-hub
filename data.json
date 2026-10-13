@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-12 09:15",
+ "lastUpdated": "2026-10-13 11:28",
  "sourceLog": {
-  "roadrun": "성공 (228건)",
+  "roadrun": "성공 (227건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -741,7 +741,7 @@
    "date": "2026-10-31",
    "loc": "인제스피디움 원유니버스",
    "courses": "10km, 5km, 2.3km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.22 ~ 2026.10.12",
    "url": "http://marvelrunkorea2026.com/",
    "note": null,
@@ -1336,8 +1336,8 @@
    "date": "2026-11-08",
    "loc": "슬로조깅 삼락생태공원 럭비구장 사상구청,사상구체육회",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.24 ~ 2026.10.11",
+   "status": "접수중",
+   "reg": "2026.8.24 ~ 2026.11.8",
    "url": "http://ssecorun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1362,7 +1362,7 @@
    "date": "2026-11-08",
    "loc": "트레일런 트레일런 서울마당(지하철1호선 시청역 4번출구) 서울신문, 한국",
    "courses": "14km, 35km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.7.2 ~ 2026.10.12",
    "url": "http://cafe.naver.com/seoultrailrun/?viewType=pc",
    "note": null,
@@ -1634,7 +1634,7 @@
    "cat": "road",
    "date": "2026-11-15",
    "loc": "세리박위드용인 나눔레이스조직위원회",
-   "courses": "10km, 15km",
+   "courses": "10km, 5km, 15km",
    "status": "접수마감",
    "reg": "2026.8.24 ~ 2026.9.6",
    "url": "http://nanumrun.or.kr",
@@ -1947,12 +1947,12 @@
    "date": "2026-11-22",
    "loc": "이어달리기16키로 부산시내 중앙로구덕운동장~초읍 (사)부산항일학생의거기념",
    "courses": null,
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.10.13 ~ 2026.11.10",
    "url": "http://i1123.org",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "2026 인천마라톤",
@@ -2241,26 +2241,13 @@
    "justOpened": false
   },
   {
-   "name": "2026 하남 미사 대회 취소",
-   "cat": "road",
-   "date": "2026-12-05",
-   "loc": "하남미사경정공원 하남미사",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.3 ~ 2026.9.26",
-   "url": "http://energyrun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
    "name": "제23회 한강시민마라톤",
    "cat": "road",
    "date": "2026-12-05",
    "loc": "여의도 물빛무대 앞 광장 (사)대한생활체육회",
    "courses": "하프, 10km, 5km",
    "status": "접수중",
-   "reg": "2026.8.1 ~ 2026.11.10",
+   "reg": "2026.8.1 ~ 2026.11.16",
    "url": "http://www.hangangmarathon.kr/",
    "note": null,
    "src": "roadrun",
