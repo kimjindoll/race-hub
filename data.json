@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13 11:28",
+ "lastUpdated": "2026-10-14 09:10",
  "sourceLog": {
   "roadrun": "성공 (227건)",
   "triathlon.or.kr": "성공 (31건)"
@@ -85,7 +85,7 @@
    "date": "2026-10-17",
    "loc": "강원도 원주 치악산 바람길숲 한국관광공사",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.23 ~ 2026.10.13",
    "url": "http://cltoo.com/ko/product/379?category=CL_TO_EDITION",
    "note": null,
@@ -1128,8 +1128,8 @@
    "date": "2026-11-07",
    "loc": "부산 북항친수공원 한국해운신문, 부산항발전협의회",
    "courses": "10km",
-   "status": "접수중",
-   "reg": "2026.8.7 ~ 2026.10.16",
+   "status": "접수마감",
+   "reg": "2026.8.7 ~ 2026.10.13",
    "url": "http://runfesta.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1259,7 +1259,7 @@
    "loc": "대흥사쉼터 일원 해남군육상연맹",
    "courses": "풀, 하프, 10km, 5km",
    "status": "접수중",
-   "reg": "2026.8.13 ~ 2026.10.14",
+   "reg": "2026.8.13 ~ 2026.10.19",
    "url": "http://haenammarathon.co.kr",
    "note": null,
    "src": "roadrun",
@@ -1779,7 +1779,7 @@
    "loc": "신정교하부육상트랙구장 서울자주통일평화연대",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.7.8 ~ 2026.10.16",
+   "reg": "2026.7.8 ~ 2026.10.26",
    "url": "http://seoultongilrun.org",
    "note": null,
    "src": "roadrun",
@@ -1952,7 +1952,7 @@
    "url": "http://i1123.org",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "2026 인천마라톤",
