@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-14 09:10",
+ "lastUpdated": "2026-10-15 08:44",
  "sourceLog": {
-  "roadrun": "성공 (227건)",
+  "roadrun": "성공 (230건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -869,7 +869,7 @@
    "date": "2026-11-01",
    "loc": "반포한강공원 달빛광장 법률신문",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.21 ~ 2026.10.14",
    "url": "http://justicerun.kr/",
    "note": null,
@@ -1185,6 +1185,19 @@
    "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2129&page=1&sYear=2026&vType=list&field=&keyword=",
    "note": null,
    "src": "ktf",
+   "justOpened": false
+  },
+  {
+   "name": "2026전국 체육회장배 안산 RUN 마라톤",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "(학생부),5인1조() 안산 호수공원(중앙무대)인근 안산시체육회/안산시육",
+   "courses": "10km, 5km, 3km",
+   "status": "접수중",
+   "reg": "2026.10.14 ~ 2026.10.24",
+   "url": "http://aaaf.koreashout.com/bbs/board.php?bo_table=cp_list&wr_id=60",
+   "note": null,
+   "src": "roadrun",
    "justOpened": false
   },
   {
@@ -1942,6 +1955,19 @@
    "justOpened": false
   },
   {
+   "name": "제19회 대구광역시장기 생활체육 육상대회",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "100m,200m 대구스타디움 대구광역시체육회",
+   "courses": "10km",
+   "status": "접수중",
+   "reg": "2026.10.15 ~ 2026.11.5",
+   "url": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "부산항일학생의거86주년기념 부산시민이어달리기",
    "cat": "road",
    "date": "2026-11-22",
@@ -2262,6 +2288,19 @@
    "status": "접수중",
    "reg": "2026.9.22 ~ 2026.11.22",
    "url": "http://love.myrunup.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 화순고인돌마라톤",
+   "cat": "road",
+   "date": "2026-12-06",
+   "loc": "화순공설운동장 화순군체육회, 화순군육상연맹",
+   "courses": "하프, 10km, 5km",
+   "status": "접수예정",
+   "reg": "2026.10.20 ~ 2026.11.10",
+   "url": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
    "note": null,
    "src": "roadrun",
    "justOpened": false
