@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15 08:44",
+ "lastUpdated": "2026-10-16 08:34",
  "sourceLog": {
   "roadrun": "성공 (230건)",
   "triathlon.or.kr": "성공 (31건)"
@@ -515,19 +515,6 @@
    "status": "접수중",
    "reg": "2026.8.27 ~ 2026.10.24",
    "url": "http://projectruntrip.com",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "서울 대모-구룡산트레일런",
-   "cat": "trail",
-   "date": "2026-10-24",
-   "loc": "수서역6번출구 파브코리아",
-   "courses": "14.6km",
-   "status": "접수중",
-   "reg": "2026.8.15 ~ 2026.10.23",
-   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1817,7 +1804,7 @@
    "date": "2026-11-15",
    "loc": "조선대학교 한국백혈병소아암협회/시유케이컴",
    "courses": "16km, 36km, 51.8km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.4 ~ 2026.10.15",
    "url": "http://www.cuk-sports.com/",
    "note": null,
@@ -1908,7 +1895,7 @@
    "date": "2026-11-21",
    "loc": "남해공설운동장 주식회사 락앤런",
    "courses": "풀, 30km, 12km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.10 ~ 2026.10.15",
    "url": "http://rocknrun.kr",
    "note": null,
@@ -2353,6 +2340,19 @@
    "status": "접수중",
    "reg": "2026.9.9 ~ 2026.11.8",
    "url": "http://www.youthrun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "대전보문산트레일런",
+   "cat": "trail",
+   "date": "2026-12-06",
+   "loc": "수서역6번출구 파브코리아/명품트레일",
+   "courses": "15km, 10km",
+   "status": "접수중",
+   "reg": "2026.8.15 ~ 2026.12.5",
+   "url": "http://www.mtrailrun.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
