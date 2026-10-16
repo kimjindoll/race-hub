@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-16 08:34",
+ "lastUpdated": "2026-10-17 08:17",
  "sourceLog": {
-  "roadrun": "성공 (230건)",
+  "roadrun": "성공 (231건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -15,31 +15,6 @@
    "reg": "7/15~ 선착순 2,500명",
    "url": "https://www.bianchigranfondo.kr",
    "note": "2025년은 10/19 개최",
-   "justOpened": false
-  },
-  {
-   "name": "제107회 전국체전 트라이애슬론",
-   "cat": "triathlon",
-   "date": "2026-10-16",
-   "loc": "제주 김녕해수욕장",
-   "courses": "스탠다드/스프린트 (전문체육)",
-   "status": "접수예정",
-   "reg": null,
-   "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2051",
-   "note": "등록선수 대상, 동호인 참가 불가",
-   "justOpened": false
-  },
-  {
-   "name": "제107회 전국체육대회",
-   "cat": "triathlon",
-   "date": "2026-10-16",
-   "loc": "제주 제주시 구좌읍 김녕리 김녕해수욕장",
-   "courses": "전문체육(일반부(남/여) 개인전 및 단체전: 스탠다드 / 혼성릴레이: 슈퍼스프린트), 18세 이하부(남) 개",
-   "status": "접수예정",
-   "reg": null,
-   "url": "https://triathlon.or.kr/events/tour/overview/?mode=overview&tourcd=2051&page=1&sYear=2026&vType=list&field=&keyword=",
-   "note": null,
-   "src": "ktf",
    "justOpened": false
   },
   {
@@ -972,7 +947,7 @@
    "date": "2026-11-07",
    "loc": "밀양시 일원 밀양문화관광재단",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.21 ~ 2026.10.16",
    "url": "http://www.mywalk.kr",
    "note": null,
@@ -1206,7 +1181,7 @@
    "date": "2026-11-08",
    "loc": "경북도청 천년숲 앞 경상북도, 경상북도체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.1 ~ 2026.10.16",
    "url": "http://1004.tbc.co.kr/",
    "note": null,
@@ -1518,7 +1493,7 @@
    "date": "2026-11-14",
    "loc": "전남광주 순천시 팔마로 333 순천시체육회",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.3 ~ 2026.10.16",
    "url": "http://sc-marathon.kr",
    "note": null,
@@ -1799,13 +1774,13 @@
    "justOpened": false
   },
   {
-   "name": "제3회 무등산더블하트국제트레일런대회",
+   "name": "제3회 무등산더블하트국제트레일런대회 추가접수",
    "cat": "trail",
    "date": "2026-11-15",
    "loc": "조선대학교 한국백혈병소아암협회/시유케이컴",
    "courses": "16km, 36km, 51.8km",
-   "status": "접수마감",
-   "reg": "2026.5.4 ~ 2026.10.15",
+   "status": "접수중",
+   "reg": "2026.5.4 ~ 2026.10.31",
    "url": "http://www.cuk-sports.com/",
    "note": null,
    "src": "roadrun",
@@ -1882,7 +1857,7 @@
    "date": "2026-11-21",
    "loc": "부산 대저생태공원 굿피플",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.16 ~ 2026.10.16",
    "url": "http://giverun.kr",
    "note": null,
@@ -2054,6 +2029,19 @@
    "status": "접수마감",
    "reg": "2026.9.9 ~ 2026.9.30",
    "url": "http://krun.or.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 착한서구 공부방 기부앤런",
+   "cat": "road",
+   "date": "2026-11-28",
+   "loc": "영산강 자전거길(극락교~서창교 전남광주통합특별시 서구",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.10.15 ~ 2026.11.17",
+   "url": "http://기부앤런.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
