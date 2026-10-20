@@ -1,8 +1,8 @@
 {
- "lastUpdated": "2026-10-20 09:08",
+ "lastUpdated": "2026-10-21 08:39",
  "sourceLog": {
   "roadrun": "성공 (232건)",
-  "triathlon.or.kr": "성공 (31건)"
+  "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
   {
@@ -60,7 +60,7 @@
    "date": "2026-10-24",
    "loc": "반포한강공원 세빛섬 링크",
    "courses": "6km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.18 ~ 2026.10.20",
    "url": "http://fwr.libertyinnorthkorea.or.kr/2026/#join",
    "note": null,
@@ -380,7 +380,7 @@
    "date": "2026-10-31",
    "loc": "인천 영정구 중산동 하늘구름광 인천광역시걷기협",
    "courses": "하프, 10km, 5km, 8.15km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.1 ~ 2026.10.20",
    "url": "http://icnr.kr",
    "note": null,
@@ -676,7 +676,7 @@
    "date": "2026-11-07",
    "loc": "담양추성경기장 담양마라톤클럽",
    "courses": "5km, 8km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.20 ~ 2026.10.20",
    "url": "http://www.metarun.kr",
    "note": null,
@@ -702,7 +702,7 @@
    "date": "2026-11-07",
    "loc": "엑스포다리 인근 (주)러닝브레이커,전국러닝협회",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.2 ~ 2026.10.20",
    "url": "http://runten.co.kr",
    "note": null,
@@ -1248,7 +1248,7 @@
    "date": "2026-11-15",
    "loc": "미정 (예년 11월 중순)",
    "courses": "예년 풀/하프/10K/5K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://www.sonkeechungrun.com/",
    "note": "요강 준비중",
@@ -1456,7 +1456,7 @@
    "date": "2026-11-15",
    "loc": "상주시민운동장 전국마라톤협회",
    "courses": "풀, 하프, 10km, 4.4km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.5.6 ~ 2026.10.20",
    "url": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb",
    "note": null,
@@ -1586,8 +1586,8 @@
    "date": "2026-11-21",
    "loc": "남해공설운동장 주식회사 락앤런",
    "courses": "풀, 30km, 12km",
-   "status": "접수마감",
-   "reg": "2026.8.10 ~ 2026.10.15",
+   "status": "접수중",
+   "reg": "2026.8.10 ~ 2026.11.15",
    "url": "http://rocknrun.kr",
    "note": null,
    "src": "roadrun",
@@ -1994,7 +1994,7 @@
    "url": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
    "note": null,
    "src": "roadrun",
-   "justOpened": true
+   "justOpened": false
   },
   {
    "name": "제20회 양산전국하프마라톤",
@@ -2002,7 +2002,7 @@
    "date": "2026-12-06",
    "loc": "양산종합운동장 양산시체육회, 양산육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.1 ~ 2026.10.20",
    "url": "http://ysmarathon.kr",
    "note": null,
