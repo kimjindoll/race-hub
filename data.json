@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-19 07:50",
+ "lastUpdated": "2026-10-20 09:08",
  "sourceLog": {
-  "roadrun": "성공 (231건)",
+  "roadrun": "성공 (232건)",
   "triathlon.or.kr": "성공 (31건)"
  },
  "events": [
@@ -534,8 +534,8 @@
    "date": "2026-11-01",
    "loc": "반포한강공원 달빛광장 법률신문",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.9.21 ~ 2026.10.14",
+   "status": "접수중",
+   "reg": "2026.9.21 ~ 2026.10.21",
    "url": "http://justicerun.kr/",
    "note": null,
    "src": "roadrun",
@@ -936,7 +936,7 @@
    "date": "2026-11-08",
    "loc": "대흥사쉼터 일원 해남군육상연맹",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.13 ~ 2026.10.19",
    "url": "http://haenammarathon.co.kr",
    "note": null,
@@ -1095,6 +1095,19 @@
    "status": "접수마감",
    "reg": "2026.6.15 ~ 2026.7.15",
    "url": "http://k-marathon.or.kr/main.php",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "83타워 업힐런 챌린지",
+   "cat": "road",
+   "date": "2026-11-08",
+   "loc": "+77층 계단 이월드 이월드 / 페스티벌잼",
+   "courses": "1.8Km",
+   "status": "접수중",
+   "reg": "2026.10.19 ~ 2026.10.31",
+   "url": "http://eworld83toweruphillrun.lovable.app/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1976,12 +1989,12 @@
    "date": "2026-12-06",
    "loc": "화순공설운동장 화순군체육회, 화순군육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수예정",
+   "status": "접수중",
    "reg": "2026.10.20 ~ 2026.11.10",
    "url": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
    "note": null,
    "src": "roadrun",
-   "justOpened": false
+   "justOpened": true
   },
   {
    "name": "제20회 양산전국하프마라톤",
