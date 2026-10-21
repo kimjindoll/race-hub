@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-10-21 08:39",
+ "lastUpdated": "2026-10-22 08:55",
  "sourceLog": {
-  "roadrun": "성공 (232건)",
+  "roadrun": "성공 (234건)",
   "triathlon.or.kr": "성공 (30건)"
  },
  "events": [
@@ -534,7 +534,7 @@
    "date": "2026-11-01",
    "loc": "반포한강공원 달빛광장 법률신문",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.21 ~ 2026.10.21",
    "url": "http://justicerun.kr/",
    "note": null,
@@ -884,8 +884,8 @@
    "date": "2026-11-08",
    "loc": "경북도청 천년숲 앞 경상북도, 경상북도체육회",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.9.1 ~ 2026.10.16",
+   "status": "접수중",
+   "reg": "2026.9.1 ~ 2026.10.25",
    "url": "http://1004.tbc.co.kr/",
    "note": null,
    "src": "roadrun",
@@ -1248,7 +1248,7 @@
    "date": "2026-11-15",
    "loc": "미정 (예년 11월 중순)",
    "courses": "예년 풀/하프/10K/5K",
-   "status": "접수마감",
+   "status": "접수중",
    "reg": null,
    "url": "https://www.sonkeechungrun.com/",
    "note": "요강 준비중",
@@ -1391,7 +1391,7 @@
    "date": "2026-11-15",
    "loc": "여의도한강공원 물빛무대앞광장 빗썸나눔 & 이투데이",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.6 ~ 2026.10.21",
    "url": "http://bithumbnanumrun.com",
    "note": null,
@@ -1625,7 +1625,7 @@
    "date": "2026-11-21",
    "loc": "여의도공원 문화의마당 서울신문/ 아식스",
    "courses": "하프, 10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.1 ~ 2026.10.21",
    "url": "http://gofree.seoul.co.kr/",
    "note": null,
@@ -2114,6 +2114,19 @@
    "justOpened": false
   },
   {
+   "name": "2026 성남 헤리티지 런",
+   "cat": "road",
+   "date": "2026-12-12",
+   "loc": "탄천종합운동장 채널A",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.10.21 ~ 2026.11.20",
+   "url": "http://charun.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제2회 일자산TRAL RUNNING",
    "cat": "trail",
    "date": "2026-12-13",
@@ -2148,6 +2161,19 @@
    "status": "접수마감",
    "reg": "2026.9.14 ~ 2026.9.14",
    "url": "http://www.jinma.co.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 시즌마감마라톤대회",
+   "cat": "road",
+   "date": "2026-12-13",
+   "loc": "인천아사이드 경기장 북측 광장 기호일보, 로드스포츠",
+   "courses": "하프, 10km, 5km",
+   "status": "접수중",
+   "reg": "2026.10.20 ~ 2026.11.23",
+   "url": "http://42195race.com/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -2192,13 +2218,13 @@
    "justOpened": false
   },
   {
-   "name": "2026 한강런 준비중",
+   "name": "2026 한강런 (대회취소)",
    "cat": "road",
    "date": "2026-12-28",
    "loc": "안양천다목적광장 한강런(주)",
    "courses": "10km, 5km",
-   "status": "접수중",
-   "reg": "2026.9.20 ~ 2026.12.12",
+   "status": "접수마감",
+   "reg": "2026.9.20 ~ 2026.10.15",
    "url": "http://hgrun.kr",
    "note": null,
    "src": "roadrun",
