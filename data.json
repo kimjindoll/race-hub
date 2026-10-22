@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22 08:55",
+ "lastUpdated": "2026-10-23 08:54",
  "sourceLog": {
   "roadrun": "성공 (234건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -404,10 +404,10 @@
    "name": "마블런 2026",
    "cat": "road",
    "date": "2026-10-31",
-   "loc": "인제스피디움 원유니버스",
+   "loc": "인제스피디움 원유니버스스튜디오",
    "courses": "10km, 5km, 2.3km",
-   "status": "접수마감",
-   "reg": "2026.9.22 ~ 2026.10.12",
+   "status": "접수중",
+   "reg": "2026.9.22 ~ 2026.10.26",
    "url": "http://marvelrunkorea2026.com/",
    "note": null,
    "src": "roadrun",
