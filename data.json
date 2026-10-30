@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29 09:40",
+ "lastUpdated": "2026-10-30 09:39",
  "sourceLog": {
   "roadrun": "성공 (237건)",
   "triathlon.or.kr": "성공 (30건)"
@@ -938,7 +938,7 @@
    "name": "2026 연수구청장배 송도 WALK & RUN",
    "cat": "road",
    "date": "2026-11-15",
-   "loc": "WALK WALK 국립인천대학교 송도캠퍼스 정문 인천광역시연수구걷기협회",
+   "loc": "WALK WALK 송도달빛공원 인천광역시연수구걷기협회",
    "courses": "하프, 10km, 5km",
    "status": "접수중",
    "reg": "2026.10.9 ~ 2026.11.8",
@@ -1070,8 +1070,8 @@
    "date": "2026-11-15",
    "loc": "여의도한강공원 물빛무대앞광장 빗썸나눔 & 이투데이",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.10.6 ~ 2026.10.27",
+   "status": "접수중",
+   "reg": "2026.10.6 ~ 2026.11.9",
    "url": "http://bithumbnanumrun.com",
    "note": null,
    "src": "roadrun",
