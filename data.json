@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03 11:46",
+ "lastUpdated": "2026-11-04 10:04",
  "sourceLog": {
   "roadrun": "성공 (131건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -632,7 +632,7 @@
    "date": "2026-11-14",
    "loc": "영일대해상누각 kthcn",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.13 ~ 2026.11.3",
    "url": "http://pohangmarathon.com/",
    "note": null,
@@ -1113,8 +1113,8 @@
    "date": "2026-11-22",
    "loc": "(영등포) 영롱이 억새구장 세계일보, (사)한국마라톤연맹",
    "courses": "풀, 하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.20 ~ 2026.11.2",
+   "status": "접수중",
+   "reg": "2026.8.20 ~ 2026.11.16",
    "url": "http://ssrun.kr/",
    "note": null,
    "src": "roadrun",
@@ -1256,7 +1256,7 @@
    "date": "2026-11-29",
    "loc": "원주종합운동장 강원도민일보, 원주시육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.17 ~ 2026.11.3",
    "url": "http://wonju.raceplan.co.kr/",
    "note": null,
