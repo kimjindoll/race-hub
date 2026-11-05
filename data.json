@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04 10:04",
+ "lastUpdated": "2026-11-05 10:19",
  "sourceLog": {
   "roadrun": "성공 (131건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -406,7 +406,7 @@
    "justOpened": false
   },
   {
-   "name": "제20회 자원봉사 사랑 굿펀 마라톤(취소)",
+   "name": "제20회 자원봉사 사랑 굿펀 마라톤",
    "cat": "road",
    "date": "2026-11-08",
    "loc": "신정교하부육상트랙구장 (사)대한생활체육마라톤협회",
@@ -658,7 +658,7 @@
    "date": "2026-11-15",
    "loc": "미정 (예년 11월 중순)",
    "courses": "예년 풀/하프/10K/5K",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": null,
    "url": "https://www.sonkeechungrun.com/",
    "note": "요강 준비중",
@@ -1173,6 +1173,19 @@
    "justOpened": false
   },
   {
+   "name": "목욕런 2026",
+   "cat": "road",
+   "date": "2026-11-28",
+   "loc": "월드컵공원 평화의 광장 사우나 민족",
+   "courses": "10km, 5km",
+   "status": "접수마감",
+   "reg": "2026.10.28 ~ 2026.11.9",
+   "url": "http://mokyokrun.shop",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "2026 착한서구 공부방 기부앤런",
    "cat": "road",
    "date": "2026-11-28",
@@ -1181,6 +1194,19 @@
    "status": "접수중",
    "reg": "2026.10.15 ~ 2026.11.17",
    "url": "http://기부앤런.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 SPOTV NIGHT RUN",
+   "cat": "road",
+   "date": "2026-11-28",
+   "loc": "코스,코스,패밀리런 렛츠런파크 서울 SPOTV, 한국마사회",
+   "courses": null,
+   "status": "접수중",
+   "reg": "2026.11.1 ~ 2026.11.15",
+   "url": "http://spotvrun.co.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1207,19 +1233,6 @@
    "status": "접수마감",
    "reg": "2026.7.7 ~ 2026.10.25",
    "url": "http://mara1080.com/event/c2cec79b-c38a-4832-bf4f-7ecb499cdcd5/guide/overview",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "목욕런 2026",
-   "cat": "road",
-   "date": "2026-11-28",
-   "loc": "월드컵공원 평화의 광장 사우나 민족",
-   "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.8.10 ~ 2026.8.30",
-   "url": "http://mokyokrun.shop",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -1537,19 +1550,6 @@
    "justOpened": false
   },
   {
-   "name": "제3회 긍정의힘 마라톤",
-   "cat": "road",
-   "date": "2026-12-12",
-   "loc": "신정교 하부 영롱이 억새구장 (사)한국유튜브방송협회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.30 ~ 2026.12.6",
-   "url": "http://www.powerrun.kr/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
    "name": "2026 ONE MORE RUN",
    "cat": "road",
    "date": "2026-12-12",
@@ -1589,6 +1589,19 @@
    "justOpened": false
   },
   {
+   "name": "2026이순신런페스타",
+   "cat": "road",
+   "date": "2026-12-13",
+   "loc": "아산신정호국민관광지야외음악당 (사)이순신백의종군길마라톤",
+   "courses": "6.4km",
+   "status": "접수중",
+   "reg": "2026.11.3 ~ 2026.12.2",
+   "url": "http://yssmarathon.com",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
    "name": "제5회 밤섬 마라톤",
    "cat": "road",
    "date": "2026-12-13",
@@ -1623,32 +1636,6 @@
    "status": "접수중",
    "reg": "2026.10.20 ~ 2026.11.23",
    "url": "http://42195race.com/",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "제2회 청춘 릴레이 마라톤",
-   "cat": "road",
-   "date": "2026-12-19",
-   "loc": "상암월드컵공원 평화의광장 (사)재한다문화총연합회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.12 ~ 2026.12.9",
-   "url": "http://youngrun.kr",
-   "note": null,
-   "src": "roadrun",
-   "justOpened": false
-  },
-  {
-   "name": "2026 코리아 시즌 레이스",
-   "cat": "road",
-   "date": "2026-12-26",
-   "loc": "상암월드컵공원 평화광장 (사)한국경비원협회중앙회",
-   "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.8.25 ~ 2026.12.16",
-   "url": "http://k-run.kr",
    "note": null,
    "src": "roadrun",
    "justOpened": false
