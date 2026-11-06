@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05 10:19",
+ "lastUpdated": "2026-11-06 10:24",
  "sourceLog": {
   "roadrun": "성공 (131건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -35,7 +35,7 @@
    "date": "2026-11-06",
    "loc": "개인,단체전,지역학생대회 경북문경시민운동장(시내일원) 문경시육상연맹",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.10 ~ 2026.11.5",
    "url": "http://cafe.daum.net/seobongmarathon",
    "note": null,
@@ -1061,7 +1061,7 @@
    "date": "2026-11-22",
    "loc": "100m,200m 대구스타디움 대구광역시체육회",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.15 ~ 2026.11.5",
    "url": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722",
    "note": null,
@@ -1491,7 +1491,7 @@
    "loc": "상암동 평화의공원 평화광장 런앤런",
    "courses": "10km, 5km",
    "status": "접수중",
-   "reg": "2026.9.9 ~ 2026.11.8",
+   "reg": "2026.9.9 ~ 2026.11.22",
    "url": "http://www.youthrun.co.kr",
    "note": null,
    "src": "roadrun",
