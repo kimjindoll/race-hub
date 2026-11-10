@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-11-09 09:36",
+ "lastUpdated": "2026-11-10 12:14",
  "sourceLog": {
-  "roadrun": "성공 (131건)",
+  "roadrun": "성공 (132건)",
   "triathlon.or.kr": "성공 (29건)"
  },
  "events": [
@@ -295,7 +295,7 @@
    "date": "2026-11-15",
    "loc": "여의도한강공원 물빛무대앞광장 빗썸나눔 & 이투데이",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.6 ~ 2026.11.9",
    "url": "http://bithumbnanumrun.com",
    "note": null,
@@ -1026,6 +1026,19 @@
    "status": "접수마감",
    "reg": "2026.8.18 ~ 2026.11.6",
    "url": "http://gibukidsrun.kr",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "화성레이스",
+   "cat": "road",
+   "date": "2026-12-12",
+   "loc": "봉담2생태체육공원 화성시러닝크루연맹",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.11.4 ~ 2026.11.14",
+   "url": "http://hwaseongrace.com",
    "note": null,
    "src": "roadrun",
    "justOpened": false
