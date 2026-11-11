@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10 12:14",
+ "lastUpdated": "2026-11-11 10:04",
  "sourceLog": {
   "roadrun": "성공 (132건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -568,8 +568,8 @@
    "date": "2026-11-22",
    "loc": "이어달리기16키로 부산시내 중앙로구덕운동장~초읍 (사)부산항일학생의거기념",
    "courses": null,
-   "status": "접수중",
-   "reg": "2026.10.13 ~ 2026.11.10",
+   "status": "접수마감",
+   "reg": "2026.10.13 ~ 2026.11.9",
    "url": "http://i1123.org",
    "note": null,
    "src": "roadrun",
@@ -919,7 +919,7 @@
    "date": "2026-12-06",
    "loc": "화순공설운동장 화순군체육회, 화순군육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.20 ~ 2026.11.10",
    "url": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
    "note": null,
