@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11 10:04",
+ "lastUpdated": "2026-11-12 11:08",
  "sourceLog": {
   "roadrun": "성공 (132건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -425,7 +425,7 @@
    "date": "2026-11-15",
    "loc": "수서역 7번출구광장 (사)한국산악마라톤연맹",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.4.1 ~ 2026.11.11",
    "url": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline",
    "note": null,
@@ -750,7 +750,7 @@
    "date": "2026-11-29",
    "loc": "중곡동 중랑천 물놀이장 옆 광진구체육회(광진구육상연맹)",
    "courses": "10km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.9.28 ~ 2026.11.11",
    "url": "http://ksgaaf.co.kr/",
    "note": null,
@@ -1049,8 +1049,8 @@
    "date": "2026-12-12",
    "loc": "영종구 씨사이드파크 일원 새마펄스",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
-   "reg": "2026.9.14 ~ 2026.11.20",
+   "status": "접수마감",
+   "reg": "2026.9.14 ~ 2026.11.10",
    "url": "http://www.omrun.co.kr",
    "note": null,
    "src": "roadrun",
