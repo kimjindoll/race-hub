@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17 12:27",
+ "lastUpdated": "2026-11-18 11:45",
  "sourceLog": {
   "roadrun": "성공 (132건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -282,7 +282,7 @@
    "date": "2026-11-28",
    "loc": "영산강 자전거길(극락교~서창교 전남광주통합특별시 서구",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.15 ~ 2026.11.17",
    "url": "http://기부앤런.kr",
    "note": null,
@@ -334,8 +334,8 @@
    "date": "2026-11-29",
    "loc": "서울 성북구 석관동 서울육상연맹",
    "courses": "하프, 10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.9.22 ~ 2026.11.15",
+   "status": "접수중",
+   "reg": "2026.9.22 ~ 2026.11.29",
    "url": "http://seoulloverun.com",
    "note": null,
    "src": "roadrun",
