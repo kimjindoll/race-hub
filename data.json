@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-11-18 11:45",
+ "lastUpdated": "2026-11-19 11:19",
  "sourceLog": {
-  "roadrun": "성공 (132건)",
+  "roadrun": "성공 (134건)",
   "triathlon.or.kr": "성공 (29건)"
  },
  "events": [
@@ -155,6 +155,19 @@
    "status": "접수마감",
    "reg": "2026.10.15 ~ 2026.11.5",
    "url": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "마르 백야드울트라6",
+   "cat": "road",
+   "date": "2026-11-22",
+   "loc": "루프 제주시 월각로 783 (주)마르어드벤처",
+   "courses": "풀, 하프, 10km, 5km, 6.704km",
+   "status": "접수중",
+   "reg": "2026.11.1 ~ 2026.11.20",
+   "url": "http://events.maar-adv.com/backyardultra",
    "note": null,
    "src": "roadrun",
    "justOpened": false
@@ -371,7 +384,7 @@
    "name": "가야왕도 김해 전국어울림 마라톤대회",
    "cat": "road",
    "date": "2026-11-29",
-   "loc": "롯데워터파크 제3주차장 김해시장애인육상연맹",
+   "loc": "가동교차로 (경남 김해시 한림면 가동리) 김해시장애인육상연맹",
    "courses": "하프, 10km, 5km",
    "status": "접수마감",
    "reg": "2026.8.13 ~ 2026.10.25",
@@ -480,6 +493,19 @@
    "status": "접수중",
    "reg": "2026.8.31 ~ 2026.11.25",
    "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026 유관순 평화 마라톤",
+   "cat": "road",
+   "date": "2026-12-05",
+   "loc": "천안 독립기념관 겨레의 큰 마 천안시체육회, 대전일보사",
+   "courses": "10km, 5km",
+   "status": "접수중",
+   "reg": "2026.11.17 ~ 2026.11.23",
+   "url": "http://ryugwansun.co.kr/",
    "note": null,
    "src": "roadrun",
    "justOpened": false
