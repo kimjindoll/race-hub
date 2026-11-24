@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23 10:26",
+ "lastUpdated": "2026-11-24 14:09",
  "sourceLog": {
   "roadrun": "성공 (134건)",
   "triathlon.or.kr": "성공 (29건)"
@@ -256,7 +256,7 @@
    "date": "2026-12-05",
    "loc": "천안 독립기념관 겨레의 큰 마 천안시체육회, 대전일보사",
    "courses": "10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.11.17 ~ 2026.11.23",
    "url": "http://ryugwansun.co.kr/",
    "note": null,
@@ -321,8 +321,8 @@
    "date": "2026-12-06",
    "loc": "정서진 아라타워 인천광역시육상연맹",
    "courses": "하프, 10km",
-   "status": "접수마감",
-   "reg": "2026.8.14 ~ 2026.11.20",
+   "status": "접수중",
+   "reg": "2026.8.14 ~ 2026.11.30",
    "url": "http://roadracing.co.kr/",
    "note": null,
    "src": "roadrun",
@@ -516,7 +516,7 @@
    "date": "2026-12-13",
    "loc": "인천아사이드 경기장 북측 광장 기호일보, 로드스포츠",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.10.20 ~ 2026.11.23",
    "url": "http://42195race.com/",
    "note": null,
