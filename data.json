@@ -1,7 +1,7 @@
 {
- "lastUpdated": "2026-11-25 12:58",
+ "lastUpdated": "2026-11-26 12:23",
  "sourceLog": {
-  "roadrun": "성공 (134건)",
+  "roadrun": "성공 (135건)",
   "triathlon.or.kr": "성공 (29건)"
  },
  "events": [
@@ -243,7 +243,7 @@
    "date": "2026-12-05",
    "loc": "금산세계인삼엑스포광장 전국마라톤협회",
    "courses": "하프, 10km, 5km",
-   "status": "접수중",
+   "status": "접수마감",
    "reg": "2026.8.31 ~ 2026.11.25",
    "url": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
    "note": null,
@@ -438,8 +438,8 @@
    "date": "2026-12-12",
    "loc": "탄천종합운동장 채널A",
    "courses": "10km, 5km",
-   "status": "접수마감",
-   "reg": "2026.10.21 ~ 2026.11.20",
+   "status": "접수중",
+   "reg": "2026.10.21 ~ 2026.12.1",
    "url": "http://charun.co.kr",
    "note": null,
    "src": "roadrun",
@@ -519,6 +519,19 @@
    "status": "접수마감",
    "reg": "2026.10.20 ~ 2026.11.23",
    "url": "http://42195race.com/",
+   "note": null,
+   "src": "roadrun",
+   "justOpened": false
+  },
+  {
+   "name": "2026금산 송년 무료 초청 마라톤 축제",
+   "cat": "road",
+   "date": "2026-12-19",
+   "loc": "금산세계인삼엑스포주차장 전국마라톤협회",
+   "courses": "풀, 10km, 4km, 20km",
+   "status": "접수중",
+   "reg": "2026.11.24 ~ 2026.12.11",
+   "url": "http://mara1080.com/event/6397382b-be8d-4aee-b724-68f9fad03f29",
    "note": null,
    "src": "roadrun",
    "justOpened": false
